@@ -25,6 +25,11 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt   # noqa: E402
 
+# embed TrueType outlines instead of Type 3 bitmap-procedure fonts, which
+# camera-ready pipelines flag and which render poorly at print resolution
+matplotlib.rcParams["pdf.fonttype"] = 42
+matplotlib.rcParams["ps.fonttype"] = 42
+
 _HERE = os.path.dirname(__file__)
 _RES = os.path.join(_HERE, "..", "results")
 _PAPER = os.path.join(_HERE, "..", "paper")

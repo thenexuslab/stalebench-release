@@ -363,6 +363,15 @@ def main() -> None:
                 _gaps.append(abs(_c["alias-key(skip)"]["summary"]["current@1"]
                                  - _c["alias-key(recent)"]["summary"]["current@1"]))
     add("aliasSkipRecentMaxGap", f"{100 * max(_gaps):.1f}")
+    # how many model calls the shipped cache holds, split by where they ran: a
+    # hand-typed count went stale as tracks were added, so the paper reads it
+    # from the manifest
+    _lc = relman.get("llm_cache", {})
+    if _lc.get("entries"):
+        _local = sum(v for k, v in _lc.get("by_model", {}).items() if ":" in k and "/" not in k)
+        add("llmCacheEntries", f"{_lc['entries']:,}")
+        add("llmCacheLocal", f"{_local:,}")
+        add("llmCacheHosted", f"{_lc['entries'] - _local:,}")
     tb = relman.get("trivial_baselines", {})
     for cfg, tag in [("anchored", "Anchored"), ("anchor_free", "AnchorFree"),
                      ("full_corpus", "Full"),
@@ -1017,8 +1026,8 @@ def main() -> None:
                     f"{_g['n_memories_held']} memories it holds and ranks none "
                     f"of them the one the embedder scores first")
             if not _g.get("actions_ok"):
-                _modes.append("one silently drops every write while still "
-                              "persisting some of them")
+                _modes.append("one records no decision for any write while "
+                              "still persisting some of them")
         # a write gate that passes only shows the system *recorded* decisions;
         # on a failing read gate those decisions were taken against the wrong
         # candidates, so the counts are not comparable across backends
@@ -2596,6 +2605,9 @@ def main() -> None:
             _orc = cc.get("keep-latest-oracle", {}).get("summary", {}).get("current@1")
             if _orc is not None:
                 add(f"{tag}GapToOracle{ctag}", f"{100 * (_orc - s_['current@1']):.1f}")
+                _nq = (dd.get("config") or {}).get("n_test_facts")
+                if _nq:
+                    add(f"{tag}GapQueries{ctag}", str(round((_orc - s_['current@1']) * _nq)))
             if g.get("n_llm_calls"):
                 add(f"{tag}CallsPerStmt{ctag}", f"{g['n_llm_calls'] / g['n_add_calls']:.1f}")
             rd = None

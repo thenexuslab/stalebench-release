@@ -56,8 +56,9 @@ Findings:
    instead of the full name, the gazetteer keyer falls 65.8 points short of the
    oracle and embedding-threshold keying 31.4. Entity resolution applied to both
    the write path and the query recovers most of the loss.
-5. **Deployed systems each handle supersession differently**, and scoring any
-   of them by a single convention misdescribes it (150-fact subsample, anchored):
+5. **Three deployed systems and a reimplemented ERASE each handle supersession
+   differently**, and scoring any of them by a single convention misdescribes it
+   (150-fact subsample, anchored):
 
 | system | current@1 by id | by text | contam@5 | reader |
 |---|---|---|---|---|
