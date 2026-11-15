@@ -1,0 +1,19 @@
+{
+ "lib_version": "0.1.118",
+ "adjudicates_on_add": true,
+ "n_statements": 2,
+ "events": {
+  "ADD": 1,
+  "UPDATE": 1
+ },
+ "slots": 1,
+ "ranking": [
+  "f0:1"
+ ],
+ "rank1_is_current": true,
+ "query": "Which team does Peter Sagan currently play for?",
+ "stream": [
+  "Peter Sagan plays for Bora-Hansgrohe.",
+  "Peter Sagan plays for TotalEnergies."
+ ]
+}

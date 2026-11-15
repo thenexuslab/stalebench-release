@@ -1,0 +1,21 @@
+{
+ "config": {
+  "paraphrase_p": 0.5,
+  "fuzzy_tau": 0.2,
+  "n_test_facts": 468
+ },
+ "by_alias": {
+  "alias_p=0.0": {
+   "n_queries": 468,
+   "rank1_agree": 468,
+   "rank1_agree_frac": 1.0,
+   "exactly_controlled": true
+  },
+  "alias_p=1.0": {
+   "n_queries": 468,
+   "rank1_agree": 467,
+   "rank1_agree_frac": 0.9978632478632479,
+   "exactly_controlled": false
+  }
+ }
+}

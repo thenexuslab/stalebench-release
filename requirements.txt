@@ -1,0 +1,2 @@
+numpy
+# real-data track (M1+): sentence-transformers, datasets, requests (Wikidata/TempLAMA)

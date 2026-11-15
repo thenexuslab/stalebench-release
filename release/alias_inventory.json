@@ -1,0 +1,5595 @@
+{
+ "alias_to_subjects": {
+  "1. FC Tatran": [
+   "1. FC Tatran Prešov"
+  ],
+  "A. Abdul-Mahdi": [
+   "Adil Abdul-Mahdi"
+  ],
+  "A. Adams": [
+   "Amy Adams"
+  ],
+  "A. Ammas": [
+   "Andres Ammas"
+  ],
+  "A. Bachand": [
+   "André Bachand"
+  ],
+  "A. Breggen": [
+   "Anna van der Breggen"
+  ],
+  "A. Brown": [
+   "Anthony G. Brown"
+  ],
+  "A. Contador": [
+   "Alberto Contador"
+  ],
+  "A. Cuomo": [
+   "Andrew Cuomo"
+  ],
+  "A. Davda": [
+   "Avani Saglani Davda"
+  ],
+  "A. Dodds": [
+   "Anneliese Dodds"
+  ],
+  "A. Dutton": [
+   "Andrea Dutton"
+  ],
+  "A. Fotouh": [
+   "Abdel Moneim Aboul Fotouh"
+  ],
+  "A. Glaser": [
+   "Albrecht Glaser"
+  ],
+  "A. Grigorian": [
+   "Asmik Grigorian"
+  ],
+  "A. Hammond": [
+   "Aleqa Hammond"
+  ],
+  "A. Harutyunyan": [
+   "Arayik Harutyunyan"
+  ],
+  "A. Helm": [
+   "Anne Helm"
+  ],
+  "A. Herkel": [
+   "Andres Herkel"
+  ],
+  "A. Holding": [
+   "Andrew Holding"
+  ],
+  "A. Hussain": [
+   "Aamir Hussain"
+  ],
+  "A. Josh": [
+   "Adesewa Josh"
+  ],
+  "A. Judge": [
+   "Aaron Judge"
+  ],
+  "A. Jugnauth": [
+   "Anerood Jugnauth"
+  ],
+  "A. Maldeikienė": [
+   "Aušra Maldeikienė"
+  ],
+  "A. Mandavilli": [
+   "Apoorva Mandavilli"
+  ],
+  "A. McGrath": [
+   "Amy McGrath"
+  ],
+  "A. McKenna": [
+   "Alistair McKenna"
+  ],
+  "A. Mooney": [
+   "Alex X. Mooney"
+  ],
+  "A. Nitzan": [
+   "Abraham Nitzan"
+  ],
+  "A. Oliveres": [
+   "Antoni Comín i Oliveres"
+  ],
+  "A. Ortiz": [
+   "Abdalá Bucaram Ortiz"
+  ],
+  "A. Peterson": [
+   "Adrian Peterson"
+  ],
+  "A. Petsalis-Diomidis": [
+   "Alexia Petsalis-Diomidis"
+  ],
+  "A. Pugacheva": [
+   "Alla Pugacheva"
+  ],
+  "A. Robb": [
+   "AnnaSophia Robb"
+  ],
+  "A. Rodriguez": [
+   "Amy Rodriguez"
+  ],
+  "A. Roth": [
+   "Alvin Eliot Roth"
+  ],
+  "A. Sadovyi": [
+   "Andriy Sadovyi"
+  ],
+  "A. Slaughter": [
+   "Anne-Marie Slaughter"
+  ],
+  "A. Smith": [
+   "Alex Smith"
+  ],
+  "A. Tolley": [
+   "Anne Tolley"
+  ],
+  "A. Tomljanović": [
+   "Ajla Tomljanović"
+  ],
+  "A. Umer": [
+   "Asad Umer"
+  ],
+  "A. Wong": [
+   "Ayman Rashdan Wong"
+  ],
+  "A. Zadić": [
+   "Alma Zadić"
+  ],
+  "A.C": [
+   "A.C. Pisa 1909"
+  ],
+  "A.C. Pisa": [
+   "A.C. Pisa 1909"
+  ],
+  "A.S": [
+   "A.S. Nancy-Lorraine"
+  ],
+  "AEK": [
+   "AEK Larnaca F.C."
+  ],
+  "AEK Larnaca": [
+   "AEK Larnaca F.C."
+  ],
+  "ASU": [
+   "ASU Politehnica Timișoara"
+  ],
+  "ASU Politehnica": [
+   "ASU Politehnica Timișoara"
+  ],
+  "Aamir": [
+   "Aamir Hussain"
+  ],
+  "Aaron": [
+   "Aaron Judge"
+  ],
+  "Abbate": [
+   "Carolyn Abbate"
+  ],
+  "Abdalá": [
+   "Abdalá Bucaram Ortiz"
+  ],
+  "Abdalá Bucaram": [
+   "Abdalá Bucaram Ortiz"
+  ],
+  "Abdel": [
+   "Abdel Moneim Aboul Fotouh"
+  ],
+  "Abdel Moneim Aboul": [
+   "Abdel Moneim Aboul Fotouh"
+  ],
+  "Abdul-Mahdi": [
+   "Adil Abdul-Mahdi"
+  ],
+  "Abi-Elias": [
+   "Sandy Abi-Elias"
+  ],
+  "Abraham": [
+   "Abraham Nitzan"
+  ],
+  "Adams": [
+   "Amy Adams"
+  ],
+  "Adesewa": [
+   "Adesewa Josh"
+  ],
+  "Adil": [
+   "Adil Abdul-Mahdi"
+  ],
+  "Adrian": [
+   "Adrian Peterson"
+  ],
+  "Aguilar": [
+   "Pete Aguilar"
+  ],
+  "Ajla": [
+   "Ajla Tomljanović"
+  ],
+  "Akşener": [
+   "Meral Akşener"
+  ],
+  "Al-Nashif": [
+   "Nada Al-Nashif"
+  ],
+  "Albertini": [
+   "Gabriele Albertini"
+  ],
+  "Alberto": [
+   "Alberto Contador"
+  ],
+  "Albrecht": [
+   "Albrecht Glaser"
+  ],
+  "Aleqa": [
+   "Aleqa Hammond"
+  ],
+  "Alex": [
+   "Alex Smith",
+   "Alex X. Mooney"
+  ],
+  "Alexia": [
+   "Alexia Petsalis-Diomidis"
+  ],
+  "Alfred": [
+   "Alfred P. Sloan Foundation"
+  ],
+  "Alfred P. Sloan": [
+   "Alfred P. Sloan Foundation"
+  ],
+  "Alistair": [
+   "Alistair McKenna"
+  ],
+  "Alla": [
+   "Alla Pugacheva"
+  ],
+  "Alliance": [
+   "Alliance of Small Island States"
+  ],
+  "Alliance of Small Island": [
+   "Alliance of Small Island States"
+  ],
+  "Allsop": [
+   "James Allsop"
+  ],
+  "Alma": [
+   "Alma Zadić"
+  ],
+  "Alonso": [
+   "Fernando Alonso"
+  ],
+  "Altmaier": [
+   "Peter Altmaier"
+  ],
+  "Altshuler": [
+   "David Altshuler"
+  ],
+  "Alvin": [
+   "Alvin Eliot Roth"
+  ],
+  "Alvin Eliot": [
+   "Alvin Eliot Roth"
+  ],
+  "Amash": [
+   "Justin Amash"
+  ],
+  "Ammas": [
+   "Andres Ammas"
+  ],
+  "Amy": [
+   "Amy Adams",
+   "Amy McGrath",
+   "Amy Rodriguez"
+  ],
+  "Andrea": [
+   "Andrea Dutton"
+  ],
+  "Andres": [
+   "Andres Ammas",
+   "Andres Herkel"
+  ],
+  "Andrew": [
+   "Andrew Cuomo",
+   "Andrew Holding",
+   "Andrew Y. Ng"
+  ],
+  "Andrews": [
+   "Chris Andrews"
+  ],
+  "Andriy": [
+   "Andriy Sadovyi"
+  ],
+  "André": [
+   "André Bachand"
+  ],
+  "Anerood": [
+   "Anerood Jugnauth"
+  ],
+  "Anna": [
+   "Anna van der Breggen"
+  ],
+  "AnnaSophia": [
+   "AnnaSophia Robb"
+  ],
+  "Anne": [
+   "Anne Helm",
+   "Anne Tolley"
+  ],
+  "Anne-Marie": [
+   "Anne-Marie Slaughter"
+  ],
+  "Anneliese": [
+   "Anneliese Dodds"
+  ],
+  "Anorthosis": [
+   "Anorthosis Famagusta FC"
+  ],
+  "Anorthosis Famagusta": [
+   "Anorthosis Famagusta FC"
+  ],
+  "Anthony": [
+   "Anthony G. Brown"
+  ],
+  "Antoni": [
+   "Antoni Comín i Oliveres"
+  ],
+  "Apollon": [
+   "Apollon Limassol FC"
+  ],
+  "Apollon Limassol": [
+   "Apollon Limassol FC"
+  ],
+  "Apoorva": [
+   "Apoorva Mandavilli"
+  ],
+  "Arayik": [
+   "Arayik Harutyunyan"
+  ],
+  "Arca": [
+   "Julio Arca"
+  ],
+  "Aris": [
+   "Aris Limassol F.C."
+  ],
+  "Aris Limassol": [
+   "Aris Limassol F.C."
+  ],
+  "Arka": [
+   "Arka Gdynia"
+  ],
+  "Asad": [
+   "Asad Umer"
+  ],
+  "Asmik": [
+   "Asmik Grigorian"
+  ],
+  "Associazione": [
+   "Associazione Calcio Milan"
+  ],
+  "Associazione Calcio": [
+   "Associazione Calcio Milan"
+  ],
+  "Atger": [
+   "Stéphanie Atger"
+  ],
+  "Aušra": [
+   "Aušra Maldeikienė"
+  ],
+  "Avani": [
+   "Avani Saglani Davda"
+  ],
+  "Avani Saglani": [
+   "Avani Saglani Davda"
+  ],
+  "Avermaet": [
+   "Greg Van Avermaet"
+  ],
+  "Ayman": [
+   "Ayman Rashdan Wong"
+  ],
+  "Ayman Rashdan": [
+   "Ayman Rashdan Wong"
+  ],
+  "B. Barba": [
+   "Ben Barba"
+  ],
+  "B. Blasio": [
+   "Bill de Blasio"
+  ],
+  "B. Collins": [
+   "Bernadette Collins"
+  ],
+  "B. Cupich": [
+   "Blase J. Cupich"
+  ],
+  "B. Duensing": [
+   "Brian Duensing"
+  ],
+  "B. Essebsi": [
+   "Beji Caid Essebsi"
+  ],
+  "B. Gantz": [
+   "Benny Gantz"
+  ],
+  "B. Grimes": [
+   "Brent Grimes"
+  ],
+  "B. Heckmann": [
+   "Bradlee L Heckmann"
+  ],
+  "B. Hillbillies": [
+   "Billy Hill and the Hillbillies"
+  ],
+  "B. Hoksrud": [
+   "Bård Hoksrud"
+  ],
+  "B. Hyer": [
+   "Bruce Hyer"
+  ],
+  "B. Joyce": [
+   "Barnaby Joyce"
+  ],
+  "B. Kaiser": [
+   "Brittany Kaiser"
+  ],
+  "B. Keating": [
+   "Bill Keating"
+  ],
+  "B. Lawrence": [
+   "Brenda Lawrence"
+  ],
+  "B. Mayfield": [
+   "Baker Mayfield"
+  ],
+  "B. Mehra": [
+   "Bharat Mehra"
+  ],
+  "B. Moldan": [
+   "Bedřich Moldan"
+  ],
+  "B. Poliquin": [
+   "Bruce Poliquin"
+  ],
+  "B. Reed": [
+   "Betsy Reed"
+  ],
+  "B. Rosenthal": [
+   "Brian M. Rosenthal"
+  ],
+  "B. Salih": [
+   "Barham Salih"
+  ],
+  "B. Schölkopf": [
+   "Bernhard Schölkopf"
+  ],
+  "B. Szydło": [
+   "Beata Szydło"
+  ],
+  "B36": [
+   "B36 Tórshavn"
+  ],
+  "Bachand": [
+   "André Bachand"
+  ],
+  "Bacon": [
+   "Don Bacon"
+  ],
+  "Baird": [
+   "Vera Baird"
+  ],
+  "Baker": [
+   "Baker Mayfield"
+  ],
+  "Balafrej": [
+   "Omar Balafrej"
+  ],
+  "Bangor": [
+   "Bangor City F.C."
+  ],
+  "Banks": [
+   "Jim Banks"
+  ],
+  "Barba": [
+   "Ben Barba"
+  ],
+  "Barham": [
+   "Barham Salih"
+  ],
+  "Barletta": [
+   "Lou Barletta"
+  ],
+  "Barnaby": [
+   "Barnaby Joyce"
+  ],
+  "Bass": [
+   "Karen Bass"
+  ],
+  "Basso": [
+   "Ivan Basso"
+  ],
+  "Bates": [
+   "Michael Bates, Baron Bates"
+  ],
+  "Baton": [
+   "Baton Rouge"
+  ],
+  "Bean": [
+   "Martin Bean"
+  ],
+  "Beata": [
+   "Beata Szydło"
+  ],
+  "Beatty": [
+   "Joyce Beatty"
+  ],
+  "Bedřich": [
+   "Bedřich Moldan"
+  ],
+  "Beji": [
+   "Beji Caid Essebsi"
+  ],
+  "Beji Caid": [
+   "Beji Caid Essebsi"
+  ],
+  "Ben": [
+   "Ben Barba"
+  ],
+  "Benjamin": [
+   "Frantz Benjamin"
+  ],
+  "Bennati": [
+   "Daniele Bennati"
+  ],
+  "Bennett": [
+   "Paula Bennett"
+  ],
+  "Benny": [
+   "Benny Gantz"
+  ],
+  "Bergen": [
+   "Bergen Line"
+  ],
+  "Berlusconi": [
+   "Silvio Berlusconi"
+  ],
+  "Bernadette": [
+   "Bernadette Collins"
+  ],
+  "Bernhard": [
+   "Bernhard Schölkopf"
+  ],
+  "Betsy": [
+   "Betsy Reed"
+  ],
+  "Bettel": [
+   "Xavier Bettel"
+  ],
+  "Beyer": [
+   "Don Beyer"
+  ],
+  "Bharat": [
+   "Bharat Mehra"
+  ],
+  "Bianconi": [
+   "Ginestra Bianconi"
+  ],
+  "Biedroń": [
+   "Robert Biedroń"
+  ],
+  "Bill": [
+   "Bill Keating",
+   "Bill de Blasio"
+  ],
+  "Billy": [
+   "Billy Hill and the Hillbillies"
+  ],
+  "Bird": [
+   "Sue Bird"
+  ],
+  "Biti": [
+   "Tendai Biti"
+  ],
+  "Blais": [
+   "Marguerite Blais"
+  ],
+  "Blase": [
+   "Blase J. Cupich"
+  ],
+  "Blasio": [
+   "Bill de Blasio"
+  ],
+  "Blumenthal": [
+   "Richard Blumenthal"
+  ],
+  "Bnei": [
+   "Bnei Yehuda Tel Aviv F.C."
+  ],
+  "Bnei Yehuda Tel Aviv": [
+   "Bnei Yehuda Tel Aviv F.C."
+  ],
+  "Boasson-Hagen": [
+   "Edvald Boasson-Hagen"
+  ],
+  "Boca": [
+   "Boca Juniors"
+  ],
+  "Bock": [
+   "Tan Cheng Bock"
+  ],
+  "Boggs": [
+   "Carol Boggs"
+  ],
+  "Bohemian": [
+   "Bohemian F.C."
+  ],
+  "Bontes": [
+   "Louis Bontes"
+  ],
+  "Bordeaux": [
+   "Bordeaux Montaigne University"
+  ],
+  "Bordeaux Montaigne": [
+   "Bordeaux Montaigne University"
+  ],
+  "Bottas": [
+   "Valtteri Bottas"
+  ],
+  "Boudreaux": [
+   "Gail Koziara Boudreaux"
+  ],
+  "Bousselham": [
+   "Dina Bousselham"
+  ],
+  "Box": [
+   "Jason Eric Box"
+  ],
+  "Boyd": [
+   "Darius Boyd"
+  ],
+  "Bradford": [
+   "Sam Bradford"
+  ],
+  "Bradlee": [
+   "Bradlee L Heckmann"
+  ],
+  "Brady": [
+   "Tom Brady"
+  ],
+  "Branco": [
+   "Juan Branco"
+  ],
+  "Brantner": [
+   "Franziska Brantner"
+  ],
+  "Bratsberg": [
+   "Bratsberg Line"
+  ],
+  "Breggen": [
+   "Anna van der Breggen"
+  ],
+  "Breiðablik": [
+   "Breiðablik UBK"
+  ],
+  "Brenda": [
+   "Brenda Lawrence"
+  ],
+  "Brent": [
+   "Brent Grimes"
+  ],
+  "Bresnan": [
+   "Tim Bresnan"
+  ],
+  "Brian": [
+   "Brian Duensing",
+   "Brian M. Rosenthal"
+  ],
+  "Bridgewater": [
+   "Teddy Bridgewater"
+  ],
+  "Brink": [
+   "Jeroen van den Brink"
+  ],
+  "Brittany": [
+   "Brittany Kaiser"
+  ],
+  "Brown": [
+   "Anthony G. Brown"
+  ],
+  "Bruce": [
+   "Bruce Hyer",
+   "Bruce Poliquin"
+  ],
+  "Bucaram": [
+   "Dalo Bucaram"
+  ],
+  "Buch": [
+   "Rolf Buch"
+  ],
+  "Budapest": [
+   "Budapest Honvéd FC"
+  ],
+  "Budapest Honvéd": [
+   "Budapest Honvéd FC"
+  ],
+  "Bunge": [
+   "Marcia Bunge"
+  ],
+  "Burchett": [
+   "Tim Burchett"
+  ],
+  "Burwell": [
+   "Sylvia Burwell"
+  ],
+  "Bård": [
+   "Bård Hoksrud"
+  ],
+  "Băsescu": [
+   "Traian Băsescu"
+  ],
+  "C. Abbate": [
+   "Carolyn Abbate"
+  ],
+  "C. Andrews": [
+   "Chris Andrews"
+  ],
+  "C. Boggs": [
+   "Carol Boggs"
+  ],
+  "C. Calenda": [
+   "Carlo Calenda"
+  ],
+  "C. Cudicini": [
+   "Carlo Cudicini"
+  ],
+  "C. Cuffe": [
+   "Ciarán Cuffe"
+  ],
+  "C. Daly": [
+   "Clare Daly"
+  ],
+  "C. Dorion": [
+   "Catherine Dorion"
+  ],
+  "C. Gordon": [
+   "Craig Gordon"
+  ],
+  "C. Hanabusa": [
+   "Colleen Hanabusa"
+  ],
+  "C. Higgins": [
+   "Clay Higgins"
+  ],
+  "C. Johnson": [
+   "Chad Johnson"
+  ],
+  "C. Judge": [
+   "Carl Judge"
+  ],
+  "C. Kostick": [
+   "Conor Kostick"
+  ],
+  "C. Lloyd": [
+   "Carli Lloyd"
+  ],
+  "C. Mannhalter": [
+   "Christine Mannhalter"
+  ],
+  "C. Masto": [
+   "Catherine Cortez Masto"
+  ],
+  "C. Moreau": [
+   "Corrie Moreau"
+  ],
+  "C. Newman": [
+   "Campbell Newman"
+  ],
+  "C. Obiols": [
+   "Clara Ponsatí i Obiols"
+  ],
+  "C. Palmer": [
+   "Clive Palmer"
+  ],
+  "C. Phelps": [
+   "Clarice E. Phelps"
+  ],
+  "C. Pitt": [
+   "Curtis Pitt"
+  ],
+  "C. Rackete": [
+   "Carola Rackete"
+  ],
+  "C. Roitfeld": [
+   "Carine Roitfeld"
+  ],
+  "C. Rovelli": [
+   "Carlo Rovelli"
+  ],
+  "C. Seedorf": [
+   "Clarence Seedorf"
+  ],
+  "C. Sinclair": [
+   "Christine Sinclair"
+  ],
+  "C. Steinbeck": [
+   "Christoph Steinbeck"
+  ],
+  "C. Sullenberger": [
+   "Chesley \"Sully\" Sullenberger"
+  ],
+  "C. Sye-kyun": [
+   "Chung Sye-kyun"
+  ],
+  "C. Turney": [
+   "Chris Turney"
+  ],
+  "C. Villarejo": [
+   "Carlos Jiménez Villarejo"
+  ],
+  "C. Wentz": [
+   "Carson Wentz"
+  ],
+  "C. Young": [
+   "Chris Young"
+  ],
+  "C.D": [
+   "C.D. Tondela"
+  ],
+  "Cabello": [
+   "Diosdado Cabello"
+  ],
+  "Cable": [
+   "Vince Cable"
+  ],
+  "Calcio": [
+   "Calcio Padova"
+  ],
+  "Calenda": [
+   "Carlo Calenda"
+  ],
+  "Campbell": [
+   "Campbell Newman"
+  ],
+  "Canadian": [
+   "Canadian Medical Association"
+  ],
+  "Canadian Medical": [
+   "Canadian Medical Association"
+  ],
+  "Cancellara": [
+   "Fabian Cancellara"
+  ],
+  "Capital": [
+   "Capital Region of Denmark"
+  ],
+  "Carine": [
+   "Carine Roitfeld"
+  ],
+  "Carl": [
+   "Carl Judge"
+  ],
+  "Carli": [
+   "Carli Lloyd"
+  ],
+  "Carlo": [
+   "Carlo Calenda",
+   "Carlo Cudicini",
+   "Carlo Rovelli"
+  ],
+  "Carlos": [
+   "Carlos Jiménez Villarejo"
+  ],
+  "Carlos Jiménez": [
+   "Carlos Jiménez Villarejo"
+  ],
+  "Carol": [
+   "Carol Boggs"
+  ],
+  "Carola": [
+   "Carola Rackete"
+  ],
+  "Carolina": [
+   "Carolina Panthers"
+  ],
+  "Carolyn": [
+   "Carolyn Abbate"
+  ],
+  "Caron": [
+   "Daniel J. Caron"
+  ],
+  "Carson": [
+   "Carson Wentz"
+  ],
+  "Carême": [
+   "Damien Carême"
+  ],
+  "Catherine": [
+   "Catherine Cortez Masto",
+   "Catherine Dorion"
+  ],
+  "Catherine Cortez": [
+   "Catherine Cortez Masto"
+  ],
+  "Cavendish": [
+   "Mark Cavendish"
+  ],
+  "Ceccardi": [
+   "Susanna Ceccardi"
+  ],
+  "Chad": [
+   "Chad Johnson"
+  ],
+  "Chan": [
+   "Lee Hae Chan"
+  ],
+  "Chauvet": [
+   "Vincent Chauvet"
+  ],
+  "Chesley": [
+   "Chesley \"Sully\" Sullenberger"
+  ],
+  "Cheung": [
+   "Fernando Cheung"
+  ],
+  "Chris": [
+   "Chris Andrews",
+   "Chris Lu",
+   "Chris Turney",
+   "Chris Young"
+  ],
+  "Christine": [
+   "Christine Mannhalter",
+   "Christine Sinclair"
+  ],
+  "Christoph": [
+   "Christoph Steinbeck"
+  ],
+  "Chullikatt": [
+   "Francis Chullikatt"
+  ],
+  "Chung": [
+   "Chung Sye-kyun"
+  ],
+  "Chêne": [
+   "Patrick Chêne"
+  ],
+  "Ciarán": [
+   "Ciarán Cuffe"
+  ],
+  "Cioloș": [
+   "Dacian Cioloș"
+  ],
+  "Clara": [
+   "Clara Ponsatí i Obiols"
+  ],
+  "Clare": [
+   "Clare Daly"
+  ],
+  "Clarence": [
+   "Clarence Seedorf"
+  ],
+  "Clarice": [
+   "Clarice E. Phelps"
+  ],
+  "Clay": [
+   "Clay Higgins"
+  ],
+  "Clive": [
+   "Clive Palmer"
+  ],
+  "Clube": [
+   "Clube Atlético Mineiro"
+  ],
+  "Clube Atlético": [
+   "Clube Atlético Mineiro"
+  ],
+  "Codrea": [
+   "Paul Codrea"
+  ],
+  "Colleen": [
+   "Colleen Hanabusa"
+  ],
+  "Collins": [
+   "Bernadette Collins",
+   "Jeff Collins"
+  ],
+  "Colombian": [
+   "Colombian Liberal Party"
+  ],
+  "Colombian Liberal": [
+   "Colombian Liberal Party"
+  ],
+  "Colorado": [
+   "Colorado Rapids"
+  ],
+  "Comer": [
+   "James Comer"
+  ],
+  "Conde": [
+   "Santiago Abascal Conde"
+  ],
+  "Conor": [
+   "Conor Kostick"
+  ],
+  "Constantinople": [
+   "Sahak II Mashalian of Constantinople"
+  ],
+  "Constitutional": [
+   "Constitutional Court"
+  ],
+  "Contador": [
+   "Alberto Contador"
+  ],
+  "Corrie": [
+   "Corrie Moreau"
+  ],
+  "Cowdenbeath": [
+   "Cowdenbeath F.C."
+  ],
+  "Craig": [
+   "Craig Gordon"
+  ],
+  "Cribb": [
+   "Jo Cribb"
+  ],
+  "Croley": [
+   "Steven P. Croley"
+  ],
+  "Crowder": [
+   "Jae Crowder"
+  ],
+  "Cudicini": [
+   "Carlo Cudicini"
+  ],
+  "Cuffe": [
+   "Ciarán Cuffe"
+  ],
+  "Cunningham": [
+   "Lisa Cunningham"
+  ],
+  "Cuomo": [
+   "Andrew Cuomo"
+  ],
+  "Cupich": [
+   "Blase J. Cupich"
+  ],
+  "Curet": [
+   "L. Antonio Curet"
+  ],
+  "Curtis": [
+   "Curtis Pitt"
+  ],
+  "D. Altshuler": [
+   "David Altshuler"
+  ],
+  "D. Bacon": [
+   "Don Bacon"
+  ],
+  "D. Bennati": [
+   "Daniele Bennati"
+  ],
+  "D. Beyer": [
+   "Don Beyer"
+  ],
+  "D. Bousselham": [
+   "Dina Bousselham"
+  ],
+  "D. Boyd": [
+   "Darius Boyd"
+  ],
+  "D. Bucaram": [
+   "Dalo Bucaram"
+  ],
+  "D. Cabello": [
+   "Diosdado Cabello"
+  ],
+  "D. Caron": [
+   "Daniel J. Caron"
+  ],
+  "D. Carême": [
+   "Damien Carême"
+  ],
+  "D. Cioloș": [
+   "Dacian Cioloș"
+  ],
+  "D. Dubilet": [
+   "Dmytro Dubilet"
+  ],
+  "D. Funeriu": [
+   "Daniel Funeriu"
+  ],
+  "D. Ganser": [
+   "Daniele Ganser"
+  ],
+  "D. Gatti": [
+   "Daniele Gatti"
+  ],
+  "D. Horsey": [
+   "David Horsey"
+  ],
+  "D. Hunter": [
+   "Dario Hunter"
+  ],
+  "D. Joyce": [
+   "David Joyce"
+  ],
+  "D. Karthik": [
+   "Dinesh Karthik"
+  ],
+  "D. Kissane": [
+   "David W. Kissane"
+  ],
+  "D. Laws": [
+   "David Laws"
+  ],
+  "D. Mamberti": [
+   "Dominique Mamberti"
+  ],
+  "D. McAllister": [
+   "David McAllister"
+  ],
+  "D. Misra": [
+   "Dipak Misra"
+  ],
+  "D. Murray": [
+   "DeMarco Murray"
+  ],
+  "D. Olson": [
+   "DaiWai Olson"
+  ],
+  "D. Ricciardo": [
+   "Daniel Ricciardo"
+  ],
+  "D. Sullivan": [
+   "Daniel S. Sullivan"
+  ],
+  "D. Thomas": [
+   "Deshaun Thomas"
+  ],
+  "D. Watson": [
+   "Deshaun Watson"
+  ],
+  "D. Wootton": [
+   "David Wootton"
+  ],
+  "Dacian": [
+   "Dacian Cioloș"
+  ],
+  "DaiWai": [
+   "DaiWai Olson"
+  ],
+  "Dalo": [
+   "Dalo Bucaram"
+  ],
+  "Daly": [
+   "Clare Daly"
+  ],
+  "Damien": [
+   "Damien Carême"
+  ],
+  "Daniel": [
+   "Daniel Funeriu",
+   "Daniel J. Caron",
+   "Daniel Ricciardo",
+   "Daniel S. Sullivan"
+  ],
+  "Daniele": [
+   "Daniele Bennati",
+   "Daniele Ganser",
+   "Daniele Gatti"
+  ],
+  "Dario": [
+   "Dario Hunter"
+  ],
+  "Darius": [
+   "Darius Boyd"
+  ],
+  "Davda": [
+   "Avani Saglani Davda"
+  ],
+  "David": [
+   "David Altshuler",
+   "David Horsey",
+   "David Joyce",
+   "David Laws",
+   "David McAllister",
+   "David W. Kissane",
+   "David Wootton",
+   "Ivan David"
+  ],
+  "Davis": [
+   "Rodney L. Davis"
+  ],
+  "DeMarco": [
+   "DeMarco Murray"
+  ],
+  "Deal": [
+   "Nathan Deal"
+  ],
+  "Debreceni": [
+   "Debreceni VSC"
+  ],
+  "Degenkolb": [
+   "John Degenkolb"
+  ],
+  "Delevoye": [
+   "Jean-Paul Delevoye"
+  ],
+  "Delzenne": [
+   "Élise Delzenne"
+  ],
+  "Democratic": [
+   "Democratic Party of Turkmenistan"
+  ],
+  "Denmark": [
+   "Denmark national association football team"
+  ],
+  "Deshaun": [
+   "Deshaun Thomas",
+   "Deshaun Watson"
+  ],
+  "Detroit": [
+   "Detroit Lions"
+  ],
+  "Dijk": [
+   "Ellen van Dijk"
+  ],
+  "Dimension": [
+   "Dimension Films"
+  ],
+  "Dina": [
+   "Dina Bousselham"
+  ],
+  "Dinesh": [
+   "Dinesh Karthik"
+  ],
+  "Diosdado": [
+   "Diosdado Cabello"
+  ],
+  "Dipak": [
+   "Dipak Misra"
+  ],
+  "Dittlot": [
+   "Michèle Dittlot"
+  ],
+  "Dmytro": [
+   "Dmytro Dubilet"
+  ],
+  "Dodds": [
+   "Anneliese Dodds"
+  ],
+  "Dominique": [
+   "Dominique Mamberti"
+  ],
+  "Don": [
+   "Don Bacon",
+   "Don Beyer"
+  ],
+  "Donnelly": [
+   "Stephen Donnelly"
+  ],
+  "Dorion": [
+   "Catherine Dorion"
+  ],
+  "Dovre": [
+   "Dovre Line"
+  ],
+  "Drakeford": [
+   "Mark Drakeford"
+  ],
+  "Drees": [
+   "Willem B. Drees"
+  ],
+  "Dubilet": [
+   "Dmytro Dubilet"
+  ],
+  "Duensing": [
+   "Brian Duensing"
+  ],
+  "Duffy": [
+   "Sean Duffy"
+  ],
+  "Dumoulin": [
+   "Tom Dumoulin"
+  ],
+  "Dutton": [
+   "Andrea Dutton"
+  ],
+  "E. Boasson-Hagen": [
+   "Edvald Boasson-Hagen"
+  ],
+  "E. Dijk": [
+   "Ellen van Dijk"
+  ],
+  "E. Enger": [
+   "Elisabeth Enger"
+  ],
+  "E. Garcetti": [
+   "Eric Garcetti"
+  ],
+  "E. Nieto": [
+   "Enrique Peña Nieto"
+  ],
+  "E. Sar": [
+   "Edwin van der Sar"
+  ],
+  "E. Saunders": [
+   "Elaine Saunders"
+  ],
+  "E. Short": [
+   "Emily Short"
+  ],
+  "E. Slotkin": [
+   "Elissa Slotkin"
+  ],
+  "E. Stenzowski": [
+   "Ewandro Stenzowski"
+  ],
+  "E. Stern": [
+   "Elazar Stern"
+  ],
+  "E. Swalwell": [
+   "Eric Swalwell"
+  ],
+  "E. Tomac": [
+   "Eugen Tomac"
+  ],
+  "E. Warren": [
+   "Elizabeth Warren"
+  ],
+  "E. Weiss": [
+   "Ellen Weiss"
+  ],
+  "Ebrard": [
+   "Marcelo Ebrard"
+  ],
+  "Eddine": [
+   "Lina Zahr Eddine"
+  ],
+  "Edvald": [
+   "Edvald Boasson-Hagen"
+  ],
+  "Edwin": [
+   "Edwin van der Sar"
+  ],
+  "Elahi": [
+   "Parvez Elahi"
+  ],
+  "Elaine": [
+   "Elaine Saunders"
+  ],
+  "Elazar": [
+   "Elazar Stern"
+  ],
+  "Electoral": [
+   "Electoral Districts Boundaries Commission"
+  ],
+  "Electoral Districts Boundaries": [
+   "Electoral Districts Boundaries Commission"
+  ],
+  "Elisabeth": [
+   "Elisabeth Enger"
+  ],
+  "Elissa": [
+   "Elissa Slotkin"
+  ],
+  "Elizabeth": [
+   "Elizabeth Warren"
+  ],
+  "Ellen": [
+   "Ellen Weiss",
+   "Ellen van Dijk"
+  ],
+  "Emanuel": [
+   "Rahm Emanuel"
+  ],
+  "Embassy of Poland": [
+   "Embassy of Poland, Rome"
+  ],
+  "Embassy of Ukraine": [
+   "Embassy of Ukraine, Ottawa",
+   "Embassy of Ukraine, Tallinn",
+   "Embassy of Ukraine, Warsaw"
+  ],
+  "Emily": [
+   "Emily Short"
+  ],
+  "Enger": [
+   "Elisabeth Enger"
+  ],
+  "Engler": [
+   "John Engler"
+  ],
+  "Enrique": [
+   "Enrique Peña Nieto"
+  ],
+  "Enrique Peña": [
+   "Enrique Peña Nieto"
+  ],
+  "Eric": [
+   "Eric Garcetti",
+   "Eric Swalwell"
+  ],
+  "Ernst": [
+   "Joni Ernst"
+  ],
+  "Essebsi": [
+   "Beji Caid Essebsi"
+  ],
+  "Ethiopia": [
+   "Ethiopia national football team"
+  ],
+  "Ethnikos": [
+   "Ethnikos Achna FC"
+  ],
+  "Ethnikos Achna": [
+   "Ethnikos Achna FC"
+  ],
+  "Eugen": [
+   "Eugen Tomac"
+  ],
+  "European": [
+   "European Research Council"
+  ],
+  "European Research": [
+   "European Research Council"
+  ],
+  "Ewandro": [
+   "Ewandro Stenzowski"
+  ],
+  "F. Alonso": [
+   "Fernando Alonso"
+  ],
+  "F. Benjamin": [
+   "Frantz Benjamin"
+  ],
+  "F. Brantner": [
+   "Franziska Brantner"
+  ],
+  "F. Cancellara": [
+   "Fabian Cancellara"
+  ],
+  "F. Cheung": [
+   "Fernando Cheung"
+  ],
+  "F. Chullikatt": [
+   "Francis Chullikatt"
+  ],
+  "F. Guinta": [
+   "Frank Guinta"
+  ],
+  "F. Kabir": [
+   "Farida Kabir"
+  ],
+  "F. Ribéry": [
+   "Franck Ribéry"
+  ],
+  "F. Scholze": [
+   "Frank Scholze"
+  ],
+  "F. Shivambu": [
+   "Floyd Shivambu"
+  ],
+  "F. Wagner": [
+   "Francisco Sosa Wagner"
+  ],
+  "F.K": [
+   "F.K. Vojvodina"
+  ],
+  "F91": [
+   "F91 Dudelange"
+  ],
+  "FC Academica": [
+   "FC Academica Clinceni"
+  ],
+  "FC Ararat": [
+   "FC Ararat Yerevan"
+  ],
+  "FC Baltika": [
+   "FC Baltika Kaliningrad"
+  ],
+  "FC Baník": [
+   "FC Baník Ostrava"
+  ],
+  "FC Dila": [
+   "FC Dila Gori"
+  ],
+  "FC Dinamo": [
+   "FC Dinamo Tbilisi"
+  ],
+  "FC Flora": [
+   "FC Flora Tallinn"
+  ],
+  "FC Inter": [
+   "FC Inter Turku"
+  ],
+  "FC Levadia": [
+   "FC Levadia Tallinn"
+  ],
+  "FC Mordovia": [
+   "FC Mordovia Saransk"
+  ],
+  "FC Olimpik": [
+   "FC Olimpik Donetsk"
+  ],
+  "FC Rotor": [
+   "FC Rotor Volgograd"
+  ],
+  "FC Rukh": [
+   "FC Rukh Lviv"
+  ],
+  "FC Spartak": [
+   "FC Spartak Trnava"
+  ],
+  "FC Tom": [
+   "FC Tom Tomsk"
+  ],
+  "FC Torpedo": [
+   "FC Torpedo Kutaisi"
+  ],
+  "FC Viktoria": [
+   "FC Viktoria Plzeň"
+  ],
+  "FC Viktoryja Marjina": [
+   "FC Viktoryja Marjina Horka"
+  ],
+  "FC Vorskla": [
+   "FC Vorskla Poltava"
+  ],
+  "FC Vysočina": [
+   "FC Vysočina Jihlava"
+  ],
+  "FC Wacker": [
+   "FC Wacker Innsbruck"
+  ],
+  "FC Zbrojovka": [
+   "FC Zbrojovka Brno"
+  ],
+  "FC Zimbru": [
+   "FC Zimbru Chișinău"
+  ],
+  "FK Borac Banja": [
+   "FK Borac Banja Luka"
+  ],
+  "FK Dukla": [
+   "FK Dukla Prague"
+  ],
+  "FK Inter": [
+   "FK Inter Bratislava"
+  ],
+  "FK Radnik": [
+   "FK Radnik Surdulica"
+  ],
+  "FK Radnički": [
+   "FK Radnički Niš"
+  ],
+  "FK Sūduva": [
+   "FK Sūduva Marijampolė"
+  ],
+  "FK Tuzla": [
+   "FK Tuzla City"
+  ],
+  "Fabian": [
+   "Fabian Cancellara"
+  ],
+  "Falkirk": [
+   "Falkirk F.C."
+  ],
+  "Famiglietti": [
+   "James S. Famiglietti"
+  ],
+  "Farage": [
+   "Nigel Farage"
+  ],
+  "Farida": [
+   "Farida Kabir"
+  ],
+  "Farmajo": [
+   "Mohamed Abdullahi Farmajo"
+  ],
+  "Federal": [
+   "Federal Department of Justice and Police",
+   "Federal District"
+  ],
+  "Fernando": [
+   "Fernando Alonso",
+   "Fernando Cheung"
+  ],
+  "Fiala": [
+   "Radim Fiala"
+  ],
+  "Finn": [
+   "Steven Finn"
+  ],
+  "Finnie": [
+   "John Finnie"
+  ],
+  "Fitzgerald": [
+   "Michael L. Fitzgerald"
+  ],
+  "Flamurtari": [
+   "Flamurtari Vlorë"
+  ],
+  "Fleck": [
+   "P. J. Fleck"
+  ],
+  "Flekkefjord": [
+   "Flekkefjord Line"
+  ],
+  "Floyd": [
+   "Floyd Shivambu"
+  ],
+  "Flynn": [
+   "Michael Flynn"
+  ],
+  "Flåm": [
+   "Flåm Line"
+  ],
+  "Fodor": [
+   "Gábor Fodor"
+  ],
+  "Foles": [
+   "Nick Foles"
+  ],
+  "Food": [
+   "Food Standards Agency"
+  ],
+  "Food Standards": [
+   "Food Standards Agency"
+  ],
+  "Foote": [
+   "Judy Foote"
+  ],
+  "Foran": [
+   "Kieran Foran"
+  ],
+  "Fotouh": [
+   "Abdel Moneim Aboul Fotouh"
+  ],
+  "Fox": [
+   "Fox Mobile Entertainment"
+  ],
+  "Fox Mobile": [
+   "Fox Mobile Entertainment"
+  ],
+  "Francis": [
+   "Francis Chullikatt"
+  ],
+  "Francisco": [
+   "Francisco Sosa Wagner"
+  ],
+  "Francisco Sosa": [
+   "Francisco Sosa Wagner"
+  ],
+  "Franck": [
+   "Franck Ribéry"
+  ],
+  "Frank": [
+   "Frank Guinta",
+   "Frank Scholze"
+  ],
+  "Frankel": [
+   "Lois Frankel"
+  ],
+  "Frantz": [
+   "Frantz Benjamin"
+  ],
+  "Franziska": [
+   "Franziska Brantner"
+  ],
+  "Fredette": [
+   "Jimmer Fredette"
+  ],
+  "French": [
+   "French Academy of Sciences",
+   "French Football Federation"
+  ],
+  "Fuglsang": [
+   "Jakob Fuglsang"
+  ],
+  "Funeriu": [
+   "Daniel Funeriu"
+  ],
+  "Futebol": [
+   "Futebol Clube do Porto"
+  ],
+  "G. Albertini": [
+   "Gabriele Albertini"
+  ],
+  "G. Avermaet": [
+   "Greg Van Avermaet"
+  ],
+  "G. Bianconi": [
+   "Ginestra Bianconi"
+  ],
+  "G. Boudreaux": [
+   "Gail Koziara Boudreaux"
+  ],
+  "G. Fodor": [
+   "Gábor Fodor"
+  ],
+  "G. Holding": [
+   "George Holding"
+  ],
+  "G. Horsfield": [
+   "Geoff Horsfield"
+  ],
+  "G. Inglis": [
+   "Greg Inglis"
+  ],
+  "G. Jericho": [
+   "Greg Jericho"
+  ],
+  "G. Kasselstrand": [
+   "Gustav Kasselstrand"
+  ],
+  "G. Louis": [
+   "Germaine M Buck Louis"
+  ],
+  "G. Macapagal-Arroyo": [
+   "Gloria Macapagal-Arroyo"
+  ],
+  "G. Medley": [
+   "Graham F. Medley"
+  ],
+  "G. Müller": [
+   "Gerhard Ludwig Müller"
+  ],
+  "G. Pazmiño": [
+   "Gabriela Pazmiño"
+  ],
+  "G. Petro": [
+   "Gustavo Petro"
+  ],
+  "G. Pisanu": [
+   "Giuseppe Pisanu"
+  ],
+  "G. Provopoulos": [
+   "Giorgos Provopoulos"
+  ],
+  "G. Pélisson": [
+   "Gilles Pélisson"
+  ],
+  "G. Rose": [
+   "Guillaume Rose"
+  ],
+  "G. Rossum": [
+   "Guido van Rossum"
+  ],
+  "G. Susteren": [
+   "Greta Van Susteren"
+  ],
+  "G. Ushñahua": [
+   "Glider Ushñahua"
+  ],
+  "G. Woolf": [
+   "Greg Woolf"
+  ],
+  "G. Zarur": [
+   "Giselle Zarur"
+  ],
+  "G.D": [
+   "G.D. Chaves"
+  ],
+  "Gabbard": [
+   "Tulsi Gabbard"
+  ],
+  "Gabriela": [
+   "Gabriela Pazmiño"
+  ],
+  "Gabriele": [
+   "Gabriele Albertini"
+  ],
+  "Gail": [
+   "Gail Koziara Boudreaux"
+  ],
+  "Gail Koziara": [
+   "Gail Koziara Boudreaux"
+  ],
+  "Gallagher": [
+   "Pat the Cope Gallagher"
+  ],
+  "Galliano": [
+   "John Galliano"
+  ],
+  "Ganser": [
+   "Daniele Ganser"
+  ],
+  "Gantz": [
+   "Benny Gantz"
+  ],
+  "Garcetti": [
+   "Eric Garcetti"
+  ],
+  "Garcia": [
+   "Joe Garcia"
+  ],
+  "Gardermoen": [
+   "Gardermoen Line"
+  ],
+  "Gates": [
+   "Robert Gates"
+  ],
+  "Gatti": [
+   "Daniele Gatti"
+  ],
+  "Gawkowski": [
+   "Krzysztof Gawkowski"
+  ],
+  "Gaziantep": [
+   "Gaziantep F.K."
+  ],
+  "Geelong": [
+   "Geelong Football Club"
+  ],
+  "Genba": [
+   "Kōichirō Genba"
+  ],
+  "Geoff": [
+   "Geoff Horsfield"
+  ],
+  "George": [
+   "George Holding",
+   "Paul George"
+  ],
+  "Gerhard": [
+   "Gerhard Ludwig Müller"
+  ],
+  "Gerhard Ludwig": [
+   "Gerhard Ludwig Müller"
+  ],
+  "Germaine": [
+   "Germaine M Buck Louis"
+  ],
+  "Germaine M Buck": [
+   "Germaine M Buck Louis"
+  ],
+  "German": [
+   "German Mathematical Society"
+  ],
+  "German Mathematical": [
+   "German Mathematical Society"
+  ],
+  "Gewessler": [
+   "Leonore Gewessler"
+  ],
+  "Ghalibaf": [
+   "Mohammad Bagher Ghalibaf"
+  ],
+  "Ghesquière": [
+   "Nicolas Ghesquière"
+  ],
+  "Gilbert": [
+   "Philippe Gilbert"
+  ],
+  "Gilles": [
+   "Gilles Pélisson"
+  ],
+  "Ginestra": [
+   "Ginestra Bianconi"
+  ],
+  "Giorgos": [
+   "Giorgos Provopoulos"
+  ],
+  "Giselle": [
+   "Giselle Zarur"
+  ],
+  "Giuseppe": [
+   "Giuseppe Pisanu"
+  ],
+  "Gjøvik": [
+   "Gjøvik Line"
+  ],
+  "Gladney": [
+   "Larry Gladney"
+  ],
+  "Glaser": [
+   "Albrecht Glaser"
+  ],
+  "Glider": [
+   "Glider Ushñahua"
+  ],
+  "Gloria": [
+   "Gloria Macapagal-Arroyo"
+  ],
+  "Gordon": [
+   "Craig Gordon"
+  ],
+  "Gottberg": [
+   "Wilhelm von Gottberg"
+  ],
+  "Gowdy": [
+   "Trey Gowdy"
+  ],
+  "Graham": [
+   "Graham F. Medley"
+  ],
+  "Grassian": [
+   "Vicki Grassian"
+  ],
+  "Green": [
+   "Green Bay Packers",
+   "Green Party"
+  ],
+  "Green Bay": [
+   "Green Bay Packers"
+  ],
+  "Greenock": [
+   "Greenock Morton F.C."
+  ],
+  "Greenock Morton": [
+   "Greenock Morton F.C."
+  ],
+  "Greg": [
+   "Greg Inglis",
+   "Greg Jericho",
+   "Greg Van Avermaet",
+   "Greg Woolf"
+  ],
+  "Greta": [
+   "Greta Van Susteren"
+  ],
+  "Grigorian": [
+   "Asmik Grigorian"
+  ],
+  "Grimes": [
+   "Brent Grimes"
+  ],
+  "Gronkowski": [
+   "Rob Gronkowski"
+  ],
+  "Grégoire": [
+   "Olivia Grégoire"
+  ],
+  "Guido": [
+   "Guido van Rossum"
+  ],
+  "Guillaume": [
+   "Guillaume Rose"
+  ],
+  "Guinta": [
+   "Frank Guinta"
+  ],
+  "Gullifer": [
+   "Louise Gullifer"
+  ],
+  "Gustav": [
+   "Gustav Kasselstrand"
+  ],
+  "Gustavo": [
+   "Gustavo Petro"
+  ],
+  "Gutiérrez": [
+   "Ignacio Gutiérrez"
+  ],
+  "Guérot": [
+   "Ulrike Guérot"
+  ],
+  "Guðmundsson": [
+   "Jón Axel Guðmundsson"
+  ],
+  "Gábor": [
+   "Gábor Fodor"
+  ],
+  "Górnik": [
+   "Górnik Zabrze"
+  ],
+  "Günther": [
+   "Oliver Günther"
+  ],
+  "H. Karoui": [
+   "Hamed Karoui"
+  ],
+  "H. Kuo-yu": [
+   "Han Kuo-yu"
+  ],
+  "H. Kyo-ahn": [
+   "Hwang Kyo-ahn"
+  ],
+  "H. Köhler": [
+   "Horst Köhler"
+  ],
+  "H. Larsson": [
+   "Henrik Larsson"
+  ],
+  "H. Lähnemann": [
+   "Henrike Lähnemann"
+  ],
+  "H. Maas": [
+   "Heiko Maas"
+  ],
+  "H. Richardson": [
+   "Heather Cox Richardson"
+  ],
+  "H. Seibeb": [
+   "Henny Seibeb"
+  ],
+  "H. Thaçi": [
+   "Hashim Thaçi"
+  ],
+  "H. Yanchenko": [
+   "Halyna Yanchenko"
+  ],
+  "HNK": [
+   "HNK Šibenik"
+  ],
+  "Hackl": [
+   "Valerie Hackl"
+  ],
+  "Hakeem": [
+   "Rauff Hakeem"
+  ],
+  "Hallescher": [
+   "Hallescher FC"
+  ],
+  "Halyna": [
+   "Halyna Yanchenko"
+  ],
+  "Hamburger": [
+   "Hamburger Abendblatt"
+  ],
+  "Hamed": [
+   "Hamed Karoui"
+  ],
+  "Hamilton": [
+   "Lewis Hamilton"
+  ],
+  "Hammond": [
+   "Aleqa Hammond"
+  ],
+  "Han": [
+   "Han Kuo-yu"
+  ],
+  "Hanabusa": [
+   "Colleen Hanabusa"
+  ],
+  "Handel": [
+   "Karen Handel"
+  ],
+  "Hapoel": [
+   "Hapoel Haifa F.C.",
+   "Hapoel Ironi Kiryat Shmona F.C."
+  ],
+  "Hapoel Haifa": [
+   "Hapoel Haifa F.C."
+  ],
+  "Hapoel Ironi Kiryat Shmona": [
+   "Hapoel Ironi Kiryat Shmona F.C."
+  ],
+  "Hareide": [
+   "Knut Arild Hareide"
+  ],
+  "Harper": [
+   "Mark Harper"
+  ],
+  "Harris": [
+   "Lucy Harris",
+   "Patricia Harris"
+  ],
+  "Harutyunyan": [
+   "Arayik Harutyunyan"
+  ],
+  "Hashim": [
+   "Hashim Thaçi"
+  ],
+  "Heart": [
+   "Heart of Midlothian F.C."
+  ],
+  "Heart of Midlothian": [
+   "Heart of Midlothian F.C."
+  ],
+  "Heather": [
+   "Heather Cox Richardson"
+  ],
+  "Heather Cox": [
+   "Heather Cox Richardson"
+  ],
+  "Heckmann": [
+   "Bradlee L Heckmann"
+  ],
+  "Heiko": [
+   "Heiko Maas"
+  ],
+  "Heinz": [
+   "Tony Heinz"
+  ],
+  "Helm": [
+   "Anne Helm",
+   "Peyton R. Helm"
+  ],
+  "Henny": [
+   "Henny Seibeb"
+  ],
+  "Henrik": [
+   "Henrik Larsson"
+  ],
+  "Henrike": [
+   "Henrike Lähnemann"
+  ],
+  "Herkel": [
+   "Andres Herkel"
+  ],
+  "Hernández": [
+   "Máximo Huerta Hernández"
+  ],
+  "Hesjedal": [
+   "Ryder Hesjedal"
+  ],
+  "Higgins": [
+   "Clay Higgins"
+  ],
+  "Hillbillies": [
+   "Billy Hill and the Hillbillies"
+  ],
+  "Hoang-Ngoc": [
+   "Liêm Hoang-Ngoc"
+  ],
+  "Hochul": [
+   "Kathy Hochul"
+  ],
+  "Hoekstra": [
+   "Pete Hoekstra"
+  ],
+  "Hoeven": [
+   "John Hoeven"
+  ],
+  "Hoksrud": [
+   "Bård Hoksrud"
+  ],
+  "Holding": [
+   "Andrew Holding",
+   "George Holding"
+  ],
+  "Horsey": [
+   "David Horsey"
+  ],
+  "Horsfield": [
+   "Geoff Horsfield"
+  ],
+  "Horst": [
+   "Horst Köhler"
+  ],
+  "House": [
+   "House of Representatives"
+  ],
+  "Hudson": [
+   "Phil Hudson"
+  ],
+  "Hunt": [
+   "Karmichael Hunt"
+  ],
+  "Hunter": [
+   "Dario Hunter"
+  ],
+  "Hurts": [
+   "Jalen Hurts"
+  ],
+  "Hussain": [
+   "Aamir Hussain"
+  ],
+  "Hutchison": [
+   "Kay Bailey Hutchison"
+  ],
+  "Hutzschenreuter": [
+   "Thomas Hutzschenreuter"
+  ],
+  "Hwang": [
+   "Hwang Kyo-ahn"
+  ],
+  "Hyer": [
+   "Bruce Hyer"
+  ],
+  "HŠK": [
+   "HŠK Zrinjski Mostar"
+  ],
+  "HŠK Zrinjski": [
+   "HŠK Zrinjski Mostar"
+  ],
+  "I. Basso": [
+   "Ivan Basso"
+  ],
+  "I. David": [
+   "Ivan David"
+  ],
+  "I. Gutiérrez": [
+   "Ignacio Gutiérrez"
+  ],
+  "I. Khan": [
+   "Imran Khan"
+  ],
+  "I. Meta": [
+   "Ilir Meta"
+  ],
+  "I. Mikhaylov": [
+   "Ilya Mikhaylov"
+  ],
+  "I. Nooyi": [
+   "Indra Nooyi"
+  ],
+  "I. Ponomarev": [
+   "Ilya Ponomarev"
+  ],
+  "I. Sutskever": [
+   "Ilya Sutskever"
+  ],
+  "IFK": [
+   "IFK Göteborg",
+   "IFK Mariehamn"
+  ],
+  "Ignacio": [
+   "Ignacio Gutiérrez"
+  ],
+  "Ilir": [
+   "Ilir Meta"
+  ],
+  "Ilya": [
+   "Ilya Mikhaylov",
+   "Ilya Ponomarev",
+   "Ilya Sutskever"
+  ],
+  "Imran": [
+   "Imran Khan"
+  ],
+  "Indra": [
+   "Indra Nooyi"
+  ],
+  "Inglis": [
+   "Greg Inglis"
+  ],
+  "International": [
+   "International Astronomical Union",
+   "International Mathematical Union"
+  ],
+  "International Astronomical": [
+   "International Astronomical Union"
+  ],
+  "International Mathematical": [
+   "International Mathematical Union"
+  ],
+  "Italian": [
+   "Italian Liberal Party",
+   "Italian Socialist Party"
+  ],
+  "Italian Liberal": [
+   "Italian Liberal Party"
+  ],
+  "Italian Socialist": [
+   "Italian Socialist Party"
+  ],
+  "Ivan": [
+   "Ivan Basso",
+   "Ivan David"
+  ],
+  "Ivory": [
+   "Ivory Coast national football team"
+  ],
+  "J. Allsop": [
+   "James Allsop"
+  ],
+  "J. Amash": [
+   "Justin Amash"
+  ],
+  "J. Arca": [
+   "Julio Arca"
+  ],
+  "J. Banks": [
+   "Jim Banks"
+  ],
+  "J. Beatty": [
+   "Joyce Beatty"
+  ],
+  "J. Box": [
+   "Jason Eric Box"
+  ],
+  "J. Branco": [
+   "Juan Branco"
+  ],
+  "J. Brink": [
+   "Jeroen van den Brink"
+  ],
+  "J. Collins": [
+   "Jeff Collins"
+  ],
+  "J. Comer": [
+   "James Comer"
+  ],
+  "J. Crowder": [
+   "Jae Crowder"
+  ],
+  "J. Degenkolb": [
+   "John Degenkolb"
+  ],
+  "J. Delevoye": [
+   "Jean-Paul Delevoye"
+  ],
+  "J. Engler": [
+   "John Engler"
+  ],
+  "J. Ernst": [
+   "Joni Ernst"
+  ],
+  "J. Famiglietti": [
+   "James S. Famiglietti"
+  ],
+  "J. Finnie": [
+   "John Finnie"
+  ],
+  "J. Foote": [
+   "Judy Foote"
+  ],
+  "J. Fredette": [
+   "Jimmer Fredette"
+  ],
+  "J. Fuglsang": [
+   "Jakob Fuglsang"
+  ],
+  "J. Galliano": [
+   "John Galliano"
+  ],
+  "J. Garcia": [
+   "Joe Garcia"
+  ],
+  "J. Guðmundsson": [
+   "Jón Axel Guðmundsson"
+  ],
+  "J. Hoeven": [
+   "John Hoeven"
+  ],
+  "J. Hurts": [
+   "Jalen Hurts"
+  ],
+  "J. Jesus": [
+   "Jorge Jesus"
+  ],
+  "J. Jones": [
+   "Jari Jones"
+  ],
+  "J. Juncker": [
+   "Jean-Claude Juncker"
+  ],
+  "J. Kennedy": [
+   "John Neely Kennedy"
+  ],
+  "J. Kirchner": [
+   "Julie Kirchner"
+  ],
+  "J. Lambie": [
+   "Jacqui Lambie"
+  ],
+  "J. Lee": [
+   "Janice Lee"
+  ],
+  "J. Lehmann": [
+   "Jens Lehmann"
+  ],
+  "J. Leniaud": [
+   "Jean-Michel Leniaud"
+  ],
+  "J. MacLean": [
+   "Jennifer MacLean"
+  ],
+  "J. Malema": [
+   "Julius Malema"
+  ],
+  "J. Manziel": [
+   "Johnny Manziel"
+  ],
+  "J. Mattis": [
+   "James Mattis"
+  ],
+  "J. Montgomery": [
+   "Janet Montgomery"
+  ],
+  "J. Norman": [
+   "Josh Norman"
+  ],
+  "J. Osothsilp": [
+   "Jina Osothsilp"
+  ],
+  "J. Picanyol": [
+   "Jordi Sànchez i Picanyol"
+  ],
+  "J. Pospíšil": [
+   "Jiří Pospíšil"
+  ],
+  "J. Ramos": [
+   "Jessica Ramos"
+  ],
+  "J. Ratcliffe": [
+   "John Ratcliffe"
+  ],
+  "J. Riquelme": [
+   "Juan Román Riquelme"
+  ],
+  "J. Rutherford": [
+   "John Rutherford"
+  ],
+  "J. Sabucedo": [
+   "Jose Manuel Sabucedo"
+  ],
+  "J. Smallwood": [
+   "Jonathan Smallwood"
+  ],
+  "J. Smith": [
+   "John L. Smith",
+   "Jordan Randall Smith"
+  ],
+  "J. Son-Forget": [
+   "Joachim Son-Forget"
+  ],
+  "J. Thörnqvist": [
+   "Jan Thörnqvist"
+  ],
+  "J. Voigt": [
+   "Jens Voigt"
+  ],
+  "J. Yellen": [
+   "Janet Yellen"
+  ],
+  "Jackson": [
+   "Lamar Jackson"
+  ],
+  "Jacques": [
+   "Kateřina Jacques"
+  ],
+  "Jacqui": [
+   "Jacqui Lambie"
+  ],
+  "Jae": [
+   "Jae Crowder"
+  ],
+  "Jaishankar": [
+   "Subrahmanyam Jaishankar"
+  ],
+  "Jakob": [
+   "Jakob Fuglsang"
+  ],
+  "Jalen": [
+   "Jalen Hurts"
+  ],
+  "James": [
+   "James Allsop",
+   "James Comer",
+   "James Mattis",
+   "James S. Famiglietti",
+   "Letitia James"
+  ],
+  "Jan": [
+   "Jan Thörnqvist"
+  ],
+  "Janet": [
+   "Janet Montgomery",
+   "Janet Yellen"
+  ],
+  "Janice": [
+   "Janice Lee"
+  ],
+  "Jari": [
+   "Jari Jones"
+  ],
+  "Jason": [
+   "Jason Eric Box"
+  ],
+  "Jason Eric": [
+   "Jason Eric Box"
+  ],
+  "Javadekar": [
+   "Prakash Javadekar"
+  ],
+  "Jean-Claude": [
+   "Jean-Claude Juncker"
+  ],
+  "Jean-Michel": [
+   "Jean-Michel Leniaud"
+  ],
+  "Jean-Paul": [
+   "Jean-Paul Delevoye"
+  ],
+  "Jeff": [
+   "Jeff Collins"
+  ],
+  "Jennifer": [
+   "Jennifer MacLean"
+  ],
+  "Jens": [
+   "Jens Lehmann",
+   "Jens Voigt"
+  ],
+  "Jensen": [
+   "Whitney Jensen"
+  ],
+  "Jericho": [
+   "Greg Jericho"
+  ],
+  "Jeroen": [
+   "Jeroen van den Brink"
+  ],
+  "Jessica": [
+   "Jessica Ramos"
+  ],
+  "Jesus": [
+   "Jorge Jesus"
+  ],
+  "Ježek": [
+   "Petr Ježek"
+  ],
+  "Jiankui": [
+   "Jiankui He"
+  ],
+  "Jim": [
+   "Jim Banks"
+  ],
+  "Jimmer": [
+   "Jimmer Fredette"
+  ],
+  "Jina": [
+   "Jina Osothsilp"
+  ],
+  "Jiří": [
+   "Jiří Pospíšil"
+  ],
+  "Joachim": [
+   "Joachim Son-Forget"
+  ],
+  "Joe": [
+   "Joe Garcia"
+  ],
+  "John": [
+   "John Degenkolb",
+   "John Engler",
+   "John Finnie",
+   "John Galliano",
+   "John Hoeven",
+   "John L. Smith",
+   "John Neely Kennedy",
+   "John Ratcliffe",
+   "John Rutherford"
+  ],
+  "John Neely": [
+   "John Neely Kennedy"
+  ],
+  "Johnny": [
+   "Johnny Manziel"
+  ],
+  "Johnson": [
+   "Chad Johnson"
+  ],
+  "Jonathan": [
+   "Jonathan Smallwood"
+  ],
+  "Jones": [
+   "Jari Jones"
+  ],
+  "Jones-Drew": [
+   "Maurice Jones-Drew"
+  ],
+  "Joni": [
+   "Joni Ernst"
+  ],
+  "Jordan": [
+   "Jordan Randall Smith"
+  ],
+  "Jordan Randall": [
+   "Jordan Randall Smith"
+  ],
+  "Jordi": [
+   "Jordi Sànchez i Picanyol"
+  ],
+  "Jorge": [
+   "Jorge Jesus"
+  ],
+  "Jose": [
+   "Jose Manuel Sabucedo"
+  ],
+  "Jose Manuel": [
+   "Jose Manuel Sabucedo"
+  ],
+  "Josh": [
+   "Adesewa Josh",
+   "Josh Norman"
+  ],
+  "Joy": [
+   "Katherine Joy"
+  ],
+  "Joyce": [
+   "Barnaby Joyce",
+   "David Joyce",
+   "Joyce Beatty"
+  ],
+  "Juan": [
+   "Juan Branco",
+   "Juan Román Riquelme"
+  ],
+  "Juan Román": [
+   "Juan Román Riquelme"
+  ],
+  "Judge": [
+   "Aaron Judge",
+   "Carl Judge"
+  ],
+  "Judy": [
+   "Judy Foote"
+  ],
+  "Jugnauth": [
+   "Anerood Jugnauth"
+  ],
+  "Julie": [
+   "Julie Kirchner"
+  ],
+  "Julio": [
+   "Julio Arca"
+  ],
+  "Julius": [
+   "Julius Malema"
+  ],
+  "Juncker": [
+   "Jean-Claude Juncker"
+  ],
+  "Justin": [
+   "Justin Amash"
+  ],
+  "Jæren": [
+   "Jæren Line"
+  ],
+  "Jón": [
+   "Jón Axel Guðmundsson"
+  ],
+  "Jón Axel": [
+   "Jón Axel Guðmundsson"
+  ],
+  "K. Bass": [
+   "Karen Bass"
+  ],
+  "K. Foran": [
+   "Kieran Foran"
+  ],
+  "K. Gawkowski": [
+   "Krzysztof Gawkowski"
+  ],
+  "K. Genba": [
+   "Kōichirō Genba"
+  ],
+  "K. Handel": [
+   "Karen Handel"
+  ],
+  "K. Hareide": [
+   "Knut Arild Hareide"
+  ],
+  "K. Hochul": [
+   "Kathy Hochul"
+  ],
+  "K. Hunt": [
+   "Karmichael Hunt"
+  ],
+  "K. Hutchison": [
+   "Kay Bailey Hutchison"
+  ],
+  "K. Jacques": [
+   "Kateřina Jacques"
+  ],
+  "K. Joy": [
+   "Katherine Joy"
+  ],
+  "K. Keneally": [
+   "Kristina Keneally"
+  ],
+  "K. Ledecky": [
+   "Katie Ledecky"
+  ],
+  "K. Looney": [
+   "Kevon Looney"
+  ],
+  "K. Perera": [
+   "Kushal Janith Perera"
+  ],
+  "K. Perkins": [
+   "Kendrick Perkins"
+  ],
+  "K. Rice": [
+   "Kathleen Rice"
+  ],
+  "K. Turunen": [
+   "Kari Turunen"
+  ],
+  "K. Wynne": [
+   "Kathleen Wynne"
+  ],
+  "KS Vllaznia": [
+   "KS Vllaznia Shkodër"
+  ],
+  "Kabir": [
+   "Farida Kabir"
+  ],
+  "Kaiser": [
+   "Brittany Kaiser"
+  ],
+  "Kaljurand": [
+   "Marina Kaljurand"
+  ],
+  "Kamal": [
+   "Syed Mustafa Kamal"
+  ],
+  "Kamiński": [
+   "Michał Kamiński"
+  ],
+  "Kanal": [
+   "Kanal 11"
+  ],
+  "Karen": [
+   "Karen Bass",
+   "Karen Handel"
+  ],
+  "Kari": [
+   "Kari Turunen"
+  ],
+  "Karmichael": [
+   "Karmichael Hunt"
+  ],
+  "Karmiotissa": [
+   "Karmiotissa Pano Polemidion"
+  ],
+  "Karmiotissa Pano": [
+   "Karmiotissa Pano Polemidion"
+  ],
+  "Karoui": [
+   "Hamed Karoui"
+  ],
+  "Karthik": [
+   "Dinesh Karthik"
+  ],
+  "Kasselstrand": [
+   "Gustav Kasselstrand"
+  ],
+  "Kateřina": [
+   "Kateřina Jacques"
+  ],
+  "Katherine": [
+   "Katherine Joy"
+  ],
+  "Kathleen": [
+   "Kathleen Rice",
+   "Kathleen Wynne"
+  ],
+  "Kathy": [
+   "Kathy Hochul"
+  ],
+  "Katie": [
+   "Katie Ledecky"
+  ],
+  "Kay": [
+   "Kay Bailey Hutchison"
+  ],
+  "Kay Bailey": [
+   "Kay Bailey Hutchison"
+  ],
+  "Keating": [
+   "Bill Keating"
+  ],
+  "Kei": [
+   "Kei Nishikori"
+  ],
+  "Kendrick": [
+   "Kendrick Perkins"
+  ],
+  "Keneally": [
+   "Kristina Keneally"
+  ],
+  "Kennedy": [
+   "John Neely Kennedy"
+  ],
+  "Kenyatta": [
+   "Uhuru Kenyatta"
+  ],
+  "Kerlogot": [
+   "Yannick Kerlogot"
+  ],
+  "Kevon": [
+   "Kevon Looney"
+  ],
+  "Keşla": [
+   "Keşla FK"
+  ],
+  "Khan": [
+   "Imran Khan"
+  ],
+  "Khattak": [
+   "Pervez Khattak"
+  ],
+  "Kieran": [
+   "Kieran Foran"
+  ],
+  "Kihuen": [
+   "Ruben Kihuen"
+  ],
+  "King": [
+   "Penelope L King"
+  ],
+  "Kirchner": [
+   "Julie Kirchner"
+  ],
+  "Kissane": [
+   "David W. Kissane"
+  ],
+  "Knattspyrnufélagið": [
+   "Knattspyrnufélagið Víkingur"
+  ],
+  "Knight": [
+   "Steve Knight"
+  ],
+  "Knut": [
+   "Knut Arild Hareide"
+  ],
+  "Knut Arild": [
+   "Knut Arild Hareide"
+  ],
+  "Kongsvinger": [
+   "Kongsvinger Line"
+  ],
+  "Konstantopoulou": [
+   "Zoi Konstantopoulou"
+  ],
+  "Korona": [
+   "Korona Kielce"
+  ],
+  "Kostick": [
+   "Conor Kostick"
+  ],
+  "Kovač": [
+   "Sonja Kovač"
+  ],
+  "Kristersson": [
+   "Ulf Kristersson"
+  ],
+  "Kristina": [
+   "Kristina Keneally"
+  ],
+  "Krzysztof": [
+   "Krzysztof Gawkowski"
+  ],
+  "Kuo-yu": [
+   "Han Kuo-yu"
+  ],
+  "Kushal": [
+   "Kushal Janith Perera"
+  ],
+  "Kushal Janith": [
+   "Kushal Janith Perera"
+  ],
+  "Kuzu": [
+   "Tunahan Kuzu"
+  ],
+  "Kučinskis": [
+   "Māris Kučinskis"
+  ],
+  "Kyo-ahn": [
+   "Hwang Kyo-ahn"
+  ],
+  "Köhler": [
+   "Horst Köhler"
+  ],
+  "Kōichirō": [
+   "Kōichirō Genba"
+  ],
+  "L. Antonio": [
+   "L. Antonio Curet"
+  ],
+  "L. Barletta": [
+   "Lou Barletta"
+  ],
+  "L. Bontes": [
+   "Louis Bontes"
+  ],
+  "L. Chan": [
+   "Lee Hae Chan"
+  ],
+  "L. Cunningham": [
+   "Lisa Cunningham"
+  ],
+  "L. Eddine": [
+   "Lina Zahr Eddine"
+  ],
+  "L. Frankel": [
+   "Lois Frankel"
+  ],
+  "L. Gewessler": [
+   "Leonore Gewessler"
+  ],
+  "L. Gladney": [
+   "Larry Gladney"
+  ],
+  "L. Gullifer": [
+   "Louise Gullifer"
+  ],
+  "L. Hamilton": [
+   "Lewis Hamilton"
+  ],
+  "L. Harris": [
+   "Lucy Harris"
+  ],
+  "L. Hoang-Ngoc": [
+   "Liêm Hoang-Ngoc"
+  ],
+  "L. Jackson": [
+   "Lamar Jackson"
+  ],
+  "L. James": [
+   "Letitia James"
+  ],
+  "L. Papademos": [
+   "Loukas Papademos"
+  ],
+  "L. Planas": [
+   "Luis Planas"
+  ],
+  "L. Tagle": [
+   "Luis Antonio Tagle"
+  ],
+  "L. Tanner": [
+   "Lindsay Tanner"
+  ],
+  "L. Williams": [
+   "Lauren Kiyomi Williams"
+  ],
+  "Lamar": [
+   "Lamar Jackson"
+  ],
+  "Lambie": [
+   "Jacqui Lambie"
+  ],
+  "Lambley": [
+   "Robyn Lambley"
+  ],
+  "Lancaster": [
+   "Martyn Lancaster"
+  ],
+  "Land": [
+   "Land Rover"
+  ],
+  "Larry": [
+   "Larry Gladney"
+  ],
+  "Larsson": [
+   "Henrik Larsson"
+  ],
+  "Lauren": [
+   "Lauren Kiyomi Williams"
+  ],
+  "Lauren Kiyomi": [
+   "Lauren Kiyomi Williams"
+  ],
+  "Lawrence": [
+   "Brenda Lawrence"
+  ],
+  "Laws": [
+   "David Laws"
+  ],
+  "Le Havre": [
+   "Le Havre AC"
+  ],
+  "Lechia": [
+   "Lechia Gdańsk"
+  ],
+  "Ledecky": [
+   "Katie Ledecky"
+  ],
+  "Lee": [
+   "Janice Lee",
+   "Lee Hae Chan"
+  ],
+  "Lee Hae": [
+   "Lee Hae Chan"
+  ],
+  "Lega": [
+   "Lega Nord Piemont"
+  ],
+  "Lega Nord": [
+   "Lega Nord Piemont"
+  ],
+  "Lehmann": [
+   "Jens Lehmann"
+  ],
+  "Leniaud": [
+   "Jean-Michel Leniaud"
+  ],
+  "Leonore": [
+   "Leonore Gewessler"
+  ],
+  "Letitia": [
+   "Letitia James"
+  ],
+  "Levy": [
+   "Orly Levy"
+  ],
+  "Lewis": [
+   "Lewis Hamilton"
+  ],
+  "Liga": [
+   "Liga Veneta"
+  ],
+  "Lille": [
+   "Lille Métropole Basket Club"
+  ],
+  "Lille Métropole Basket": [
+   "Lille Métropole Basket Club"
+  ],
+  "Lillestrøm": [
+   "Lillestrøm SK"
+  ],
+  "Lima": [
+   "Wilson Lima"
+  ],
+  "Lina": [
+   "Lina Zahr Eddine"
+  ],
+  "Lina Zahr": [
+   "Lina Zahr Eddine"
+  ],
+  "Lindsay": [
+   "Lindsay Tanner"
+  ],
+  "Lisa": [
+   "Lisa Cunningham"
+  ],
+  "Listhaug": [
+   "Sylvi Listhaug"
+  ],
+  "Lithuanian": [
+   "Lithuanian Confederation of Industrialists"
+  ],
+  "Liêm": [
+   "Liêm Hoang-Ngoc"
+  ],
+  "Lloyd": [
+   "Carli Lloyd"
+  ],
+  "Lois": [
+   "Lois Frankel"
+  ],
+  "Long": [
+   "Naomi Long"
+  ],
+  "Looney": [
+   "Kevon Looney"
+  ],
+  "Los Angeles": [
+   "Los Angeles Rams"
+  ],
+  "Los Cascos": [
+   "Los Cascos Esco-Agroplan"
+  ],
+  "Lou": [
+   "Lou Barletta"
+  ],
+  "Louis": [
+   "Germaine M Buck Louis",
+   "Louis Bontes"
+  ],
+  "Louise": [
+   "Louise Gullifer"
+  ],
+  "Louisville": [
+   "Louisville Cardinals men's basketball"
+  ],
+  "Loukas": [
+   "Loukas Papademos"
+  ],
+  "Love": [
+   "Mia Love"
+  ],
+  "Lucy": [
+   "Lucy Harris"
+  ],
+  "Luftëtari": [
+   "Luftëtari Gjirokastër"
+  ],
+  "Luis": [
+   "Luis Antonio Tagle",
+   "Luis Planas"
+  ],
+  "Luis Antonio": [
+   "Luis Antonio Tagle"
+  ],
+  "Lynch": [
+   "Marshawn Lynch"
+  ],
+  "Lähnemann": [
+   "Henrike Lähnemann"
+  ],
+  "M. Akşener": [
+   "Meral Akşener"
+  ],
+  "M. Bates": [
+   "Michael Bates, Baron Bates"
+  ],
+  "M. Bean": [
+   "Martin Bean"
+  ],
+  "M. Blais": [
+   "Marguerite Blais"
+  ],
+  "M. Bunge": [
+   "Marcia Bunge"
+  ],
+  "M. Cavendish": [
+   "Mark Cavendish"
+  ],
+  "M. Dittlot": [
+   "Michèle Dittlot"
+  ],
+  "M. Drakeford": [
+   "Mark Drakeford"
+  ],
+  "M. Ebrard": [
+   "Marcelo Ebrard"
+  ],
+  "M. Farmajo": [
+   "Mohamed Abdullahi Farmajo"
+  ],
+  "M. Fitzgerald": [
+   "Michael L. Fitzgerald"
+  ],
+  "M. Flynn": [
+   "Michael Flynn"
+  ],
+  "M. Ghalibaf": [
+   "Mohammad Bagher Ghalibaf"
+  ],
+  "M. Harper": [
+   "Mark Harper"
+  ],
+  "M. Hernández": [
+   "Máximo Huerta Hernández"
+  ],
+  "M. Jones-Drew": [
+   "Maurice Jones-Drew"
+  ],
+  "M. Kaljurand": [
+   "Marina Kaljurand"
+  ],
+  "M. Kamiński": [
+   "Michał Kamiński"
+  ],
+  "M. Kučinskis": [
+   "Māris Kučinskis"
+  ],
+  "M. Lancaster": [
+   "Martyn Lancaster"
+  ],
+  "M. Love": [
+   "Mia Love"
+  ],
+  "M. Lynch": [
+   "Marshawn Lynch"
+  ],
+  "M. Marlinspike": [
+   "Moxie Marlinspike"
+  ],
+  "M. Mason": [
+   "Matt Mason"
+  ],
+  "M. Materazzi": [
+   "Marco Materazzi"
+  ],
+  "M. McMahon": [
+   "Michael McMahon"
+  ],
+  "M. Meadows": [
+   "Mark Meadows"
+  ],
+  "M. Montero": [
+   "Mariló Montero"
+  ],
+  "M. Mortaza": [
+   "Mashrafe Mortaza"
+  ],
+  "M. Mulvaney": [
+   "Mick Mulvaney"
+  ],
+  "M. O'Brien": [
+   "Michael O'Brien"
+  ],
+  "M. Ouimet": [
+   "Matt Ouimet"
+  ],
+  "M. Riisager": [
+   "Merete Riisager"
+  ],
+  "M. Rober": [
+   "Mark Rober"
+  ],
+  "M. Roby": [
+   "Martha Roby"
+  ],
+  "M. Rolle": [
+   "Myron Rolle"
+  ],
+  "M. Rounds": [
+   "Mike Rounds"
+  ],
+  "M. Russell": [
+   "Michael Russell"
+  ],
+  "M. Saakashvili": [
+   "Mikheil Saakashvili"
+  ],
+  "M. Sanford": [
+   "Mark Sanford"
+  ],
+  "M. Scarponi": [
+   "Michele Scarponi"
+  ],
+  "M. Sherrill": [
+   "Mikie Sherrill"
+  ],
+  "M. Smith": [
+   "Malcolm Smith"
+  ],
+  "M. Spiro": [
+   "Michel Spiro"
+  ],
+  "M. Taibbi": [
+   "Mike Taibbi"
+  ],
+  "M. Terribas": [
+   "Mònica Terribas"
+  ],
+  "M. Weisband": [
+   "Marina Weisband"
+  ],
+  "M. Yovanovitch": [
+   "Marie L. Yovanovitch"
+  ],
+  "M. Zedda": [
+   "Massimo Zedda"
+  ],
+  "M. Šefčovič": [
+   "Maroš Šefčovič"
+  ],
+  "MTR": [
+   "MTR Corporation Limited"
+  ],
+  "Maardu": [
+   "Maardu Linnameeskond"
+  ],
+  "Maas": [
+   "Heiko Maas"
+  ],
+  "MacArthur": [
+   "Tom MacArthur"
+  ],
+  "MacLean": [
+   "Jennifer MacLean"
+  ],
+  "Macapagal-Arroyo": [
+   "Gloria Macapagal-Arroyo"
+  ],
+  "Maccabi": [
+   "Maccabi Netanya F.C."
+  ],
+  "Maccabi Netanya": [
+   "Maccabi Netanya F.C."
+  ],
+  "Maillard": [
+   "Sylvain Maillard"
+  ],
+  "Malcolm": [
+   "Malcolm Smith"
+  ],
+  "Maldeikienė": [
+   "Aušra Maldeikienė"
+  ],
+  "Malema": [
+   "Julius Malema"
+  ],
+  "Malmö": [
+   "Malmö FF"
+  ],
+  "Mamberti": [
+   "Dominique Mamberti"
+  ],
+  "Manchester": [
+   "Manchester City F.C."
+  ],
+  "Mandavilli": [
+   "Apoorva Mandavilli"
+  ],
+  "Mannhalter": [
+   "Christine Mannhalter"
+  ],
+  "Manning": [
+   "Peyton Manning"
+  ],
+  "Manziel": [
+   "Johnny Manziel"
+  ],
+  "Marcelo": [
+   "Marcelo Ebrard"
+  ],
+  "Marcia": [
+   "Marcia Bunge"
+  ],
+  "Marco": [
+   "Marco Materazzi"
+  ],
+  "Marguerite": [
+   "Marguerite Blais"
+  ],
+  "Marie": [
+   "Marie L. Yovanovitch"
+  ],
+  "Mariló": [
+   "Mariló Montero"
+  ],
+  "Marina": [
+   "Marina Kaljurand",
+   "Marina Weisband"
+  ],
+  "Mark": [
+   "Mark Cavendish",
+   "Mark Drakeford",
+   "Mark Harper",
+   "Mark Meadows",
+   "Mark Rober",
+   "Mark Sanford"
+  ],
+  "Marlinspike": [
+   "Moxie Marlinspike"
+  ],
+  "Maroš": [
+   "Maroš Šefčovič"
+  ],
+  "Marshawn": [
+   "Marshawn Lynch"
+  ],
+  "Martha": [
+   "Martha Roby"
+  ],
+  "Martin": [
+   "Martin Bean"
+  ],
+  "Martyn": [
+   "Martyn Lancaster"
+  ],
+  "Mashrafe": [
+   "Mashrafe Mortaza"
+  ],
+  "Mason": [
+   "Matt Mason"
+  ],
+  "Massimo": [
+   "Massimo Zedda"
+  ],
+  "Masto": [
+   "Catherine Cortez Masto"
+  ],
+  "Materazzi": [
+   "Marco Materazzi"
+  ],
+  "Matt": [
+   "Matt Mason",
+   "Matt Ouimet"
+  ],
+  "Mattis": [
+   "James Mattis"
+  ],
+  "Maurice": [
+   "Maurice Jones-Drew"
+  ],
+  "Mayfield": [
+   "Baker Mayfield"
+  ],
+  "McAllister": [
+   "David McAllister"
+  ],
+  "McGrath": [
+   "Amy McGrath"
+  ],
+  "McKenna": [
+   "Alistair McKenna"
+  ],
+  "McMahon": [
+   "Michael McMahon"
+  ],
+  "McNeill": [
+   "Ruffin McNeill"
+  ],
+  "McRaven": [
+   "William H. McRaven"
+  ],
+  "Meadows": [
+   "Mark Meadows"
+  ],
+  "Medley": [
+   "Graham F. Medley"
+  ],
+  "Mehra": [
+   "Bharat Mehra"
+  ],
+  "Meise": [
+   "Meise Botanic Garden"
+  ],
+  "Meise Botanic": [
+   "Meise Botanic Garden"
+  ],
+  "Meleșcanu": [
+   "Teodor Meleșcanu"
+  ],
+  "Mendoza": [
+   "Verónika Mendoza"
+  ],
+  "Meral": [
+   "Meral Akşener"
+  ],
+  "Merete": [
+   "Merete Riisager"
+  ],
+  "Meråker": [
+   "Meråker Line"
+  ],
+  "Meta": [
+   "Ilir Meta"
+  ],
+  "Mia": [
+   "Mia Love"
+  ],
+  "Michael": [
+   "Michael Bates, Baron Bates",
+   "Michael Flynn",
+   "Michael L. Fitzgerald",
+   "Michael McMahon",
+   "Michael O'Brien",
+   "Michael Russell"
+  ],
+  "Michael Bates, Baron": [
+   "Michael Bates, Baron Bates"
+  ],
+  "Michał": [
+   "Michał Kamiński"
+  ],
+  "Michel": [
+   "Michel Spiro"
+  ],
+  "Michele": [
+   "Michele Scarponi"
+  ],
+  "Michelsen": [
+   "Poul Michelsen"
+  ],
+  "Michèle": [
+   "Michèle Dittlot"
+  ],
+  "Mick": [
+   "Mick Mulvaney"
+  ],
+  "Miguel": [
+   "Noemí de Miguel"
+  ],
+  "Mike": [
+   "Mike Leach",
+   "Mike Rounds",
+   "Mike Taibbi"
+  ],
+  "Mikhaylov": [
+   "Ilya Mikhaylov"
+  ],
+  "Mikheil": [
+   "Mikheil Saakashvili"
+  ],
+  "Mikie": [
+   "Mikie Sherrill"
+  ],
+  "Milanović": [
+   "Zoran Milanović"
+  ],
+  "Mills": [
+   "Terry Mills"
+  ],
+  "Milos": [
+   "Milos Raonic"
+  ],
+  "Minnesota": [
+   "Minnesota Golden Gophers football"
+  ],
+  "Minnesota Golden Gophers": [
+   "Minnesota Golden Gophers football"
+  ],
+  "Misra": [
+   "Dipak Misra"
+  ],
+  "Mjällby": [
+   "Mjällby AIF"
+  ],
+  "Mo-po": [
+   "Paul Chan Mo-po"
+  ],
+  "Mohamed": [
+   "Mohamed Abdullahi Farmajo"
+  ],
+  "Mohamed Abdullahi": [
+   "Mohamed Abdullahi Farmajo"
+  ],
+  "Mohammad": [
+   "Mohammad Bagher Ghalibaf"
+  ],
+  "Mohammad Bagher": [
+   "Mohammad Bagher Ghalibaf"
+  ],
+  "Moldan": [
+   "Bedřich Moldan"
+  ],
+  "Mondi": [
+   "Mondi Group"
+  ],
+  "Montero": [
+   "Mariló Montero"
+  ],
+  "Montgomery": [
+   "Janet Montgomery"
+  ],
+  "Montpellier": [
+   "Montpellier Méditerranée Métropole"
+  ],
+  "Montpellier Méditerranée": [
+   "Montpellier Méditerranée Métropole"
+  ],
+  "Mooney": [
+   "Alex X. Mooney"
+  ],
+  "Moreau": [
+   "Corrie Moreau"
+  ],
+  "Mortaza": [
+   "Mashrafe Mortaza"
+  ],
+  "Motherwell": [
+   "Motherwell F.C."
+  ],
+  "Moxie": [
+   "Moxie Marlinspike"
+  ],
+  "Mueller": [
+   "Robert Mueller"
+  ],
+  "Mulvaney": [
+   "Mick Mulvaney"
+  ],
+  "Murphy": [
+   "Patrick Murphy",
+   "Phil Murphy"
+  ],
+  "Murray": [
+   "DeMarco Murray"
+  ],
+  "Mutharika": [
+   "Peter Mutharika"
+  ],
+  "Myanmar": [
+   "Myanmar Dental Association"
+  ],
+  "Myanmar Dental": [
+   "Myanmar Dental Association"
+  ],
+  "Myron": [
+   "Myron Rolle"
+  ],
+  "Máximo": [
+   "Máximo Huerta Hernández"
+  ],
+  "Máximo Huerta": [
+   "Máximo Huerta Hernández"
+  ],
+  "Mònica": [
+   "Mònica Terribas"
+  ],
+  "Müller": [
+   "Gerhard Ludwig Müller"
+  ],
+  "Māris": [
+   "Māris Kučinskis"
+  ],
+  "N. Al-Nashif": [
+   "Nada Al-Nashif"
+  ],
+  "N. Deal": [
+   "Nathan Deal"
+  ],
+  "N. Farage": [
+   "Nigel Farage"
+  ],
+  "N. Foles": [
+   "Nick Foles"
+  ],
+  "N. Ghesquière": [
+   "Nicolas Ghesquière"
+  ],
+  "N. Long": [
+   "Naomi Long"
+  ],
+  "N. Miguel": [
+   "Noemí de Miguel"
+  ],
+  "N. Nikolópoulos": [
+   "Níkos Nikolópoulos"
+  ],
+  "N. Pashinyan": [
+   "Nikol Pashinyan"
+  ],
+  "N. Quintana": [
+   "Nairo Quintana"
+  ],
+  "N. Sidhu": [
+   "Navjot Singh Sidhu"
+  ],
+  "N. Stauskas": [
+   "Nik Stauskas"
+  ],
+  "N. Wheate": [
+   "Nial J. Wheate"
+  ],
+  "NAC": [
+   "NAC Breda"
+  ],
+  "NK Inter": [
+   "NK Inter Zaprešić"
+  ],
+  "NK Rudar": [
+   "NK Rudar Velenje"
+  ],
+  "NK Slaven": [
+   "NK Slaven Belupo"
+  ],
+  "NSÍ": [
+   "NSÍ Runavík"
+  ],
+  "Nada": [
+   "Nada Al-Nashif"
+  ],
+  "Nairo": [
+   "Nairo Quintana"
+  ],
+  "Nantou": [
+   "Nantou County"
+  ],
+  "Naomi": [
+   "Naomi Long"
+  ],
+  "Nathan": [
+   "Nathan Deal"
+  ],
+  "Navjot": [
+   "Navjot Singh Sidhu"
+  ],
+  "Navjot Singh": [
+   "Navjot Singh Sidhu"
+  ],
+  "New": [
+   "New York City"
+  ],
+  "New York": [
+   "New York City"
+  ],
+  "Newell's": [
+   "Newell's Old Boys"
+  ],
+  "Newell's Old": [
+   "Newell's Old Boys"
+  ],
+  "Newman": [
+   "Campbell Newman"
+  ],
+  "Nial": [
+   "Nial J. Wheate"
+  ],
+  "Nibali": [
+   "Vincenzo Nibali"
+  ],
+  "Nick": [
+   "Nick Foles"
+  ],
+  "Nicolas": [
+   "Nicolas Ghesquière"
+  ],
+  "Nieto": [
+   "Enrique Peña Nieto"
+  ],
+  "Nigel": [
+   "Nigel Farage"
+  ],
+  "Nik": [
+   "Nik Stauskas"
+  ],
+  "Nikol": [
+   "Nikol Pashinyan"
+  ],
+  "Nikolópoulos": [
+   "Níkos Nikolópoulos"
+  ],
+  "Nitzan": [
+   "Abraham Nitzan"
+  ],
+  "Nizhny": [
+   "Nizhny Novgorod"
+  ],
+  "Noemí": [
+   "Noemí de Miguel"
+  ],
+  "Nooyi": [
+   "Indra Nooyi"
+  ],
+  "Nordland": [
+   "Nordland Line"
+  ],
+  "Norman": [
+   "Josh Norman"
+  ],
+  "Nugent": [
+   "Rich Nugent"
+  ],
+  "Numedal": [
+   "Numedal Line"
+  ],
+  "Níkos": [
+   "Níkos Nikolópoulos"
+  ],
+  "O'Brien": [
+   "Michael O'Brien",
+   "Stephen O'Brien"
+  ],
+  "O'Halleran": [
+   "Tom O'Halleran"
+  ],
+  "O. Balafrej": [
+   "Omar Balafrej"
+  ],
+  "O. Grégoire": [
+   "Olivia Grégoire"
+  ],
+  "O. Günther": [
+   "Oliver Günther"
+  ],
+  "O. Levy": [
+   "Orly Levy"
+  ],
+  "O. Radi": [
+   "Omar Radi"
+  ],
+  "OFI": [
+   "OFI Crete"
+  ],
+  "Obiols": [
+   "Clara Ponsatí i Obiols"
+  ],
+  "Odder": [
+   "Odder Municipality"
+  ],
+  "Odell": [
+   "Odell Beckham Jr."
+  ],
+  "Odell Beckham": [
+   "Odell Beckham Jr."
+  ],
+  "Oliver": [
+   "Oliver Günther"
+  ],
+  "Oliveres": [
+   "Antoni Comín i Oliveres"
+  ],
+  "Olivia": [
+   "Olivia Grégoire"
+  ],
+  "Olson": [
+   "DaiWai Olson"
+  ],
+  "Olympiacos": [
+   "Olympiacos F.C."
+  ],
+  "Omar": [
+   "Omar Balafrej",
+   "Omar Radi"
+  ],
+  "Orly": [
+   "Orly Levy"
+  ],
+  "Ortiz": [
+   "Abdalá Bucaram Ortiz"
+  ],
+  "Oslo": [
+   "Oslo Tunnel"
+  ],
+  "Osothsilp": [
+   "Jina Osothsilp"
+  ],
+  "Ouimet": [
+   "Matt Ouimet"
+  ],
+  "P. Aguilar": [
+   "Pete Aguilar"
+  ],
+  "P. Altmaier": [
+   "Peter Altmaier"
+  ],
+  "P. Bennett": [
+   "Paula Bennett"
+  ],
+  "P. Chêne": [
+   "Patrick Chêne"
+  ],
+  "P. Codrea": [
+   "Paul Codrea"
+  ],
+  "P. Elahi": [
+   "Parvez Elahi"
+  ],
+  "P. Gallagher": [
+   "Pat the Cope Gallagher"
+  ],
+  "P. George": [
+   "Paul George"
+  ],
+  "P. Gilbert": [
+   "Philippe Gilbert"
+  ],
+  "P. Harris": [
+   "Patricia Harris"
+  ],
+  "P. Helm": [
+   "Peyton R. Helm"
+  ],
+  "P. Hoekstra": [
+   "Pete Hoekstra"
+  ],
+  "P. Hudson": [
+   "Phil Hudson"
+  ],
+  "P. Javadekar": [
+   "Prakash Javadekar"
+  ],
+  "P. Ježek": [
+   "Petr Ježek"
+  ],
+  "P. Khattak": [
+   "Pervez Khattak"
+  ],
+  "P. King": [
+   "Penelope L King"
+  ],
+  "P. Manning": [
+   "Peyton Manning"
+  ],
+  "P. Michelsen": [
+   "Poul Michelsen"
+  ],
+  "P. Mo-po": [
+   "Paul Chan Mo-po"
+  ],
+  "P. Murphy": [
+   "Patrick Murphy",
+   "Phil Murphy"
+  ],
+  "P. Mutharika": [
+   "Peter Mutharika"
+  ],
+  "P. Patel": [
+   "Priti Patel"
+  ],
+  "P. Pierluisi": [
+   "Pedro Pierluisi"
+  ],
+  "P. Ramchandani": [
+   "Paul Ramchandani"
+  ],
+  "P. Ramírez": [
+   "Pedro J. Ramírez"
+  ],
+  "P. Rivers": [
+   "Philip Rivers"
+  ],
+  "P. Robinson": [
+   "Paul Robinson"
+  ],
+  "P. Sagan": [
+   "Peter Sagan"
+  ],
+  "P. Sensburg": [
+   "Patrick Sensburg"
+  ],
+  "P. Viola": [
+   "Paul Viola"
+  ],
+  "P. Väyrynen": [
+   "Paavo Väyrynen"
+  ],
+  "PFC": [
+   "PFC Botev Plovdiv",
+   "PFC Sochi"
+  ],
+  "PFC Botev": [
+   "PFC Botev Plovdiv"
+  ],
+  "Paavo": [
+   "Paavo Väyrynen"
+  ],
+  "Pafos": [
+   "Pafos FC"
+  ],
+  "Palmer": [
+   "Clive Palmer"
+  ],
+  "Papademos": [
+   "Loukas Papademos"
+  ],
+  "Party of Civic": [
+   "Party of Civic Rights"
+  ],
+  "Parvez": [
+   "Parvez Elahi"
+  ],
+  "Pashinyan": [
+   "Nikol Pashinyan"
+  ],
+  "Pat": [
+   "Pat the Cope Gallagher"
+  ],
+  "Pat the Cope": [
+   "Pat the Cope Gallagher"
+  ],
+  "Patel": [
+   "Priti Patel"
+  ],
+  "Patricia": [
+   "Patricia Harris"
+  ],
+  "Patrick": [
+   "Patrick Chêne",
+   "Patrick Murphy",
+   "Patrick Sensburg"
+  ],
+  "Paul": [
+   "Paul Chan Mo-po",
+   "Paul Codrea",
+   "Paul George",
+   "Paul Ramchandani",
+   "Paul Robinson",
+   "Paul Viola"
+  ],
+  "Paul Chan": [
+   "Paul Chan Mo-po"
+  ],
+  "Paula": [
+   "Paula Bennett"
+  ],
+  "Pazmiño": [
+   "Gabriela Pazmiño"
+  ],
+  "Pedro": [
+   "Pedro J. Ramírez",
+   "Pedro Pierluisi"
+  ],
+  "Penelope": [
+   "Penelope L King"
+  ],
+  "Penn": [
+   "Penn FC"
+  ],
+  "People's": [
+   "People's Party of the Balearic Islands"
+  ],
+  "People's Party of the Balearic": [
+   "People's Party of the Balearic Islands"
+  ],
+  "Perdue": [
+   "Sonny Perdue"
+  ],
+  "Perera": [
+   "Kushal Janith Perera"
+  ],
+  "Perkins": [
+   "Kendrick Perkins"
+  ],
+  "Perry": [
+   "Rick Perry"
+  ],
+  "Pervez": [
+   "Pervez Khattak"
+  ],
+  "Pete": [
+   "Pete Aguilar",
+   "Pete Hoekstra"
+  ],
+  "Peter": [
+   "Peter Altmaier",
+   "Peter Mutharika",
+   "Peter Sagan"
+  ],
+  "Peters": [
+   "Scott Peters"
+  ],
+  "Peterson": [
+   "Adrian Peterson"
+  ],
+  "Petr": [
+   "Petr Ježek"
+  ],
+  "Petro": [
+   "Gustavo Petro"
+  ],
+  "Petsalis-Diomidis": [
+   "Alexia Petsalis-Diomidis"
+  ],
+  "Peyton": [
+   "Peyton Manning",
+   "Peyton R. Helm"
+  ],
+  "Phelps": [
+   "Clarice E. Phelps"
+  ],
+  "Phil": [
+   "Phil Hudson",
+   "Phil Murphy"
+  ],
+  "Philadelphia": [
+   "Philadelphia Eagles"
+  ],
+  "Philip": [
+   "Philip Rivers"
+  ],
+  "Philippe": [
+   "Philippe Gilbert"
+  ],
+  "Picanyol": [
+   "Jordi Sànchez i Picanyol"
+  ],
+  "Pierluisi": [
+   "Pedro Pierluisi"
+  ],
+  "Pippo": [
+   "Simonetta Di Pippo"
+  ],
+  "Pirate": [
+   "Pirate Party Berlin"
+  ],
+  "Pisanu": [
+   "Giuseppe Pisanu"
+  ],
+  "Pitt": [
+   "Curtis Pitt"
+  ],
+  "Planas": [
+   "Luis Planas"
+  ],
+  "Platts": [
+   "Todd Russell Platts"
+  ],
+  "Pogoń": [
+   "Pogoń Szczecin"
+  ],
+  "Poliquin": [
+   "Bruce Poliquin"
+  ],
+  "Polydoras": [
+   "Viron Polydoras"
+  ],
+  "Ponomarev": [
+   "Ilya Ponomarev"
+  ],
+  "Portadown": [
+   "Portadown F.C."
+  ],
+  "Porte": [
+   "Richie Porte"
+  ],
+  "Portland": [
+   "Portland Thorns FC"
+  ],
+  "Portland Thorns": [
+   "Portland Thorns FC"
+  ],
+  "Portuguese": [
+   "Portuguese League for Professional Football"
+  ],
+  "Portuguese League for Professional": [
+   "Portuguese League for Professional Football"
+  ],
+  "Pospíšil": [
+   "Jiří Pospíšil"
+  ],
+  "Poul": [
+   "Poul Michelsen"
+  ],
+  "Prakash": [
+   "Prakash Javadekar"
+  ],
+  "Pranckietis": [
+   "Viktoras Pranckietis"
+  ],
+  "Premadasa": [
+   "Sajith Premadasa"
+  ],
+  "Priti": [
+   "Priti Patel"
+  ],
+  "Progressive": [
+   "Progressive Party of Maldives"
+  ],
+  "Provopoulos": [
+   "Giorgos Provopoulos"
+  ],
+  "Pugacheva": [
+   "Alla Pugacheva"
+  ],
+  "Pélisson": [
+   "Gilles Pélisson"
+  ],
+  "Queen": [
+   "Wendy L. Queen"
+  ],
+  "Quintana": [
+   "Nairo Quintana"
+  ],
+  "R. Biedroń": [
+   "Robert Biedroń"
+  ],
+  "R. Blumenthal": [
+   "Richard Blumenthal"
+  ],
+  "R. Buch": [
+   "Rolf Buch"
+  ],
+  "R. Davis": [
+   "Rodney L. Davis"
+  ],
+  "R. Emanuel": [
+   "Rahm Emanuel"
+  ],
+  "R. Fiala": [
+   "Radim Fiala"
+  ],
+  "R. Gates": [
+   "Robert Gates"
+  ],
+  "R. Gronkowski": [
+   "Rob Gronkowski"
+  ],
+  "R. Hakeem": [
+   "Rauff Hakeem"
+  ],
+  "R. Hesjedal": [
+   "Ryder Hesjedal"
+  ],
+  "R. Kihuen": [
+   "Ruben Kihuen"
+  ],
+  "R. Lambley": [
+   "Robyn Lambley"
+  ],
+  "R. McNeill": [
+   "Ruffin McNeill"
+  ],
+  "R. Mueller": [
+   "Robert Mueller"
+  ],
+  "R. Nugent": [
+   "Rich Nugent"
+  ],
+  "R. Perry": [
+   "Rick Perry"
+  ],
+  "R. Porte": [
+   "Richie Porte"
+  ],
+  "R. Rivlin": [
+   "Reuven Rivlin"
+  ],
+  "R. Sharif": [
+   "Raheel Sharif"
+  ],
+  "R. Sharma": [
+   "Rohit Sharma"
+  ],
+  "R. Shipley": [
+   "Rebecca J Shipley"
+  ],
+  "R. Sikorski": [
+   "Radosław Sikorski"
+  ],
+  "R. Simmons": [
+   "Ruth Simmons"
+  ],
+  "R. Tisci": [
+   "Riccardo Tisci"
+  ],
+  "R. Trzaskowski": [
+   "Rafał Trzaskowski"
+  ],
+  "R. Upshaw": [
+   "Robert Upshaw"
+  ],
+  "R. Urán": [
+   "Rigoberto Urán"
+  ],
+  "R. Woelki": [
+   "Rainer Woelki"
+  ],
+  "R. Šimašius": [
+   "Remigijus Šimašius"
+  ],
+  "RCD": [
+   "RCD Mallorca"
+  ],
+  "Racing": [
+   "Racing Club"
+  ],
+  "Rackete": [
+   "Carola Rackete"
+  ],
+  "Radi": [
+   "Omar Radi"
+  ],
+  "Radim": [
+   "Radim Fiala"
+  ],
+  "Radosław": [
+   "Radosław Sikorski"
+  ],
+  "Rafał": [
+   "Rafał Trzaskowski"
+  ],
+  "Raggi": [
+   "Virginia Raggi"
+  ],
+  "Raheel": [
+   "Raheel Sharif"
+  ],
+  "Rahm": [
+   "Rahm Emanuel"
+  ],
+  "Rainer": [
+   "Rainer Woelki"
+  ],
+  "Raith": [
+   "Raith Rovers F.C."
+  ],
+  "Raith Rovers": [
+   "Raith Rovers F.C."
+  ],
+  "Raja": [
+   "Raja Casablanca"
+  ],
+  "Ramchandani": [
+   "Paul Ramchandani"
+  ],
+  "Ramos": [
+   "Jessica Ramos"
+  ],
+  "Ramírez": [
+   "Pedro J. Ramírez"
+  ],
+  "Randsfjorden": [
+   "Randsfjorden Line"
+  ],
+  "Ratcliffe": [
+   "John Ratcliffe"
+  ],
+  "Rauff": [
+   "Rauff Hakeem"
+  ],
+  "Rauma": [
+   "Rauma Line"
+  ],
+  "Rebecca": [
+   "Rebecca J Shipley"
+  ],
+  "Reed": [
+   "Betsy Reed"
+  ],
+  "Remigijus": [
+   "Remigijus Šimašius"
+  ],
+  "Reuven": [
+   "Reuven Rivlin"
+  ],
+  "Rhode": [
+   "Rhode Island School of Design"
+  ],
+  "Ribéry": [
+   "Franck Ribéry"
+  ],
+  "Riccardo": [
+   "Riccardo Tisci"
+  ],
+  "Ricciardo": [
+   "Daniel Ricciardo"
+  ],
+  "Rice": [
+   "Kathleen Rice",
+   "Tom Rice"
+  ],
+  "Rich": [
+   "Rich Nugent"
+  ],
+  "Richard": [
+   "Richard Blumenthal",
+   "Richard Gasquet"
+  ],
+  "Richardson": [
+   "Heather Cox Richardson"
+  ],
+  "Richie": [
+   "Richie Porte"
+  ],
+  "Rick": [
+   "Rick Perry"
+  ],
+  "Rigoberto": [
+   "Rigoberto Urán"
+  ],
+  "Riisager": [
+   "Merete Riisager"
+  ],
+  "Rio": [
+   "Rio Ave F.C.",
+   "Rio de Janeiro"
+  ],
+  "Rio Ave": [
+   "Rio Ave F.C."
+  ],
+  "Riquelme": [
+   "Juan Román Riquelme"
+  ],
+  "Rivers": [
+   "Philip Rivers"
+  ],
+  "Rivlin": [
+   "Reuven Rivlin"
+  ],
+  "Rob": [
+   "Rob Gronkowski"
+  ],
+  "Robb": [
+   "AnnaSophia Robb"
+  ],
+  "Rober": [
+   "Mark Rober"
+  ],
+  "Robert": [
+   "Robert Biedroń",
+   "Robert Gates",
+   "Robert Mueller",
+   "Robert Upshaw"
+  ],
+  "Robinson": [
+   "Paul Robinson"
+  ],
+  "Roby": [
+   "Martha Roby"
+  ],
+  "Robyn": [
+   "Robyn Lambley"
+  ],
+  "Rodney": [
+   "Rodney L. Davis"
+  ],
+  "Rodriguez": [
+   "Amy Rodriguez"
+  ],
+  "Rohit": [
+   "Rohit Sharma"
+  ],
+  "Roitfeld": [
+   "Carine Roitfeld"
+  ],
+  "Rokita": [
+   "Todd Rokita"
+  ],
+  "Rolf": [
+   "Rolf Buch"
+  ],
+  "Rolle": [
+   "Myron Rolle"
+  ],
+  "Roman": [
+   "Roman Catholic Archdiocese of Cardiff"
+  ],
+  "Rose": [
+   "Guillaume Rose"
+  ],
+  "Rosenthal": [
+   "Brian M. Rosenthal"
+  ],
+  "Rossi": [
+   "Valentino Rossi"
+  ],
+  "Rossum": [
+   "Guido van Rossum"
+  ],
+  "Roth": [
+   "Alvin Eliot Roth"
+  ],
+  "Rounds": [
+   "Mike Rounds"
+  ],
+  "Rovelli": [
+   "Carlo Rovelli"
+  ],
+  "Royal": [
+   "Royal Dutch Rowing Federation",
+   "Royal Spanish Football Federation"
+  ],
+  "Royal Dutch Rowing": [
+   "Royal Dutch Rowing Federation"
+  ],
+  "Ruak": [
+   "Taur Matan Ruak"
+  ],
+  "Ruben": [
+   "Ruben Kihuen"
+  ],
+  "Ruffin": [
+   "Ruffin McNeill"
+  ],
+  "Russell": [
+   "Michael Russell"
+  ],
+  "Ruth": [
+   "Ruth Simmons"
+  ],
+  "Rutherford": [
+   "John Rutherford"
+  ],
+  "Ryder": [
+   "Ryder Hesjedal"
+  ],
+  "Ríos": [
+   "Zury Ríos"
+  ],
+  "Røros": [
+   "Røros Line"
+  ],
+  "S. Abi-Elias": [
+   "Sandy Abi-Elias"
+  ],
+  "S. Atger": [
+   "Stéphanie Atger"
+  ],
+  "S. Berlusconi": [
+   "Silvio Berlusconi"
+  ],
+  "S. Bird": [
+   "Sue Bird"
+  ],
+  "S. Bradford": [
+   "Sam Bradford"
+  ],
+  "S. Burwell": [
+   "Sylvia Burwell"
+  ],
+  "S. Ceccardi": [
+   "Susanna Ceccardi"
+  ],
+  "S. Conde": [
+   "Santiago Abascal Conde"
+  ],
+  "S. Constantinople": [
+   "Sahak II Mashalian of Constantinople"
+  ],
+  "S. Croley": [
+   "Steven P. Croley"
+  ],
+  "S. Donnelly": [
+   "Stephen Donnelly"
+  ],
+  "S. Duffy": [
+   "Sean Duffy"
+  ],
+  "S. Finn": [
+   "Steven Finn"
+  ],
+  "S. Jaishankar": [
+   "Subrahmanyam Jaishankar"
+  ],
+  "S. Kamal": [
+   "Syed Mustafa Kamal"
+  ],
+  "S. Knight": [
+   "Steve Knight"
+  ],
+  "S. Kovač": [
+   "Sonja Kovač"
+  ],
+  "S. Listhaug": [
+   "Sylvi Listhaug"
+  ],
+  "S. Maillard": [
+   "Sylvain Maillard"
+  ],
+  "S. O'Brien": [
+   "Stephen O'Brien"
+  ],
+  "S. Perdue": [
+   "Sonny Perdue"
+  ],
+  "S. Peters": [
+   "Scott Peters"
+  ],
+  "S. Pippo": [
+   "Simonetta Di Pippo"
+  ],
+  "S. Premadasa": [
+   "Sajith Premadasa"
+  ],
+  "S. Sakorafa": [
+   "Sofia Sakorafa"
+  ],
+  "S. Salaita": [
+   "Steven Salaita"
+  ],
+  "S. Sivborg": [
+   "Susanne Ås Sivborg"
+  ],
+  "S. Smith": [
+   "Sean Smith"
+  ],
+  "S. Stevenson": [
+   "Stewart Stevenson"
+  ],
+  "S. Stoddart": [
+   "Simon Stoddart"
+  ],
+  "S. Styles": [
+   "Suzy Styles"
+  ],
+  "S. Tomkins": [
+   "Sam Tomkins"
+  ],
+  "S. Vettel": [
+   "Sebastian Vettel"
+  ],
+  "S. Villalobos": [
+   "Sergio Villalobos"
+  ],
+  "S. Womack": [
+   "Steve Womack"
+  ],
+  "S. Yenbou": [
+   "Salima Yenbou"
+  ],
+  "S. Zurabishvili": [
+   "Salome Zurabishvili"
+  ],
+  "S. Öztürk": [
+   "Selçuk Öztürk"
+  ],
+  "SBV": [
+   "SBV Excelsior"
+  ],
+  "SC Paderborn": [
+   "SC Paderborn 07"
+  ],
+  "SC Preußen": [
+   "SC Preußen Münster"
+  ],
+  "SC Rheindorf": [
+   "SC Rheindorf Altach"
+  ],
+  "SFC": [
+   "SFC Opava"
+  ],
+  "SK Sigma": [
+   "SK Sigma Olomouc"
+  ],
+  "Saakashvili": [
+   "Mikheil Saakashvili"
+  ],
+  "Sabah": [
+   "Sabah Football Club"
+  ],
+  "Sabucedo": [
+   "Jose Manuel Sabucedo"
+  ],
+  "Sadovyi": [
+   "Andriy Sadovyi"
+  ],
+  "Sagan": [
+   "Peter Sagan"
+  ],
+  "Sahak": [
+   "Sahak II Mashalian of Constantinople"
+  ],
+  "Sajith": [
+   "Sajith Premadasa"
+  ],
+  "Sakorafa": [
+   "Sofia Sakorafa"
+  ],
+  "Salaita": [
+   "Steven Salaita"
+  ],
+  "Salih": [
+   "Barham Salih"
+  ],
+  "Salima": [
+   "Salima Yenbou"
+  ],
+  "Salome": [
+   "Salome Zurabishvili"
+  ],
+  "Sam": [
+   "Sam Bradford",
+   "Sam Tomkins"
+  ],
+  "Samsø": [
+   "Samsø Municipality"
+  ],
+  "Sandefjord": [
+   "Sandefjord Fotball"
+  ],
+  "Sandy": [
+   "Sandy Abi-Elias"
+  ],
+  "Sanford": [
+   "Mark Sanford"
+  ],
+  "Santiago": [
+   "Santiago Abascal Conde"
+  ],
+  "Santiago Abascal": [
+   "Santiago Abascal Conde"
+  ],
+  "Sar": [
+   "Edwin van der Sar"
+  ],
+  "Sarpsborg": [
+   "Sarpsborg 08 FF"
+  ],
+  "Saunders": [
+   "Elaine Saunders"
+  ],
+  "Scarponi": [
+   "Michele Scarponi"
+  ],
+  "Scholze": [
+   "Frank Scholze"
+  ],
+  "Schölkopf": [
+   "Bernhard Schölkopf"
+  ],
+  "Scott": [
+   "Scott Peters"
+  ],
+  "Sean": [
+   "Sean Duffy",
+   "Sean Smith"
+  ],
+  "Sebastian": [
+   "Sebastian Vettel"
+  ],
+  "Sector": [
+   "Sector 1"
+  ],
+  "Seedorf": [
+   "Clarence Seedorf"
+  ],
+  "Seibeb": [
+   "Henny Seibeb"
+  ],
+  "Seinäjoen": [
+   "Seinäjoen Jalkapallokerho"
+  ],
+  "Selçuk": [
+   "Selçuk Öztürk"
+  ],
+  "Sensburg": [
+   "Patrick Sensburg"
+  ],
+  "Sergio": [
+   "Sergio Villalobos"
+  ],
+  "Shamrock": [
+   "Shamrock Rovers F.C."
+  ],
+  "Shamrock Rovers": [
+   "Shamrock Rovers F.C."
+  ],
+  "Sharif": [
+   "Raheel Sharif"
+  ],
+  "Sharma": [
+   "Rohit Sharma"
+  ],
+  "Sheffield": [
+   "Sheffield United F.C."
+  ],
+  "Sheffield United": [
+   "Sheffield United F.C."
+  ],
+  "Shelbourne": [
+   "Shelbourne F.C."
+  ],
+  "Sherrill": [
+   "Mikie Sherrill"
+  ],
+  "Shipley": [
+   "Rebecca J Shipley"
+  ],
+  "Shivambu": [
+   "Floyd Shivambu"
+  ],
+  "Shonan": [
+   "Shonan Bellmare"
+  ],
+  "Short": [
+   "Emily Short"
+  ],
+  "Sidhu": [
+   "Navjot Singh Sidhu"
+  ],
+  "Sikorski": [
+   "Radosław Sikorski"
+  ],
+  "Silvio": [
+   "Silvio Berlusconi"
+  ],
+  "Simmons": [
+   "Ruth Simmons"
+  ],
+  "Simon": [
+   "Simon Stoddart"
+  ],
+  "Simonetta": [
+   "Simonetta Di Pippo"
+  ],
+  "Sinclair": [
+   "Christine Sinclair"
+  ],
+  "Sint": [
+   "Sint Maarten"
+  ],
+  "Sivborg": [
+   "Susanne Ås Sivborg"
+  ],
+  "Skydive": [
+   "Skydive Dubai-Al Ahli"
+  ],
+  "Skydive Dubai-Al": [
+   "Skydive Dubai-Al Ahli"
+  ],
+  "Skøyen": [
+   "Skøyen Station"
+  ],
+  "Skøyen–Filipstad": [
+   "Skøyen–Filipstad Line"
+  ],
+  "Slagelse": [
+   "Slagelse Municipality"
+  ],
+  "Slaughter": [
+   "Anne-Marie Slaughter"
+  ],
+  "Sligo": [
+   "Sligo Rovers F.C."
+  ],
+  "Sligo Rovers": [
+   "Sligo Rovers F.C."
+  ],
+  "Slotkin": [
+   "Elissa Slotkin"
+  ],
+  "Smallwood": [
+   "Jonathan Smallwood"
+  ],
+  "Smith": [
+   "Alex Smith",
+   "John L. Smith",
+   "Jordan Randall Smith",
+   "Malcolm Smith",
+   "Sean Smith"
+  ],
+  "Sofia": [
+   "Sofia Sakorafa"
+  ],
+  "Solør": [
+   "Solør Line"
+  ],
+  "Son-Forget": [
+   "Joachim Son-Forget"
+  ],
+  "Sonja": [
+   "Sonja Kovač"
+  ],
+  "Sonny": [
+   "Sonny Perdue"
+  ],
+  "Soproni": [
+   "Tamás Soproni"
+  ],
+  "Southampton": [
+   "Southampton F.C."
+  ],
+  "Spiro": [
+   "Michel Spiro"
+  ],
+  "Stade": [
+   "Stade de Reims"
+  ],
+  "Stauskas": [
+   "Nik Stauskas"
+  ],
+  "Stavne–Leangen": [
+   "Stavne–Leangen Line"
+  ],
+  "Steinbeck": [
+   "Christoph Steinbeck"
+  ],
+  "Stenzowski": [
+   "Ewandro Stenzowski"
+  ],
+  "Stephen": [
+   "Stephen Donnelly",
+   "Stephen O'Brien"
+  ],
+  "Stern": [
+   "Elazar Stern"
+  ],
+  "Steve": [
+   "Steve Knight",
+   "Steve Smith Sr.",
+   "Steve Womack"
+  ],
+  "Steve Smith": [
+   "Steve Smith Sr."
+  ],
+  "Steven": [
+   "Steven Finn",
+   "Steven P. Croley",
+   "Steven Salaita"
+  ],
+  "Stevenson": [
+   "Stewart Stevenson"
+  ],
+  "Stewart": [
+   "Stewart Stevenson"
+  ],
+  "Stoddart": [
+   "Simon Stoddart"
+  ],
+  "Styles": [
+   "Suzy Styles"
+  ],
+  "Stéphanie": [
+   "Stéphanie Atger"
+  ],
+  "Subrahmanyam": [
+   "Subrahmanyam Jaishankar"
+  ],
+  "Sue": [
+   "Sue Bird"
+  ],
+  "Sullenberger": [
+   "Chesley \"Sully\" Sullenberger"
+  ],
+  "Sullivan": [
+   "Daniel S. Sullivan",
+   "Teresa A. Sullivan"
+  ],
+  "Superano": [
+   "Superano Ham-Isorex"
+  ],
+  "Susanna": [
+   "Susanna Ceccardi"
+  ],
+  "Susanne": [
+   "Susanne Ås Sivborg"
+  ],
+  "Susteren": [
+   "Greta Van Susteren"
+  ],
+  "Sutskever": [
+   "Ilya Sutskever"
+  ],
+  "Suzy": [
+   "Suzy Styles"
+  ],
+  "Swalwell": [
+   "Eric Swalwell"
+  ],
+  "Sye-kyun": [
+   "Chung Sye-kyun"
+  ],
+  "Syed": [
+   "Syed Mustafa Kamal"
+  ],
+  "Syed Mustafa": [
+   "Syed Mustafa Kamal"
+  ],
+  "Sylvain": [
+   "Sylvain Maillard"
+  ],
+  "Sylvi": [
+   "Sylvi Listhaug"
+  ],
+  "Sylvia": [
+   "Sylvia Burwell"
+  ],
+  "Szydło": [
+   "Beata Szydło"
+  ],
+  "Södermanland": [
+   "Södermanland County"
+  ],
+  "SønderjyskE": [
+   "SønderjyskE Fodbold"
+  ],
+  "Sørlandet": [
+   "Sørlandet Line"
+  ],
+  "T. Biti": [
+   "Tendai Biti"
+  ],
+  "T. Bock": [
+   "Tan Cheng Bock"
+  ],
+  "T. Brady": [
+   "Tom Brady"
+  ],
+  "T. Bresnan": [
+   "Tim Bresnan"
+  ],
+  "T. Bridgewater": [
+   "Teddy Bridgewater"
+  ],
+  "T. Burchett": [
+   "Tim Burchett"
+  ],
+  "T. Băsescu": [
+   "Traian Băsescu"
+  ],
+  "T. Dumoulin": [
+   "Tom Dumoulin"
+  ],
+  "T. Gabbard": [
+   "Tulsi Gabbard"
+  ],
+  "T. Gowdy": [
+   "Trey Gowdy"
+  ],
+  "T. Heinz": [
+   "Tony Heinz"
+  ],
+  "T. Hutzschenreuter": [
+   "Thomas Hutzschenreuter"
+  ],
+  "T. Kuzu": [
+   "Tunahan Kuzu"
+  ],
+  "T. MacArthur": [
+   "Tom MacArthur"
+  ],
+  "T. Meleșcanu": [
+   "Teodor Meleșcanu"
+  ],
+  "T. Mills": [
+   "Terry Mills"
+  ],
+  "T. O'Halleran": [
+   "Tom O'Halleran"
+  ],
+  "T. Platts": [
+   "Todd Russell Platts"
+  ],
+  "T. Rice": [
+   "Tom Rice"
+  ],
+  "T. Rokita": [
+   "Todd Rokita"
+  ],
+  "T. Ruak": [
+   "Taur Matan Ruak"
+  ],
+  "T. Soproni": [
+   "Tamás Soproni"
+  ],
+  "T. Sullivan": [
+   "Teresa A. Sullivan"
+  ],
+  "T. Tagovailoa": [
+   "Tua Tagovailoa"
+  ],
+  "T. Trump": [
+   "Tiffany Trump"
+  ],
+  "T. Uemura": [
+   "Takashi Uemura"
+  ],
+  "TSV": [
+   "TSV Hartberg"
+  ],
+  "Tagle": [
+   "Luis Antonio Tagle"
+  ],
+  "Tagovailoa": [
+   "Tua Tagovailoa"
+  ],
+  "Taibbi": [
+   "Mike Taibbi"
+  ],
+  "Takashi": [
+   "Takashi Uemura"
+  ],
+  "Tamás": [
+   "Tamás Soproni"
+  ],
+  "Tan": [
+   "Tan Cheng Bock"
+  ],
+  "Tan Cheng": [
+   "Tan Cheng Bock"
+  ],
+  "Tanner": [
+   "Lindsay Tanner"
+  ],
+  "Taur": [
+   "Taur Matan Ruak"
+  ],
+  "Taur Matan": [
+   "Taur Matan Ruak"
+  ],
+  "Tava": [
+   "Vernon Tava"
+  ],
+  "Ted": [
+   "Ted Ginn, Jr."
+  ],
+  "Ted Ginn": [
+   "Ted Ginn, Jr."
+  ],
+  "Teddy": [
+   "Teddy Bridgewater"
+  ],
+  "Tendai": [
+   "Tendai Biti"
+  ],
+  "Teodor": [
+   "Teodor Meleșcanu"
+  ],
+  "Teresa": [
+   "Teresa A. Sullivan"
+  ],
+  "Terribas": [
+   "Mònica Terribas"
+  ],
+  "Terry": [
+   "Terry Mills"
+  ],
+  "Thaçi": [
+   "Hashim Thaçi"
+  ],
+  "The Physiological": [
+   "The Physiological Society"
+  ],
+  "Thespakusatsu": [
+   "Thespakusatsu Gunma"
+  ],
+  "Thomas": [
+   "Deshaun Thomas",
+   "Thomas Hutzschenreuter"
+  ],
+  "Thurnherr": [
+   "Walter Thurnherr"
+  ],
+  "Thörnqvist": [
+   "Jan Thörnqvist"
+  ],
+  "Tiffany": [
+   "Tiffany Trump"
+  ],
+  "Tim": [
+   "Tim Bresnan",
+   "Tim Burchett"
+  ],
+  "Tisci": [
+   "Riccardo Tisci"
+  ],
+  "Todd": [
+   "Todd Rokita",
+   "Todd Russell Platts"
+  ],
+  "Todd Russell": [
+   "Todd Russell Platts"
+  ],
+  "Tolley": [
+   "Anne Tolley"
+  ],
+  "Tom": [
+   "Tom Brady",
+   "Tom Dumoulin",
+   "Tom MacArthur",
+   "Tom O'Halleran",
+   "Tom Rice"
+  ],
+  "Tomac": [
+   "Eugen Tomac"
+  ],
+  "Tomkins": [
+   "Sam Tomkins"
+  ],
+  "Tomljanović": [
+   "Ajla Tomljanović"
+  ],
+  "Tony": [
+   "Tony Heinz"
+  ],
+  "Toomast": [
+   "Vilja Toomast"
+  ],
+  "Traian": [
+   "Traian Băsescu"
+  ],
+  "Trey": [
+   "Trey Gowdy"
+  ],
+  "Trump": [
+   "Tiffany Trump"
+  ],
+  "Trunk": [
+   "Trunk Line"
+  ],
+  "Trzaskowski": [
+   "Rafał Trzaskowski"
+  ],
+  "Tseng-chang": [
+   "Su Tseng-chang"
+  ],
+  "Tua": [
+   "Tua Tagovailoa"
+  ],
+  "Tulsi": [
+   "Tulsi Gabbard"
+  ],
+  "Tunahan": [
+   "Tunahan Kuzu"
+  ],
+  "Turkish": [
+   "Turkish Republic of Northern Cyprus"
+  ],
+  "Turkish Republic of Northern": [
+   "Turkish Republic of Northern Cyprus"
+  ],
+  "Turney": [
+   "Chris Turney"
+  ],
+  "Turunen": [
+   "Kari Turunen"
+  ],
+  "Tymoshenko": [
+   "Yulia Tymoshenko"
+  ],
+  "U. Guérot": [
+   "Ulrike Guérot"
+  ],
+  "U. Kenyatta": [
+   "Uhuru Kenyatta"
+  ],
+  "U. Kristersson": [
+   "Ulf Kristersson"
+  ],
+  "Uemura": [
+   "Takashi Uemura"
+  ],
+  "Uhuru": [
+   "Uhuru Kenyatta"
+  ],
+  "Ukrainian": [
+   "Ukrainian Athletic Federation"
+  ],
+  "Ukrainian Athletic": [
+   "Ukrainian Athletic Federation"
+  ],
+  "Ulf": [
+   "Ulf Kristersson"
+  ],
+  "Ulrike": [
+   "Ulrike Guérot"
+  ],
+  "Umer": [
+   "Asad Umer"
+  ],
+  "Unione": [
+   "Unione Sportiva Sassuolo Calcio"
+  ],
+  "Unione Sportiva Sassuolo": [
+   "Unione Sportiva Sassuolo Calcio"
+  ],
+  "United": [
+   "United States Forest Service"
+  ],
+  "United States Forest": [
+   "United States Forest Service"
+  ],
+  "University College Dublin": [
+   "University College Dublin A.F.C."
+  ],
+  "Upshaw": [
+   "Robert Upshaw"
+  ],
+  "Urawa": [
+   "Urawa Red Diamonds"
+  ],
+  "Urawa Red": [
+   "Urawa Red Diamonds"
+  ],
+  "Urban": [
+   "Urban Community of Nantes Métropole"
+  ],
+  "Urban Community of Nantes": [
+   "Urban Community of Nantes Métropole"
+  ],
+  "Urán": [
+   "Rigoberto Urán"
+  ],
+  "Ushñahua": [
+   "Glider Ushñahua"
+  ],
+  "V. Baird": [
+   "Vera Baird"
+  ],
+  "V. Bottas": [
+   "Valtteri Bottas"
+  ],
+  "V. Cable": [
+   "Vince Cable"
+  ],
+  "V. Chauvet": [
+   "Vincent Chauvet"
+  ],
+  "V. Grassian": [
+   "Vicki Grassian"
+  ],
+  "V. Hackl": [
+   "Valerie Hackl"
+  ],
+  "V. Mendoza": [
+   "Verónika Mendoza"
+  ],
+  "V. Nibali": [
+   "Vincenzo Nibali"
+  ],
+  "V. Polydoras": [
+   "Viron Polydoras"
+  ],
+  "V. Pranckietis": [
+   "Viktoras Pranckietis"
+  ],
+  "V. Raggi": [
+   "Virginia Raggi"
+  ],
+  "V. Rossi": [
+   "Valentino Rossi"
+  ],
+  "V. Tava": [
+   "Vernon Tava"
+  ],
+  "V. Toomast": [
+   "Vilja Toomast"
+  ],
+  "V. Volodin": [
+   "Vyacheslav Volodin"
+  ],
+  "Valentino": [
+   "Valentino Rossi"
+  ],
+  "Valerie": [
+   "Valerie Hackl"
+  ],
+  "Valletta": [
+   "Valletta F.C."
+  ],
+  "Valtteri": [
+   "Valtteri Bottas"
+  ],
+  "Vejle": [
+   "Vejle Boldklub"
+  ],
+  "Vera": [
+   "Vera Baird"
+  ],
+  "Vernon": [
+   "Vernon Tava"
+  ],
+  "Verónika": [
+   "Verónika Mendoza"
+  ],
+  "Vettel": [
+   "Sebastian Vettel"
+  ],
+  "VfL": [
+   "VfL Osnabrück"
+  ],
+  "Vicki": [
+   "Vicki Grassian"
+  ],
+  "Vigo": [
+   "Íñigo Méndez de Vigo"
+  ],
+  "Viking": [
+   "Viking FK"
+  ],
+  "Viktoras": [
+   "Viktoras Pranckietis"
+  ],
+  "Vilja": [
+   "Vilja Toomast"
+  ],
+  "Villalobos": [
+   "Sergio Villalobos"
+  ],
+  "Villarejo": [
+   "Carlos Jiménez Villarejo"
+  ],
+  "Vince": [
+   "Vince Cable"
+  ],
+  "Vincent": [
+   "Vincent Chauvet"
+  ],
+  "Vincenzo": [
+   "Vincenzo Nibali"
+  ],
+  "Viola": [
+   "Paul Viola"
+  ],
+  "Virginia": [
+   "Virginia Raggi"
+  ],
+  "Viron": [
+   "Viron Polydoras"
+  ],
+  "Voigt": [
+   "Jens Voigt"
+  ],
+  "Volodin": [
+   "Vyacheslav Volodin"
+  ],
+  "Vyacheslav": [
+   "Vyacheslav Volodin"
+  ],
+  "Väyrynen": [
+   "Paavo Väyrynen"
+  ],
+  "W. Drees": [
+   "Willem B. Drees"
+  ],
+  "W. Gottberg": [
+   "Wilhelm von Gottberg"
+  ],
+  "W. Jensen": [
+   "Whitney Jensen"
+  ],
+  "W. Lima": [
+   "Wilson Lima"
+  ],
+  "W. McRaven": [
+   "William H. McRaven"
+  ],
+  "W. Queen": [
+   "Wendy L. Queen"
+  ],
+  "W. Thurnherr": [
+   "Walter Thurnherr"
+  ],
+  "WSG": [
+   "WSG Swarovski Tirol"
+  ],
+  "WSG Swarovski": [
+   "WSG Swarovski Tirol"
+  ],
+  "Wagner": [
+   "Francisco Sosa Wagner"
+  ],
+  "Walter": [
+   "Walter Thurnherr"
+  ],
+  "Warren": [
+   "Elizabeth Warren"
+  ],
+  "Washington": [
+   "Washington Football Team"
+  ],
+  "Watson": [
+   "Deshaun Watson"
+  ],
+  "Watt": [
+   "J. J. Watt"
+  ],
+  "Weisband": [
+   "Marina Weisband"
+  ],
+  "Weiss": [
+   "Ellen Weiss"
+  ],
+  "Wendy": [
+   "Wendy L. Queen"
+  ],
+  "Wentz": [
+   "Carson Wentz"
+  ],
+  "Western": [
+   "Western Bulldogs"
+  ],
+  "Westgate": [
+   "Westgate Las Vegas Resort & Casino"
+  ],
+  "Wheate": [
+   "Nial J. Wheate"
+  ],
+  "Whitney": [
+   "Whitney Jensen"
+  ],
+  "Wikimedia": [
+   "Wikimedia Foundation"
+  ],
+  "Wilhelm": [
+   "Wilhelm von Gottberg"
+  ],
+  "Willem": [
+   "Willem B. Drees"
+  ],
+  "William": [
+   "William H. McRaven"
+  ],
+  "Williams": [
+   "Lauren Kiyomi Williams"
+  ],
+  "Wilson": [
+   "Wilson Lima"
+  ],
+  "Woelki": [
+   "Rainer Woelki"
+  ],
+  "Wolverhampton": [
+   "Wolverhampton Wanderers F.C."
+  ],
+  "Wolverhampton Wanderers": [
+   "Wolverhampton Wanderers F.C."
+  ],
+  "Womack": [
+   "Steve Womack"
+  ],
+  "Wong": [
+   "Ayman Rashdan Wong",
+   "Wong He"
+  ],
+  "Woolf": [
+   "Greg Woolf"
+  ],
+  "Wootton": [
+   "David Wootton"
+  ],
+  "Workers": [
+   "Workers' Party of Korea"
+  ],
+  "Wynne": [
+   "Kathleen Wynne"
+  ],
+  "X. Bettel": [
+   "Xavier Bettel"
+  ],
+  "Xavier": [
+   "Xavier Bettel"
+  ],
+  "Y. Kerlogot": [
+   "Yannick Kerlogot"
+  ],
+  "Y. Tymoshenko": [
+   "Yulia Tymoshenko"
+  ],
+  "Yanchenko": [
+   "Halyna Yanchenko"
+  ],
+  "Yannick": [
+   "Yannick Kerlogot"
+  ],
+  "Yellen": [
+   "Janet Yellen"
+  ],
+  "Yenbou": [
+   "Salima Yenbou"
+  ],
+  "Young": [
+   "Chris Young",
+   "Young Liberals"
+  ],
+  "Yovanovitch": [
+   "Marie L. Yovanovitch"
+  ],
+  "Yulia": [
+   "Yulia Tymoshenko"
+  ],
+  "Z. Konstantopoulou": [
+   "Zoi Konstantopoulou"
+  ],
+  "Z. Milanović": [
+   "Zoran Milanović"
+  ],
+  "Z. Ríos": [
+   "Zury Ríos"
+  ],
+  "Zadić": [
+   "Alma Zadić"
+  ],
+  "Zagłębie": [
+   "Zagłębie Lubin"
+  ],
+  "Zalaegerszegi": [
+   "Zalaegerszegi TE"
+  ],
+  "Zarur": [
+   "Giselle Zarur"
+  ],
+  "Zedda": [
+   "Massimo Zedda"
+  ],
+  "Zira": [
+   "Zira FK"
+  ],
+  "Zoi": [
+   "Zoi Konstantopoulou"
+  ],
+  "Zoran": [
+   "Zoran Milanović"
+  ],
+  "Zurabishvili": [
+   "Salome Zurabishvili"
+  ],
+  "Zury": [
+   "Zury Ríos"
+  ],
+  "É. Delzenne": [
+   "Élise Delzenne"
+  ],
+  "Élise": [
+   "Élise Delzenne"
+  ],
+  "Í. Vigo": [
+   "Íñigo Méndez de Vigo"
+  ],
+  "Íñigo": [
+   "Íñigo Méndez de Vigo"
+  ],
+  "Íþróttabandalag": [
+   "Íþróttabandalag Akraness",
+   "Íþróttabandalag Vestmannaeyja"
+  ],
+  "Öztürk": [
+   "Selçuk Öztürk"
+  ],
+  "Østfold": [
+   "Østfold Line"
+  ],
+  "Śląsk": [
+   "Śląsk Wrocław"
+  ],
+  "Šefčovič": [
+   "Maroš Šefčovič"
+  ],
+  "Šimašius": [
+   "Remigijus Šimašius"
+  ]
+ },
+ "stats": {
+  "n_subjects": 892,
+  "n_with_alias": 793,
+  "frac_with_alias": 0.8890134529147982,
+  "n_alias_forms": 2099,
+  "n_ambiguous_forms": 93,
+  "frac_ambiguous_forms": 0.04430681276798475,
+  "n_subjects_touched_by_ambiguity": 209,
+  "frac_subjects_touched_by_ambiguity": 0.23430493273542602,
+  "mean_aliases_per_subject": 2.188340807174888,
+  "composition": {
+   "head_token": 0.2732824427480916,
+   "leading_token": 0.3750636132315522,
+   "initialed": 0.2712468193384224,
+   "drop_last": 0.08040712468193384
+  }
+ }
+}

@@ -1,0 +1,660 @@
+{
+ "config": {
+  "paraphrase_levels": [
+   0.0,
+   0.5,
+   1.0
+  ],
+  "n_test_facts": 468
+ },
+ "cells": {
+  "p0.0_a0.0": {
+   "paraphrase_p": 0.0,
+   "alias_p": 0.0,
+   "tuned": {
+    "tau": 0.6,
+    "fuzzy_tau": 0.2,
+    "rerank_k": 2,
+    "lam": 0.3,
+    "decay": 0.9
+   },
+   "test": {
+    "cosine-rag": {
+     "current@1": 0.4465811965811966,
+     "stale_rate": 0.5534188034188035,
+     "miss_rate": 0.0,
+     "current@5": 0.9978632478632479,
+     "contamination@5": 0.9978632478632479,
+     "slots": 995.0
+    },
+    "time-rerank": {
+     "current@1": 0.9594017094017094,
+     "stale_rate": 0.0405982905982906,
+     "miss_rate": 0.0,
+     "current@5": 0.9978632478632479,
+     "contamination@5": 0.9978632478632479,
+     "slots": 995.0
+    },
+    "recency-weighted": {
+     "current@1": 0.8632478632478633,
+     "stale_rate": 0.13247863247863248,
+     "miss_rate": 0.004273504273504274,
+     "current@5": 0.9978632478632479,
+     "contamination@5": 0.9700854700854701,
+     "slots": 995.0
+    },
+    "reconsolidation": {
+     "current@1": 0.8867521367521367,
+     "stale_rate": 0.04487179487179487,
+     "miss_rate": 0.06837606837606838,
+     "current@5": 0.9273504273504274,
+     "contamination@5": 0.09401709401709402,
+     "slots": 482.0
+    },
+    "lexical-key": {
+     "current@1": 0.9914529914529915,
+     "stale_rate": 0.004273504273504274,
+     "miss_rate": 0.004273504273504274,
+     "current@5": 0.9935897435897436,
+     "contamination@5": 0.0,
+     "slots": 467.0
+    },
+    "fuzzy-key": {
+     "current@1": 0.9871794871794872,
+     "stale_rate": 0.002136752136752137,
+     "miss_rate": 0.010683760683760684,
+     "current@5": 0.9893162393162394,
+     "contamination@5": 0.0,
+     "slots": 464.0
+    },
+    "fuzzy-rw-key": {
+     "current@1": 0.9893162393162394,
+     "stale_rate": 0.002136752136752137,
+     "miss_rate": 0.008547008547008548,
+     "current@5": 0.9893162393162394,
+     "contamination@5": 0.0,
+     "slots": 464.0
+    },
+    "alias-key(recent)": {
+     "current@1": 0.9914529914529915,
+     "stale_rate": 0.004273504273504274,
+     "miss_rate": 0.004273504273504274,
+     "current@5": 0.9935897435897436,
+     "contamination@5": 0.0,
+     "slots": 467.0
+    },
+    "keep-latest-oracle": {
+     "current@1": 0.9978632478632479,
+     "stale_rate": 0.0,
+     "miss_rate": 0.002136752136752137,
+     "current@5": 1.0,
+     "contamination@5": 0.0,
+     "slots": 468.0
+    }
+   },
+   "keying_deficit": {
+    "cosine-rag": 0.5512820512820513,
+    "time-rerank": 0.038461538461538436,
+    "recency-weighted": 0.13461538461538458,
+    "reconsolidation": 0.11111111111111116,
+    "lexical-key": 0.0064102564102563875,
+    "fuzzy-key": 0.010683760683760646,
+    "fuzzy-rw-key": 0.008547008547008517,
+    "alias-key(recent)": 0.0064102564102563875,
+    "keep-latest-oracle": 0.0
+   },
+   "paired_p": {
+    "raw": {
+     "lexical_vs_oracle": 0.2515748425157484,
+     "fuzzy_vs_lexical": 0.6803319668033196,
+     "rw_vs_alias": 1.0
+    },
+    "holm": {
+     "lexical_vs_oracle": 0.7547245275472452,
+     "fuzzy_vs_lexical": 1.0,
+     "rw_vs_alias": 1.0
+    }
+   }
+  },
+  "p0.0_a1.0": {
+   "paraphrase_p": 0.0,
+   "alias_p": 1.0,
+   "tuned": {
+    "tau": 0.55,
+    "fuzzy_tau": 0.2,
+    "rerank_k": 2,
+    "lam": 0.6,
+    "decay": 0.9
+   },
+   "test": {
+    "cosine-rag": {
+     "current@1": 0.08547008547008547,
+     "stale_rate": 0.905982905982906,
+     "miss_rate": 0.008547008547008548,
+     "current@5": 0.9209401709401709,
+     "contamination@5": 0.9209401709401709,
+     "slots": 995.0
+    },
+    "time-rerank": {
+     "current@1": 0.8012820512820513,
+     "stale_rate": 0.07692307692307693,
+     "miss_rate": 0.12179487179487179,
+     "current@5": 0.9209401709401709,
+     "contamination@5": 0.9209401709401709,
+     "slots": 995.0
+    },
+    "recency-weighted": {
+     "current@1": 0.4700854700854701,
+     "stale_rate": 0.20085470085470086,
+     "miss_rate": 0.32905982905982906,
+     "current@5": 0.7072649572649573,
+     "contamination@5": 0.4636752136752137,
+     "slots": 995.0
+    },
+    "reconsolidation": {
+     "current@1": 0.5491452991452992,
+     "stale_rate": 0.24145299145299146,
+     "miss_rate": 0.2094017094017094,
+     "current@5": 0.7735042735042735,
+     "contamination@5": 0.2222222222222222,
+     "slots": 510.0
+    },
+    "lexical-key": {
+     "current@1": 0.14316239316239315,
+     "stale_rate": 0.8482905982905983,
+     "miss_rate": 0.008547008547008548,
+     "current@5": 0.9188034188034188,
+     "contamination@5": 0.8076923076923077,
+     "slots": 936.0
+    },
+    "fuzzy-key": {
+     "current@1": 0.7542735042735043,
+     "stale_rate": 0.12179487179487179,
+     "miss_rate": 0.12393162393162394,
+     "current@5": 0.8354700854700855,
+     "contamination@5": 0.038461538461538464,
+     "slots": 467.0
+    },
+    "fuzzy-rw-key": {
+     "current@1": 0.8333333333333334,
+     "stale_rate": 0.12393162393162394,
+     "miss_rate": 0.042735042735042736,
+     "current@5": 0.8696581196581197,
+     "contamination@5": 0.038461538461538464,
+     "slots": 467.0
+    },
+    "alias-key(recent)": {
+     "current@1": 0.8247863247863247,
+     "stale_rate": 0.05982905982905983,
+     "miss_rate": 0.11538461538461539,
+     "current@5": 0.9081196581196581,
+     "contamination@5": 0.03205128205128205,
+     "slots": 470.0
+    },
+    "keep-latest-oracle": {
+     "current@1": 0.8803418803418803,
+     "stale_rate": 0.0,
+     "miss_rate": 0.11965811965811966,
+     "current@5": 0.9572649572649573,
+     "contamination@5": 0.0,
+     "slots": 468.0
+    }
+   },
+   "keying_deficit": {
+    "cosine-rag": 0.7948717948717948,
+    "time-rerank": 0.079059829059829,
+    "recency-weighted": 0.41025641025641024,
+    "reconsolidation": 0.33119658119658113,
+    "lexical-key": 0.7371794871794872,
+    "fuzzy-key": 0.12606837606837606,
+    "fuzzy-rw-key": 0.04700854700854695,
+    "alias-key(recent)": 0.05555555555555558,
+    "keep-latest-oracle": 0.0
+   },
+   "paired_p": {
+    "raw": {
+     "lexical_vs_oracle": 9.999000099990002e-05,
+     "fuzzy_vs_lexical": 9.999000099990002e-05,
+     "rw_vs_alias": 0.7541245875412459
+    },
+    "holm": {
+     "lexical_vs_oracle": 0.00029997000299970003,
+     "fuzzy_vs_lexical": 0.00029997000299970003,
+     "rw_vs_alias": 0.7541245875412459
+    }
+   }
+  },
+  "p0.5_a0.0": {
+   "paraphrase_p": 0.5,
+   "alias_p": 0.0,
+   "tuned": {
+    "tau": 0.6,
+    "fuzzy_tau": 0.2,
+    "rerank_k": 2,
+    "lam": 0.3,
+    "decay": 0.9
+   },
+   "test": {
+    "cosine-rag": {
+     "current@1": 0.4636752136752137,
+     "stale_rate": 0.5299145299145299,
+     "miss_rate": 0.00641025641025641,
+     "current@5": 0.9850427350427351,
+     "contamination@5": 0.9743589743589743,
+     "slots": 995.0
+    },
+    "time-rerank": {
+     "current@1": 0.9252136752136753,
+     "stale_rate": 0.049145299145299144,
+     "miss_rate": 0.02564102564102564,
+     "current@5": 0.9850427350427351,
+     "contamination@5": 0.9743589743589743,
+     "slots": 995.0
+    },
+    "recency-weighted": {
+     "current@1": 0.7841880341880342,
+     "stale_rate": 0.202991452991453,
+     "miss_rate": 0.01282051282051282,
+     "current@5": 0.9914529914529915,
+     "contamination@5": 0.9358974358974359,
+     "slots": 995.0
+    },
+    "reconsolidation": {
+     "current@1": 0.8589743589743589,
+     "stale_rate": 0.07264957264957266,
+     "miss_rate": 0.06837606837606838,
+     "current@5": 0.9294871794871795,
+     "contamination@5": 0.13675213675213677,
+     "slots": 513.0
+    },
+    "lexical-key": {
+     "current@1": 0.9722222222222222,
+     "stale_rate": 0.004273504273504274,
+     "miss_rate": 0.023504273504273504,
+     "current@5": 0.9850427350427351,
+     "contamination@5": 0.0,
+     "slots": 467.0
+    },
+    "fuzzy-key": {
+     "current@1": 0.967948717948718,
+     "stale_rate": 0.002136752136752137,
+     "miss_rate": 0.029914529914529916,
+     "current@5": 0.9807692307692307,
+     "contamination@5": 0.0,
+     "slots": 464.0
+    },
+    "fuzzy-rw-key": {
+     "current@1": 0.9893162393162394,
+     "stale_rate": 0.002136752136752137,
+     "miss_rate": 0.008547008547008548,
+     "current@5": 0.9893162393162394,
+     "contamination@5": 0.0,
+     "slots": 464.0
+    },
+    "alias-key(recent)": {
+     "current@1": 0.9722222222222222,
+     "stale_rate": 0.004273504273504274,
+     "miss_rate": 0.023504273504273504,
+     "current@5": 0.9850427350427351,
+     "contamination@5": 0.0,
+     "slots": 467.0
+    },
+    "keep-latest-oracle": {
+     "current@1": 0.9786324786324786,
+     "stale_rate": 0.0,
+     "miss_rate": 0.021367521367521368,
+     "current@5": 0.9914529914529915,
+     "contamination@5": 0.0,
+     "slots": 468.0
+    }
+   },
+   "keying_deficit": {
+    "cosine-rag": 0.5149572649572649,
+    "time-rerank": 0.05341880341880334,
+    "recency-weighted": 0.19444444444444442,
+    "reconsolidation": 0.11965811965811968,
+    "lexical-key": 0.0064102564102563875,
+    "fuzzy-key": 0.010683760683760646,
+    "fuzzy-rw-key": -0.010683760683760757,
+    "alias-key(recent)": 0.0064102564102563875,
+    "keep-latest-oracle": 0.0
+   },
+   "paired_p": {
+    "raw": {
+     "lexical_vs_oracle": 0.24747525247475252,
+     "fuzzy_vs_lexical": 0.6803319668033196,
+     "rw_vs_alias": 0.07679232076792321
+    },
+    "holm": {
+     "rw_vs_alias": 0.23037696230376964,
+     "lexical_vs_oracle": 0.49495050494950504,
+     "fuzzy_vs_lexical": 0.6803319668033196
+    }
+   }
+  },
+  "p0.5_a1.0": {
+   "paraphrase_p": 0.5,
+   "alias_p": 1.0,
+   "tuned": {
+    "tau": 0.55,
+    "fuzzy_tau": 0.2,
+    "rerank_k": 2,
+    "lam": 0.6,
+    "decay": 0.9
+   },
+   "test": {
+    "cosine-rag": {
+     "current@1": 0.1111111111111111,
+     "stale_rate": 0.8675213675213675,
+     "miss_rate": 0.021367521367521368,
+     "current@5": 0.8910256410256411,
+     "contamination@5": 0.8824786324786325,
+     "slots": 995.0
+    },
+    "time-rerank": {
+     "current@1": 0.7371794871794872,
+     "stale_rate": 0.1047008547008547,
+     "miss_rate": 0.1581196581196581,
+     "current@5": 0.8910256410256411,
+     "contamination@5": 0.8824786324786325,
+     "slots": 995.0
+    },
+    "recency-weighted": {
+     "current@1": 0.4188034188034188,
+     "stale_rate": 0.1987179487179487,
+     "miss_rate": 0.38247863247863245,
+     "current@5": 0.6495726495726496,
+     "contamination@5": 0.40384615384615385,
+     "slots": 995.0
+    },
+    "reconsolidation": {
+     "current@1": 0.5128205128205128,
+     "stale_rate": 0.297008547008547,
+     "miss_rate": 0.19017094017094016,
+     "current@5": 0.7713675213675214,
+     "contamination@5": 0.2606837606837607,
+     "slots": 561.0
+    },
+    "lexical-key": {
+     "current@1": 0.16880341880341881,
+     "stale_rate": 0.8076923076923077,
+     "miss_rate": 0.023504273504273504,
+     "current@5": 0.8931623931623932,
+     "contamination@5": 0.7841880341880342,
+     "slots": 936.0
+    },
+    "fuzzy-key": {
+     "current@1": 0.7136752136752137,
+     "stale_rate": 0.11965811965811966,
+     "miss_rate": 0.16666666666666666,
+     "current@5": 0.8012820512820513,
+     "contamination@5": 0.03205128205128205,
+     "slots": 467.0
+    },
+    "fuzzy-rw-key": {
+     "current@1": 0.8311965811965812,
+     "stale_rate": 0.12179487179487179,
+     "miss_rate": 0.04700854700854701,
+     "current@5": 0.8675213675213675,
+     "contamination@5": 0.03418803418803419,
+     "slots": 467.0
+    },
+    "alias-key(recent)": {
+     "current@1": 0.7756410256410257,
+     "stale_rate": 0.053418803418803416,
+     "miss_rate": 0.17094017094017094,
+     "current@5": 0.8653846153846154,
+     "contamination@5": 0.023504273504273504,
+     "slots": 469.0
+    },
+    "keep-latest-oracle": {
+     "current@1": 0.8269230769230769,
+     "stale_rate": 0.0,
+     "miss_rate": 0.17307692307692307,
+     "current@5": 0.9252136752136753,
+     "contamination@5": 0.0,
+     "slots": 468.0
+    }
+   },
+   "keying_deficit": {
+    "cosine-rag": 0.7158119658119657,
+    "time-rerank": 0.08974358974358965,
+    "recency-weighted": 0.40811965811965806,
+    "reconsolidation": 0.3141025641025641,
+    "lexical-key": 0.658119658119658,
+    "fuzzy-key": 0.11324786324786318,
+    "fuzzy-rw-key": -0.004273504273504369,
+    "alias-key(recent)": 0.05128205128205121,
+    "keep-latest-oracle": 0.0
+   },
+   "paired_p": {
+    "raw": {
+     "lexical_vs_oracle": 9.999000099990002e-05,
+     "fuzzy_vs_lexical": 9.999000099990002e-05,
+     "rw_vs_alias": 0.013298670132986702
+    },
+    "holm": {
+     "lexical_vs_oracle": 0.00029997000299970003,
+     "fuzzy_vs_lexical": 0.00029997000299970003,
+     "rw_vs_alias": 0.013298670132986702
+    }
+   }
+  },
+  "p1.0_a0.0": {
+   "paraphrase_p": 1.0,
+   "alias_p": 0.0,
+   "tuned": {
+    "tau": 0.6,
+    "fuzzy_tau": 0.3,
+    "rerank_k": 2,
+    "lam": 0.3,
+    "decay": 0.9
+   },
+   "test": {
+    "cosine-rag": {
+     "current@1": 0.46794871794871795,
+     "stale_rate": 0.5213675213675214,
+     "miss_rate": 0.010683760683760684,
+     "current@5": 0.9871794871794872,
+     "contamination@5": 0.9786324786324786,
+     "slots": 995.0
+    },
+    "time-rerank": {
+     "current@1": 0.9423076923076923,
+     "stale_rate": 0.03418803418803419,
+     "miss_rate": 0.023504273504273504,
+     "current@5": 0.9871794871794872,
+     "contamination@5": 0.9786324786324786,
+     "slots": 995.0
+    },
+    "recency-weighted": {
+     "current@1": 0.811965811965812,
+     "stale_rate": 0.17307692307692307,
+     "miss_rate": 0.014957264957264958,
+     "current@5": 0.9850427350427351,
+     "contamination@5": 0.9294871794871795,
+     "slots": 995.0
+    },
+    "reconsolidation": {
+     "current@1": 0.8290598290598291,
+     "stale_rate": 0.08547008547008547,
+     "miss_rate": 0.08547008547008547,
+     "current@5": 0.9230769230769231,
+     "contamination@5": 0.15598290598290598,
+     "slots": 512.0
+    },
+    "lexical-key": {
+     "current@1": 0.9636752136752137,
+     "stale_rate": 0.004273504273504274,
+     "miss_rate": 0.03205128205128205,
+     "current@5": 0.9893162393162394,
+     "contamination@5": 0.0,
+     "slots": 467.0
+    },
+    "fuzzy-key": {
+     "current@1": 0.9594017094017094,
+     "stale_rate": 0.004273504273504274,
+     "miss_rate": 0.03632478632478633,
+     "current@5": 0.9850427350427351,
+     "contamination@5": 0.002136752136752137,
+     "slots": 465.0
+    },
+    "fuzzy-rw-key": {
+     "current@1": 0.9871794871794872,
+     "stale_rate": 0.004273504273504274,
+     "miss_rate": 0.008547008547008548,
+     "current@5": 0.9893162393162394,
+     "contamination@5": 0.002136752136752137,
+     "slots": 465.0
+    },
+    "alias-key(recent)": {
+     "current@1": 0.9636752136752137,
+     "stale_rate": 0.004273504273504274,
+     "miss_rate": 0.03205128205128205,
+     "current@5": 0.9893162393162394,
+     "contamination@5": 0.0,
+     "slots": 467.0
+    },
+    "keep-latest-oracle": {
+     "current@1": 0.9700854700854701,
+     "stale_rate": 0.0,
+     "miss_rate": 0.029914529914529916,
+     "current@5": 0.9957264957264957,
+     "contamination@5": 0.0,
+     "slots": 468.0
+    }
+   },
+   "keying_deficit": {
+    "cosine-rag": 0.5021367521367521,
+    "time-rerank": 0.02777777777777779,
+    "recency-weighted": 0.1581196581196581,
+    "reconsolidation": 0.14102564102564097,
+    "lexical-key": 0.0064102564102563875,
+    "fuzzy-key": 0.010683760683760646,
+    "fuzzy-rw-key": -0.017094017094017144,
+    "alias-key(recent)": 0.0064102564102563875,
+    "keep-latest-oracle": 0.0
+   },
+   "paired_p": {
+    "raw": {
+     "lexical_vs_oracle": 0.2515748425157484,
+     "fuzzy_vs_lexical": 0.6803319668033196,
+     "rw_vs_alias": 0.021897810218978103
+    },
+    "holm": {
+     "rw_vs_alias": 0.06569343065693431,
+     "lexical_vs_oracle": 0.5031496850314968,
+     "fuzzy_vs_lexical": 0.6803319668033196
+    }
+   }
+  },
+  "p1.0_a1.0": {
+   "paraphrase_p": 1.0,
+   "alias_p": 1.0,
+   "tuned": {
+    "tau": 0.5,
+    "fuzzy_tau": 0.2,
+    "rerank_k": 2,
+    "lam": 0.6,
+    "decay": 0.9
+   },
+   "test": {
+    "cosine-rag": {
+     "current@1": 0.1282051282051282,
+     "stale_rate": 0.8504273504273504,
+     "miss_rate": 0.021367521367521368,
+     "current@5": 0.8867521367521367,
+     "contamination@5": 0.8803418803418803,
+     "slots": 995.0
+    },
+    "time-rerank": {
+     "current@1": 0.7435897435897436,
+     "stale_rate": 0.09829059829059829,
+     "miss_rate": 0.1581196581196581,
+     "current@5": 0.8867521367521367,
+     "contamination@5": 0.8803418803418803,
+     "slots": 995.0
+    },
+    "recency-weighted": {
+     "current@1": 0.4188034188034188,
+     "stale_rate": 0.1794871794871795,
+     "miss_rate": 0.4017094017094017,
+     "current@5": 0.6474358974358975,
+     "contamination@5": 0.38461538461538464,
+     "slots": 995.0
+    },
+    "reconsolidation": {
+     "current@1": 0.5256410256410257,
+     "stale_rate": 0.16452991452991453,
+     "miss_rate": 0.30982905982905984,
+     "current@5": 0.6666666666666666,
+     "contamination@5": 0.12179487179487179,
+     "slots": 421.0
+    },
+    "lexical-key": {
+     "current@1": 0.17735042735042736,
+     "stale_rate": 0.7970085470085471,
+     "miss_rate": 0.02564102564102564,
+     "current@5": 0.8846153846153846,
+     "contamination@5": 0.7735042735042735,
+     "slots": 936.0
+    },
+    "fuzzy-key": {
+     "current@1": 0.6901709401709402,
+     "stale_rate": 0.11965811965811966,
+     "miss_rate": 0.19017094017094016,
+     "current@5": 0.8076923076923077,
+     "contamination@5": 0.03418803418803419,
+     "slots": 467.0
+    },
+    "fuzzy-rw-key": {
+     "current@1": 0.8354700854700855,
+     "stale_rate": 0.11965811965811966,
+     "miss_rate": 0.04487179487179487,
+     "current@5": 0.8717948717948718,
+     "contamination@5": 0.03418803418803419,
+     "slots": 467.0
+    },
+    "alias-key(recent)": {
+     "current@1": 0.7735042735042735,
+     "stale_rate": 0.05128205128205128,
+     "miss_rate": 0.1752136752136752,
+     "current@5": 0.8717948717948718,
+     "contamination@5": 0.027777777777777776,
+     "slots": 467.0
+    },
+    "keep-latest-oracle": {
+     "current@1": 0.8076923076923077,
+     "stale_rate": 0.0,
+     "miss_rate": 0.19230769230769232,
+     "current@5": 0.9209401709401709,
+     "contamination@5": 0.0,
+     "slots": 468.0
+    }
+   },
+   "keying_deficit": {
+    "cosine-rag": 0.6794871794871795,
+    "time-rerank": 0.0641025641025641,
+    "recency-weighted": 0.3888888888888889,
+    "reconsolidation": 0.28205128205128205,
+    "lexical-key": 0.6303418803418803,
+    "fuzzy-key": 0.11752136752136755,
+    "fuzzy-rw-key": -0.02777777777777779,
+    "alias-key(recent)": 0.03418803418803418,
+    "keep-latest-oracle": 0.0
+   },
+   "paired_p": {
+    "raw": {
+     "lexical_vs_oracle": 9.999000099990002e-05,
+     "fuzzy_vs_lexical": 9.999000099990002e-05,
+     "rw_vs_alias": 0.007999200079992
+    },
+    "holm": {
+     "lexical_vs_oracle": 0.00029997000299970003,
+     "fuzzy_vs_lexical": 0.00029997000299970003,
+     "rw_vs_alias": 0.007999200079992
+    }
+   }
+  }
+ }
+}

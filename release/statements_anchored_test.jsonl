@@ -1,0 +1,995 @@
+{"id": "s025c36d54318", "split": "test", "config": "anchored", "text": "Robert Gates now occupies the office of United States Secretary of Defense.", "year": 2010, "t": 0.0}
+{"id": "see46b16bd64e", "split": "test", "config": "anchored", "text": "Andres Ammas is a member of the Isamaa.", "year": 2010, "t": 0.0001}
+{"id": "s1b81e89d55a7", "split": "test", "config": "anchored", "text": "Vicki Grassian works for University of Iowa.", "year": 2010, "t": 0.0002}
+{"id": "s4a4d5d965447", "split": "test", "config": "anchored", "text": "Jeff Rooker, Baron Rooker leads the board of Food Standards Agency.", "year": 2010, "t": 0.00030000000000000003}
+{"id": "s13fdd51b5ec0", "split": "test", "config": "anchored", "text": "Tan Cheng Bock is a member of the People's Action Party.", "year": 2010, "t": 0.0004}
+{"id": "sef7a8c23ce8b", "split": "test", "config": "anchored", "text": "McLaren employs Bernadette Collins.", "year": 2010, "t": 0.0005}
+{"id": "s4b67b1208e99", "split": "test", "config": "anchored", "text": "The head-coaching job at IFK Mariehamn belongs to Pekka Lyyski.", "year": 2010, "t": 0.0006000000000000001}
+{"id": "s87c3c5d2777f", "split": "test", "config": "anchored", "text": "Luboš Urban is the head coach of FC Vysočina Jihlava.", "year": 2010, "t": 0.0007}
+{"id": "s05f52ba7e81a", "split": "test", "config": "anchored", "text": "Leonore Gewessler works for Green European Foundation.", "year": 2010, "t": 0.0008}
+{"id": "sa7f869a95007", "split": "test", "config": "anchored", "text": "Nick Foles plays for Arizona Wildcats football.", "year": 2010, "t": 0.0009000000000000001}
+{"id": "s55fd91b825ce", "split": "test", "config": "anchored", "text": "The chair of Lega Nord Piemont is Mario Borghezio.", "year": 2010, "t": 0.001}
+{"id": "s067bb9f70f2a", "split": "test", "config": "anchored", "text": "Pete Aguilar holds the position of mayor.", "year": 2010, "t": 0.0011}
+{"id": "s124da30b5567", "split": "test", "config": "anchored", "text": "Norwegian National Rail Administration owns Kongsvinger Line.", "year": 2010, "t": 0.0012000000000000001}
+{"id": "s7e6d1665c68d", "split": "test", "config": "anchored", "text": "Lis Tribler is the head of the government of Slagelse Municipality.", "year": 2010, "t": 0.0013000000000000002}
+{"id": "s8437b5ed022f", "split": "test", "config": "anchored", "text": "Politically, Jiří Pospíšil sits with the Civic Democratic Party.", "year": 2010, "t": 0.0014}
+{"id": "s3c1606245d1a", "split": "test", "config": "anchored", "text": "Jens Lehmann plays for VfB Stuttgart.", "year": 2010, "t": 0.0015}
+{"id": "s925c1b2aac65", "split": "test", "config": "anchored", "text": "Politically, Clive Palmer sits with the Liberal National Party of Queensland.", "year": 2010, "t": 0.0016}
+{"id": "s92735d84fedd", "split": "test", "config": "anchored", "text": "The head-coaching job at Club Atlético San Lorenzo de Almagro belongs to Diego Simeone.", "year": 2010, "t": 0.0017000000000000001}
+{"id": "sab0a6ae7bc71", "split": "test", "config": "anchored", "text": "Rafał Trzaskowski serves as member of the European Parliament.", "year": 2010, "t": 0.0018000000000000002}
+{"id": "s81f722bcace5", "split": "test", "config": "anchored", "text": "Dinesh Karthik has signed with India national cricket team.", "year": 2010, "t": 0.0019}
+{"id": "se284ac99a9f5", "split": "test", "config": "anchored", "text": "Fernando Cheung belongs to the Civic Party.", "year": 2010, "t": 0.002}
+{"id": "s7e90ba84ef46", "split": "test", "config": "anchored", "text": "Politically, Eugen Tomac sits with the Democratic Liberal Party.", "year": 2010, "t": 0.0021000000000000003}
+{"id": "s55bb3354bf26", "split": "test", "config": "anchored", "text": "Karen Handel holds the position of Secretary of State of Georgia.", "year": 2010, "t": 0.0022}
+{"id": "se6f106e47bbf", "split": "test", "config": "anchored", "text": "Alex Smith plays for San Francisco 49ers.", "year": 2010, "t": 0.0023}
+{"id": "s31afc3f724e9", "split": "test", "config": "anchored", "text": "Phil Gordon is the head of the government of Phoenix.", "year": 2010, "t": 0.0024000000000000002}
+{"id": "s5fcfb155f003", "split": "test", "config": "anchored", "text": "Robert Williams leads the board of International Astronomical Union.", "year": 2010, "t": 0.0025}
+{"id": "sbbee1ea9b21b", "split": "test", "config": "anchored", "text": "Aamir Hussain is a member of the Muttahida Qaumi Movement.", "year": 2010, "t": 0.0026000000000000003}
+{"id": "s881b80bc1962", "split": "test", "config": "anchored", "text": "Leonardo Semplici is the head coach of A.C. Pisa 1909.", "year": 2010, "t": 0.0027}
+{"id": "s67d67b5831c2", "split": "test", "config": "anchored", "text": "Meral Akşener is a member of the Nationalist Movement Party.", "year": 2010, "t": 0.0028}
+{"id": "s755f61f9a4ce", "split": "test", "config": "anchored", "text": "Omar Balafrej is a member of the Socialist Union of Popular Forces.", "year": 2010, "t": 0.0029000000000000002}
+{"id": "s9266d560f95a", "split": "test", "config": "anchored", "text": "Uhuru Kenyatta now occupies the office of Minister for Finance of Kenya.", "year": 2010, "t": 0.003}
+{"id": "sde3543aeafab", "split": "test", "config": "anchored", "text": "Todd Rokita holds the position of secretary of state.", "year": 2010, "t": 0.0031000000000000003}
+{"id": "s4254a9ffeb4a", "split": "test", "config": "anchored", "text": "Anne Helm is a member of the Pirate Party Germany.", "year": 2010, "t": 0.0032}
+{"id": "sc08c629798d8", "split": "test", "config": "anchored", "text": "Brent Grimes plays for Atlanta Falcons.", "year": 2010, "t": 0.0033}
+{"id": "sd4635854045c", "split": "test", "config": "anchored", "text": "Dakota Collegiate, Winnipeg employs Phil Hudson.", "year": 2010, "t": 0.0034000000000000002}
+{"id": "s6796df5744f7", "split": "test", "config": "anchored", "text": "Andrea Dutton is on the payroll of Australian National University.", "year": 2010, "t": 0.0035}
+{"id": "s5fcb6e0c85ab", "split": "test", "config": "anchored", "text": "Krzysztof Gawkowski is a member of the Democratic Left Alliance.", "year": 2010, "t": 0.0036000000000000003}
+{"id": "s374dc9ab80c5", "split": "test", "config": "anchored", "text": "DeMarco Murray plays for Oklahoma Sooners football.", "year": 2010, "t": 0.0037}
+{"id": "s83015f1ce19b", "split": "test", "config": "anchored", "text": "Diosdado Cabello holds the position of director general.", "year": 2010, "t": 0.0038}
+{"id": "sed60b586d511", "split": "test", "config": "anchored", "text": "The chair of Italian Socialist Party is Pia Elda Locatelli.", "year": 2010, "t": 0.0039000000000000003}
+{"id": "s32a64e144c20", "split": "test", "config": "anchored", "text": "Níkos Nikolópoulos is a member of the New Democracy.", "year": 2010, "t": 0.004}
+{"id": "s325afe8eff5f", "split": "test", "config": "anchored", "text": "United States Department of State employs Anne-Marie Slaughter.", "year": 2010, "t": 0.0041}
+{"id": "sbbdaa7cdab24", "split": "test", "config": "anchored", "text": "Giselle Zarur works for Televisa.", "year": 2010, "t": 0.004200000000000001}
+{"id": "s7270a9e3b288", "split": "test", "config": "anchored", "text": "Julio Arca plays for Middlesbrough F.C..", "year": 2010, "t": 0.0043}
+{"id": "s4d22869cb568", "split": "test", "config": "anchored", "text": "Lindsay Tanner holds the position of Minister for Finance of Australia.", "year": 2010, "t": 0.0044}
+{"id": "s0cb522be206c", "split": "test", "config": "anchored", "text": "Heiko Maas holds the position of parliamentary group leader.", "year": 2010, "t": 0.0045000000000000005}
+{"id": "s42f42e3516fe", "split": "test", "config": "anchored", "text": "Abraham Nitzan works for Tel Aviv University.", "year": 2010, "t": 0.0046}
+{"id": "sc6e41e836ae9", "split": "test", "config": "anchored", "text": "Greg Jericho works for Department of the Environment, Water, Heritage and the Arts.", "year": 2010, "t": 0.0047}
+{"id": "sff92e457e812", "split": "test", "config": "anchored", "text": "Lucy Harris is a member of the Brexit Party.", "year": 2010, "t": 0.0048000000000000004}
+{"id": "s0cabb9c32b28", "split": "test", "config": "anchored", "text": "Jessica Ramos works for Service Employees International Union.", "year": 2010, "t": 0.0049}
+{"id": "s307d7b246394", "split": "test", "config": "anchored", "text": "Sahak II Mashalian of Constantinople is on the payroll of Gevorkian Theological Seminary.", "year": 2010, "t": 0.005}
+{"id": "s4dda4940742f", "split": "test", "config": "anchored", "text": "Jeroen van den Brink is employed by Radboud University Nijmegen.", "year": 2010, "t": 0.0051}
+{"id": "s007d9ae07222", "split": "test", "config": "anchored", "text": "J. J. Watt plays for Wisconsin Badgers football.", "year": 2010, "t": 0.005200000000000001}
+{"id": "s7d4d2c243536", "split": "test", "config": "anchored", "text": "Sebastian Vettel has signed with Red Bull Racing.", "year": 2010, "t": 0.0053}
+{"id": "s8aedcccc3d9f", "split": "test", "config": "anchored", "text": "Arayik Harutyunyan holds the position of Prime Minister of Artsakh.", "year": 2010, "t": 0.0054}
+{"id": "s7f26aab5e2db", "split": "test", "config": "anchored", "text": "Verónika Mendoza is a member of the Peruvian Nationalist Party.", "year": 2010, "t": 0.0055000000000000005}
+{"id": "s23cedc011d2f", "split": "test", "config": "anchored", "text": "Gilles Pélisson works for Accor.", "year": 2010, "t": 0.0056}
+{"id": "s062af68f9df4", "split": "test", "config": "anchored", "text": "Politically, Michèle Dittlot sits with the National Union for the Future of Monaco.", "year": 2010, "t": 0.0057}
+{"id": "s565f035e0db2", "split": "test", "config": "anchored", "text": "Asahi Shimbun employs Takashi Uemura.", "year": 2010, "t": 0.0058000000000000005}
+{"id": "sbed6e83fee76", "split": "test", "config": "anchored", "text": "Vernon Tava belongs to the Green Party of Aotearoa New Zealand.", "year": 2010, "t": 0.0059}
+{"id": "s4b6245041fec", "split": "test", "config": "anchored", "text": "Westgate Las Vegas Resort & Casino is a subsidiary of Resorts International Holdings.", "year": 2010, "t": 0.006}
+{"id": "sfc6a4ed628da", "split": "test", "config": "anchored", "text": "Andrés Bello University employs Sergio Villalobos.", "year": 2010, "t": 0.0061}
+{"id": "sc017b949446a", "split": "test", "config": "anchored", "text": "Martyn Lancaster is on the roster of Fort Lauderdale Strikers.", "year": 2010, "t": 0.006200000000000001}
+{"id": "s37374697eb7b", "split": "test", "config": "anchored", "text": "Richard Blumenthal holds the position of Connecticut Attorney General.", "year": 2010, "t": 0.0063}
+{"id": "sc357c20171ee", "split": "test", "config": "anchored", "text": "Moxie Marlinspike works for Whisper Systems.", "year": 2010, "t": 0.0064}
+{"id": "s57eaa4cb7926", "split": "test", "config": "anchored", "text": "Frank Scholze works for Karlsruhe Institute of Technology.", "year": 2010, "t": 0.006500000000000001}
+{"id": "s54d142a2149e", "split": "test", "config": "anchored", "text": "The government of Nantou County is run by Lee Chao-ching.", "year": 2010, "t": 0.0066}
+{"id": "sd7d72b0bd20c", "split": "test", "config": "anchored", "text": "Bertelsmann employs Rolf Buch.", "year": 2010, "t": 0.0067}
+{"id": "sc65e70c22373", "split": "test", "config": "anchored", "text": "Teresa A. Sullivan works for University of Virginia.", "year": 2010, "t": 0.0068000000000000005}
+{"id": "sfbd3cc3ce47e", "split": "test", "config": "anchored", "text": "Katherine Joy is on the payroll of Lunar and Planetary Institute.", "year": 2010, "t": 0.006900000000000001}
+{"id": "s8ae798ae0988", "split": "test", "config": "anchored", "text": "Meråker Line is owned by Norwegian National Rail Administration.", "year": 2010, "t": 0.007}
+{"id": "s64fe66c69a5c", "split": "test", "config": "anchored", "text": "Tim Burchett serves as mayor.", "year": 2010, "t": 0.0071}
+{"id": "s4dde982a9d18", "split": "test", "config": "anchored", "text": "Sean Smith plays for Miami Dolphins.", "year": 2010, "t": 0.007200000000000001}
+{"id": "s51c33927ba30", "split": "test", "config": "anchored", "text": "P. J. Fleck works for Rutgers Scarlet Knights football.", "year": 2010, "t": 0.0073}
+{"id": "s24263dae1e00", "split": "test", "config": "anchored", "text": "Dessima Williams is the chair of Alliance of Small Island States.", "year": 2010, "t": 0.0074}
+{"id": "s96098cc4c5a3", "split": "test", "config": "anchored", "text": "Brenda Lawrence holds the position of mayor.", "year": 2010, "t": 0.007500000000000001}
+{"id": "s45cfa090964a", "split": "test", "config": "anchored", "text": "Nigel Farage belongs to the UK Independence Party.", "year": 2010, "t": 0.0076}
+{"id": "s3ca2c177bc90", "split": "test", "config": "anchored", "text": "John Neely Kennedy holds the position of state treasurer.", "year": 2010, "t": 0.0077}
+{"id": "sba6ff5a0d23f", "split": "test", "config": "anchored", "text": "Ondřej Liška is the chair of Green Party.", "year": 2010, "t": 0.0078000000000000005}
+{"id": "s092a26480a93", "split": "test", "config": "anchored", "text": "Politically, Marguerite Blais sits with the Parti libéral du Québec.", "year": 2010, "t": 0.0079}
+{"id": "sbcb7263e7d18", "split": "test", "config": "anchored", "text": "Trunk Line is a subsidiary of Norwegian National Rail Administration.", "year": 2010, "t": 0.008}
+{"id": "s39284d08bfcb", "split": "test", "config": "anchored", "text": "Jens Beutel is the head of the government of Mainz.", "year": 2010, "t": 0.0081}
+{"id": "s6a270425517d", "split": "test", "config": "anchored", "text": "The position held by Robert Mueller is Director of the Federal Bureau of Investigation.", "year": 2010, "t": 0.0082}
+{"id": "sf0d0569ac9b9", "split": "test", "config": "anchored", "text": "Ulrike Guérot is on the payroll of European Council on Foreign Relations.", "year": 2010, "t": 0.0083}
+{"id": "se5fec93ab9a6", "split": "test", "config": "anchored", "text": "Paul Robinson plays for Blackburn Rovers F.C..", "year": 2010, "t": 0.008400000000000001}
+{"id": "se0fc2a5d0e2a", "split": "test", "config": "anchored", "text": "Albrecht Glaser is a member of the Christian Democratic Union.", "year": 2010, "t": 0.0085}
+{"id": "s62a2183dbc74", "split": "test", "config": "anchored", "text": "Christoph Steinbeck is on the payroll of European Bioinformatics Institute.", "year": 2010, "t": 0.0086}
+{"id": "sbc3629a96c6b", "split": "test", "config": "anchored", "text": "Barham Salih now occupies the office of Prime Minister of Iraqi Kurdistan.", "year": 2010, "t": 0.008700000000000001}
+{"id": "se56939d0f546", "split": "test", "config": "anchored", "text": "Skøyen–Filipstad Line is owned by Norwegian National Rail Administration.", "year": 2010, "t": 0.0088}
+{"id": "s207cd0509592", "split": "test", "config": "anchored", "text": "Guido van Rossum works for Google.", "year": 2010, "t": 0.0089}
+{"id": "s1343760bfefb", "split": "test", "config": "anchored", "text": "Dina Bousselham is a member of the Authenticity and Modernity Party.", "year": 2010, "t": 0.009000000000000001}
+{"id": "sc09f3351a9e8", "split": "test", "config": "anchored", "text": "Disneyland employs Billy Hill and the Hillbillies.", "year": 2010, "t": 0.0091}
+{"id": "scc44f4b47077", "split": "test", "config": "anchored", "text": "Íñigo Méndez de Vigo serves as member of the European Parliament.", "year": 2010, "t": 0.0092}
+{"id": "s7a4ca2b98874", "split": "test", "config": "anchored", "text": "Frank Guinta now occupies the office of mayor.", "year": 2010, "t": 0.009300000000000001}
+{"id": "sf47449941a9f", "split": "test", "config": "anchored", "text": "Carlo Scognamiglio is the chair of Italian Liberal Party.", "year": 2010, "t": 0.0094}
+{"id": "s9d1add60d052", "split": "test", "config": "anchored", "text": "Teodor Meleșcanu belongs to the National Liberal Party.", "year": 2010, "t": 0.0095}
+{"id": "sb7f6788b6411", "split": "test", "config": "anchored", "text": "Christine Sinclair has signed with FC Gold Pride.", "year": 2010, "t": 0.009600000000000001}
+{"id": "sa67d60605308", "split": "test", "config": "anchored", "text": "Steve Womack holds the position of mayor.", "year": 2010, "t": 0.0097}
+{"id": "s509cb2faed30", "split": "test", "config": "anchored", "text": "Sam Bradford plays for Los Angeles Rams.", "year": 2010, "t": 0.0098}
+{"id": "sb89484092fa6", "split": "test", "config": "anchored", "text": "Sepp Blatter is the chair of FIFA.", "year": 2010, "t": 0.0099}
+{"id": "s3872f45c487f", "split": "test", "config": "anchored", "text": "Adrian Peterson plays for Minnesota Vikings.", "year": 2010, "t": 0.01}
+{"id": "s11f9b26101a4", "split": "test", "config": "anchored", "text": "Geoff Horsfield plays for Port Vale F.C..", "year": 2010, "t": 0.010100000000000001}
+{"id": "s521186b1fa1e", "split": "test", "config": "anchored", "text": "Stefano Pioli is the head coach of Unione Sportiva Sassuolo Calcio.", "year": 2010, "t": 0.0102}
+{"id": "s777bceb31d9a", "split": "test", "config": "anchored", "text": "The position held by Colleen Hanabusa is speaker.", "year": 2010, "t": 0.0103}
+{"id": "s78936254444d", "split": "test", "config": "anchored", "text": "Dipak Misra holds the position of chief justice.", "year": 2010, "t": 0.010400000000000001}
+{"id": "s426c3347964c", "split": "test", "config": "anchored", "text": "Íþróttabandalag Akraness is coached by Þórður Þórðarson.", "year": 2010, "t": 0.0105}
+{"id": "s6d8852f4bda7", "split": "test", "config": "anchored", "text": "Stefanos Manos leads the board of Drasi.", "year": 2010, "t": 0.0106}
+{"id": "s11633b349201", "split": "test", "config": "anchored", "text": "Bill Becher is the head coach of Penn FC.", "year": 2010, "t": 0.010700000000000001}
+{"id": "s8912370e255e", "split": "test", "config": "anchored", "text": "Cannondale Pro Cycling Team is the club Ivan Basso turns out for.", "year": 2010, "t": 0.0108}
+{"id": "s9dec8e4a7983", "split": "test", "config": "anchored", "text": "Paul Viola is on the payroll of Microsoft Corporation.", "year": 2010, "t": 0.0109}
+{"id": "se144e914ad1b", "split": "test", "config": "anchored", "text": "Vince Cable holds the position of Secretary of State for Business, Energy and Industrial Strategy.", "year": 2010, "t": 0.011000000000000001}
+{"id": "s28a668151f91", "split": "test", "config": "anchored", "text": "Rick Pitino runs the bench for Louisville Cardinals men's basketball.", "year": 2010, "t": 0.0111}
+{"id": "s2dcfbbec7e1d", "split": "test", "config": "anchored", "text": "The position held by Dominique Mamberti is Secretary for Relations with States.", "year": 2010, "t": 0.0112}
+{"id": "sbcd8ac136ebf", "split": "test", "config": "anchored", "text": "Ellen van Dijk has signed with Canyon-SRAM Racing.", "year": 2010, "t": 0.011300000000000001}
+{"id": "sf9de98fadae6", "split": "test", "config": "anchored", "text": "Politically, Ilya Ponomarev sits with the A Just Russia.", "year": 2010, "t": 0.0114}
+{"id": "s8aef6972c651", "split": "test", "config": "anchored", "text": "Joe Garcia now occupies the office of bureaucrat.", "year": 2010, "t": 0.0115}
+{"id": "s570c8edc5d04", "split": "test", "config": "anchored", "text": "Sam Tomkins plays for Wigan Warriors.", "year": 2010, "t": 0.011600000000000001}
+{"id": "saa0126103036", "split": "test", "config": "anchored", "text": "Chad Johnson plays for Cincinnati Bengals.", "year": 2010, "t": 0.0117}
+{"id": "s30c87b0f1759", "split": "test", "config": "anchored", "text": "Stuart McCall runs the bench for Motherwell F.C..", "year": 2010, "t": 0.0118}
+{"id": "s66de0f47b042", "split": "test", "config": "anchored", "text": "Gail Koziara Boudreaux works for UnitedHealth Group.", "year": 2010, "t": 0.0119}
+{"id": "sf91ded87f54b", "split": "test", "config": "anchored", "text": "Pedro Pierluisi holds the position of Resident Commissioner of Puerto Rico.", "year": 2010, "t": 0.012}
+{"id": "s88435c66cea3", "split": "test", "config": "anchored", "text": "Politically, Orly Levy sits with the Yisrael Beiteinu.", "year": 2010, "t": 0.012100000000000001}
+{"id": "s51a7e02c5d01", "split": "test", "config": "anchored", "text": "Ruffin McNeill works for East Carolina Pirates football.", "year": 2010, "t": 0.0122}
+{"id": "seb385034c465", "split": "test", "config": "anchored", "text": "Gurbanguly Berdimuhamedow is the chair of Democratic Party of Turkmenistan.", "year": 2010, "t": 0.0123}
+{"id": "s57efa5054cb1", "split": "test", "config": "anchored", "text": "The position held by Traian Băsescu is President of Romania.", "year": 2010, "t": 0.012400000000000001}
+{"id": "s879b6248b923", "split": "test", "config": "anchored", "text": "The position held by Kathleen Rice is district attorney.", "year": 2010, "t": 0.0125}
+{"id": "s3e9cc67f925d", "split": "test", "config": "anchored", "text": "Thomas Tidwell is the chair of United States Forest Service.", "year": 2010, "t": 0.0126}
+{"id": "sf001ac53a432", "split": "test", "config": "anchored", "text": "Elisabeth Enger is employed by Norwegian National Rail Administration.", "year": 2010, "t": 0.012700000000000001}
+{"id": "s80012c033549", "split": "test", "config": "anchored", "text": "Wendy L. Queen is on the payroll of National Institute of Standards and Technology.", "year": 2010, "t": 0.0128}
+{"id": "sd160bd59693b", "split": "test", "config": "anchored", "text": "Navjot Singh Sidhu belongs to the Bharatiya Janata Party.", "year": 2010, "t": 0.0129}
+{"id": "s22c1bbbe613b", "split": "test", "config": "anchored", "text": "Bharat Mehra works for University of Tennessee, Knoxville.", "year": 2010, "t": 0.013000000000000001}
+{"id": "s4789f9f9de2e", "split": "test", "config": "anchored", "text": "Jonathan Smallwood works for University of California, Santa Barbara.", "year": 2010, "t": 0.0131}
+{"id": "s63bef65e8422", "split": "test", "config": "anchored", "text": "Luboš Kozel is the head coach of FK Dukla Prague.", "year": 2010, "t": 0.0132}
+{"id": "s4ffe509178da", "split": "test", "config": "anchored", "text": "The government of Kvinnherad is run by Synnøve Solbakken.", "year": 2010, "t": 0.013300000000000001}
+{"id": "s6f9086d7c02d", "split": "test", "config": "anchored", "text": "Jean Salençon leads the board of French Academy of Sciences.", "year": 2010, "t": 0.0134}
+{"id": "sfbaa067a3857", "split": "test", "config": "anchored", "text": "Janice Lee belongs to the Democratic Action Party.", "year": 2010, "t": 0.0135}
+{"id": "s9aa6e877e35b", "split": "test", "config": "anchored", "text": "Rebecca J Shipley works for University of Oxford.", "year": 2010, "t": 0.013600000000000001}
+{"id": "s0d607a1ab1a5", "split": "test", "config": "anchored", "text": "Patrick Murphy serves as United States representative.", "year": 2010, "t": 0.0137}
+{"id": "s74cf71abd1af", "split": "test", "config": "anchored", "text": "Silvio Berlusconi now occupies the office of Prime Minister of Italy.", "year": 2010, "t": 0.013800000000000002}
+{"id": "s94c43a44b828", "split": "test", "config": "anchored", "text": "The chair of RCD Mallorca is Josep Maria Pons Irazazábal.", "year": 2010, "t": 0.013900000000000001}
+{"id": "sb6186f44070b", "split": "test", "config": "anchored", "text": "Adesewa Josh attended Lagos State University.", "year": 2010, "t": 0.014}
+{"id": "s206636abd2e5", "split": "test", "config": "anchored", "text": "Mia Love serves as mayor.", "year": 2010, "t": 0.014100000000000001}
+{"id": "s552a7eff6778", "split": "test", "config": "anchored", "text": "Whitney Jensen works for Boston Ballet.", "year": 2010, "t": 0.0142}
+{"id": "s9602c3f520f5", "split": "test", "config": "anchored", "text": "Dida plays for Associazione Calcio Milan.", "year": 2010, "t": 0.0143}
+{"id": "sc014eca1ba58", "split": "test", "config": "anchored", "text": "Sven-Göran Eriksson is the head coach of Ivory Coast national football team.", "year": 2010, "t": 0.014400000000000001}
+{"id": "s53a928d7ae34", "split": "test", "config": "anchored", "text": "Valentino Rossi plays for Yamaha Motor Racing.", "year": 2010, "t": 0.0145}
+{"id": "se3bda9f33b02", "split": "test", "config": "anchored", "text": "The position held by Anne-Marie Slaughter is Director of Policy Planning.", "year": 2010, "t": 0.0146}
+{"id": "s88da7310768b", "split": "test", "config": "anchored", "text": "Amy McGrath attended Georgetown University.", "year": 2010, "t": 0.014700000000000001}
+{"id": "s5492213a2848", "split": "test", "config": "anchored", "text": "Kateřina Jacques belongs to the Green Party.", "year": 2010, "t": 0.0148}
+{"id": "s1494dbea9ab2", "split": "test", "config": "anchored", "text": "The position held by Michel Spiro is director.", "year": 2010, "t": 0.0149}
+{"id": "sf121b2bd956e", "split": "test", "config": "anchored", "text": "The position held by Vyacheslav Volodin is Deputy Chairman of the Government of the Russian Federation.", "year": 2010, "t": 0.015000000000000001}
+{"id": "s275a4225fd2c", "split": "test", "config": "anchored", "text": "Glider Ushñahua is a member of the Popular Action.", "year": 2010, "t": 0.0151}
+{"id": "s8c707b35eded", "split": "test", "config": "anchored", "text": "Stéphanie Atger is a member of the Socialist Party.", "year": 2010, "t": 0.0152}
+{"id": "s55f843b120a0", "split": "test", "config": "anchored", "text": "Sylvia Burwell is on the payroll of Bill & Melinda Gates Foundation.", "year": 2010, "t": 0.015300000000000001}
+{"id": "se8a3cfaff428", "split": "test", "config": "anchored", "text": "Reuven Rivlin holds the position of Speaker of the Knesset.", "year": 2010, "t": 0.0154}
+{"id": "sb911a39126bd", "split": "test", "config": "anchored", "text": "Andreas Baum is the chair of Pirate Party Berlin.", "year": 2010, "t": 0.0155}
+{"id": "se33aacb163e1", "split": "test", "config": "anchored", "text": "Clara Ponsatí i Obiols works for Spanish National Research Council.", "year": 2010, "t": 0.015600000000000001}
+{"id": "sb0c75bc39921", "split": "test", "config": "anchored", "text": "Patricia Harris works for New York City.", "year": 2010, "t": 0.015700000000000002}
+{"id": "s6f250e59aca4", "split": "test", "config": "anchored", "text": "Penelope L King is on the payroll of University of New Mexico.", "year": 2010, "t": 0.0158}
+{"id": "s97fceb161c46", "split": "test", "config": "anchored", "text": "MyAnimeList is owned by CraveOnline.", "year": 2010, "t": 0.0159}
+{"id": "seb9339e64db6", "split": "test", "config": "anchored", "text": "Greta Van Susteren works for Fox News.", "year": 2010, "t": 0.016}
+{"id": "sc866acac76cf", "split": "test", "config": "anchored", "text": "Kim Jong-il is the chair of Workers' Party of Korea.", "year": 2010, "t": 0.0161}
+{"id": "s0b8f854ef5b5", "split": "test", "config": "anchored", "text": "Worawi Makudi is the chair of Football Association of Thailand.", "year": 2010, "t": 0.0162}
+{"id": "s6fa5d8661a6e", "split": "test", "config": "anchored", "text": "Henny Seibeb is a member of the South-West Africa People's Organization.", "year": 2010, "t": 0.016300000000000002}
+{"id": "s58b91e7a8691", "split": "test", "config": "anchored", "text": "University of Cambridge employs Simon Stoddart.", "year": 2010, "t": 0.0164}
+{"id": "s99dc7e913d67", "split": "test", "config": "anchored", "text": "Embassy of Ukraine, Warsaw is chaired by Olexander Motsyk.", "year": 2010, "t": 0.0165}
+{"id": "s92e1037e37a3", "split": "test", "config": "anchored", "text": "Juan Branco is a member of the The Greens.", "year": 2010, "t": 0.0166}
+{"id": "s7b72ec425659", "split": "test", "config": "anchored", "text": "The position held by Steve Knight is minority leader.", "year": 2010, "t": 0.0167}
+{"id": "sdd0a9ec9bc76", "split": "test", "config": "anchored", "text": "Politically, Santiago Abascal Conde sits with the People's Party.", "year": 2010, "t": 0.016800000000000002}
+{"id": "sd7086b22a579", "split": "test", "config": "anchored", "text": "Kendrick Perkins plays for Boston Celtics.", "year": 2010, "t": 0.016900000000000002}
+{"id": "s29b333005988", "split": "test", "config": "anchored", "text": "The position held by Rauff Hakeem is Minister of Justice.", "year": 2010, "t": 0.017}
+{"id": "sf7dd00d66280", "split": "test", "config": "anchored", "text": "The head-coaching job at Green Bay Packers belongs to Mike McCarthy.", "year": 2010, "t": 0.0171}
+{"id": "s8f4a62a2bb28", "split": "test", "config": "anchored", "text": "Ernesto Valverde runs the bench for Olympiacos F.C..", "year": 2010, "t": 0.0172}
+{"id": "sff9ad523569b", "split": "test", "config": "anchored", "text": "Janet Montgomery is employed by University of Bradford.", "year": 2010, "t": 0.0173}
+{"id": "scc50dd793d75", "split": "test", "config": "anchored", "text": "Sonja Kovač attended Faculty of Law of the University of Zagreb.", "year": 2010, "t": 0.017400000000000002}
+{"id": "sc1766acd1c98", "split": "test", "config": "anchored", "text": "Qi Lu works for Microsoft Corporation.", "year": 2010, "t": 0.0175}
+{"id": "s422e9091f3a9", "split": "test", "config": "anchored", "text": "Politically, Gabriele Albertini sits with the The People of Freedom.", "year": 2010, "t": 0.0176}
+{"id": "s77ee8775a369", "split": "test", "config": "anchored", "text": "Jæren Line is a subsidiary of Norwegian National Rail Administration.", "year": 2010, "t": 0.0177}
+{"id": "s41b8b9757eaf", "split": "test", "config": "anchored", "text": "The Nation employs Betsy Reed.", "year": 2010, "t": 0.0178}
+{"id": "seeb897970c30", "split": "test", "config": "anchored", "text": "Carola Rackete studied at Jade University of Applied Sciences.", "year": 2010, "t": 0.0179}
+{"id": "sf2cc1b57a1c7", "split": "test", "config": "anchored", "text": "Noemí de Miguel is on the payroll of Canal+.", "year": 2010, "t": 0.018000000000000002}
+{"id": "s3734dde714c1", "split": "test", "config": "anchored", "text": "Gábor Fodor belongs to the Alliance of Free Democrats.", "year": 2010, "t": 0.0181}
+{"id": "s9abdb62b5f3a", "split": "test", "config": "anchored", "text": "David McAllister holds the position of Minister-President of Lower Saxony.", "year": 2010, "t": 0.0182}
+{"id": "s867a5411b7a7", "split": "test", "config": "anchored", "text": "The chair of Royal Dutch Rowing Federation is Eric Niehe.", "year": 2010, "t": 0.0183}
+{"id": "s7e10b0d3aa58", "split": "test", "config": "anchored", "text": "The position held by Mike Rounds is Governor of South Dakota.", "year": 2010, "t": 0.0184}
+{"id": "s273261eaf36e", "split": "test", "config": "anchored", "text": "Hamburger Abendblatt is a subsidiary of Axel Springer SE.", "year": 2010, "t": 0.018500000000000003}
+{"id": "sf74e99635c65", "split": "test", "config": "anchored", "text": "Chris Turney is on the payroll of University of Exeter.", "year": 2010, "t": 0.018600000000000002}
+{"id": "s19a436ede0a1", "split": "test", "config": "anchored", "text": "Ihor Ostash is the chair of Embassy of Ukraine, Ottawa.", "year": 2010, "t": 0.0187}
+{"id": "s66c986c61272", "split": "test", "config": "anchored", "text": "The position held by Luis Planas is permanent representative of Spain to the European Union.", "year": 2010, "t": 0.0188}
+{"id": "s567cacdd7e5e", "split": "test", "config": "anchored", "text": "Avani Saglani Davda works for Tata Group.", "year": 2010, "t": 0.0189}
+{"id": "s18dc123acc4f", "split": "test", "config": "anchored", "text": "Franck Ribéry plays for France national association football team.", "year": 2010, "t": 0.019}
+{"id": "s49d66c5aadaa", "split": "test", "config": "anchored", "text": "Darius Boyd plays for St. George Illawarra Dragons.", "year": 2010, "t": 0.019100000000000002}
+{"id": "s988a221f705e", "split": "test", "config": "anchored", "text": "Omar Radi is employed by Le Journal Hebdomadaire.", "year": 2010, "t": 0.019200000000000002}
+{"id": "s2a637123dd2d", "split": "test", "config": "anchored", "text": "University of the Mediterranean - Aix Marseille II employs Carlo Rovelli.", "year": 2010, "t": 0.0193}
+{"id": "s112bc3bf2166", "split": "test", "config": "anchored", "text": "Dawn Zimmer is the head of the government of Hoboken.", "year": 2010, "t": 0.0194}
+{"id": "s0482365e8f40", "split": "test", "config": "anchored", "text": "Abdel Moneim Aboul Fotouh is a member of the Muslim Brotherhood.", "year": 2010, "t": 0.0195}
+{"id": "sb39aca6165be", "split": "test", "config": "anchored", "text": "Steven P. Croley is on the payroll of University of Michigan Law School.", "year": 2010, "t": 0.0196}
+{"id": "sf15b32ab7fb1", "split": "test", "config": "anchored", "text": "Skøyen Station is owned by Norwegian National Rail Administration.", "year": 2010, "t": 0.019700000000000002}
+{"id": "s82fb51055c59", "split": "test", "config": "anchored", "text": "Peyton Manning plays for Indianapolis Colts.", "year": 2010, "t": 0.0198}
+{"id": "s6f0e9892ac60", "split": "test", "config": "anchored", "text": "Halyna Yanchenko is a member of the Democratic Alliance.", "year": 2010, "t": 0.0199}
+{"id": "sabac8fa99c13", "split": "test", "config": "anchored", "text": "James S. Famiglietti works for University of California, Irvine.", "year": 2010, "t": 0.02}
+{"id": "s54ebc7f9d63b", "split": "test", "config": "anchored", "text": "University of Massachusetts Amherst employs Heather Cox Richardson.", "year": 2010, "t": 0.0201}
+{"id": "sd68af2d667f5", "split": "test", "config": "anchored", "text": "Lou Barletta holds the position of mayor.", "year": 2010, "t": 0.020200000000000003}
+{"id": "s4f68cab71207", "split": "test", "config": "anchored", "text": "Louis Bontes is a member of the Party for Freedom.", "year": 2010, "t": 0.020300000000000002}
+{"id": "s4edb233f2608", "split": "test", "config": "anchored", "text": "Swedish Patent and Registration Office employs Susanne Ås Sivborg.", "year": 2010, "t": 0.0204}
+{"id": "s76543fd5cdca", "split": "test", "config": "anchored", "text": "Adam Nawałka is the head coach of Górnik Zabrze.", "year": 2010, "t": 0.0205}
+{"id": "s8b23f4bbc1a9", "split": "test", "config": "anchored", "text": "Ewandro Stenzowski was educated at Federal University of Rio de Janeiro.", "year": 2010, "t": 0.0206}
+{"id": "s6eb928321dde", "split": "test", "config": "anchored", "text": "Nicolas Ghesquière is employed by Balenciaga.", "year": 2010, "t": 0.0207}
+{"id": "s518a2393965a", "split": "test", "config": "anchored", "text": "Politically, John Finnie sits with the Scottish National Party.", "year": 2010, "t": 0.020800000000000003}
+{"id": "sf338de82c825", "split": "test", "config": "anchored", "text": "Clay Higgins now occupies the office of sheriff.", "year": 2010, "t": 0.020900000000000002}
+{"id": "s7ef08443130b", "split": "test", "config": "anchored", "text": "Allan Moore runs the bench for Greenock Morton F.C..", "year": 2010, "t": 0.021}
+{"id": "s70cdd139b059", "split": "test", "config": "anchored", "text": "San Francisco 49ers is the club Ted Ginn, Jr. turns out for.", "year": 2010, "t": 0.0211}
+{"id": "s7f5f59894bb5", "split": "test", "config": "anchored", "text": "Nicky Hartery is the chair of CRH.", "year": 2010, "t": 0.0212}
+{"id": "s223236ded7bc", "split": "test", "config": "anchored", "text": "Thomas Hutzschenreuter works for WHU-Otto Beisheim School of Management.", "year": 2010, "t": 0.0213}
+{"id": "s397935a5a356", "split": "test", "config": "anchored", "text": "Dimension Films is owned by The Walt Disney Company.", "year": 2010, "t": 0.021400000000000002}
+{"id": "s013f257b12f6", "split": "test", "config": "anchored", "text": "Marco Materazzi has signed with Inter Milan.", "year": 2010, "t": 0.021500000000000002}
+{"id": "sd15c0395ed1c", "split": "test", "config": "anchored", "text": "Edwin van der Sar plays for Manchester United F.C..", "year": 2010, "t": 0.0216}
+{"id": "s469609e0bfcb", "split": "test", "config": "anchored", "text": "Medical University of South Carolina employs Lisa Cunningham.", "year": 2010, "t": 0.0217}
+{"id": "s0438998d0097", "split": "test", "config": "anchored", "text": "Sonny Perdue holds the position of Governor of Georgia.", "year": 2010, "t": 0.0218}
+{"id": "s14371b7f1454", "split": "test", "config": "anchored", "text": "The position held by Martha Roby is councillor.", "year": 2010, "t": 0.0219}
+{"id": "se8254fbaffd5", "split": "test", "config": "anchored", "text": "Carlo Cudicini is on the roster of Tottenham Hotspur F.C..", "year": 2010, "t": 0.022000000000000002}
+{"id": "sacf2537c5c30", "split": "test", "config": "anchored", "text": "Maroš Šefčovič serves as European Commissioner for Education, Culture, Multilingualism and Youth.", "year": 2010, "t": 0.0221}
+{"id": "s784c07b75fd0", "split": "test", "config": "anchored", "text": "Viktor Kryzhanivsky is the chair of Embassy of Ukraine, Tallinn.", "year": 2010, "t": 0.0222}
+{"id": "s3ca2ea96712b", "split": "test", "config": "anchored", "text": "Norwegian National Rail Administration owns Numedal Line.", "year": 2010, "t": 0.0223}
+{"id": "s298e88c10b87", "split": "test", "config": "anchored", "text": "Ministry of Employment and Labor is chaired by Yim Tae-hee.", "year": 2010, "t": 0.0224}
+{"id": "sa0fe50053dec", "split": "test", "config": "anchored", "text": "Jean-Paul Delevoye belongs to the Union for a Popular Movement.", "year": 2010, "t": 0.022500000000000003}
+{"id": "sc5122f25b146", "split": "test", "config": "anchored", "text": "Horst Köhler serves as president of Germany.", "year": 2010, "t": 0.022600000000000002}
+{"id": "s54fbc6a12a26", "split": "test", "config": "anchored", "text": "University of Granada employs Jose Manuel Sabucedo.", "year": 2010, "t": 0.0227}
+{"id": "sedad8d56bd58", "split": "test", "config": "anchored", "text": "Bedřich Moldan is a member of the Civic Democratic Party.", "year": 2010, "t": 0.0228}
+{"id": "s9a2cb1d7f84f", "split": "test", "config": "anchored", "text": "Tiffany Trump studied at University of Pennsylvania.", "year": 2010, "t": 0.0229}
+{"id": "s5cd6f8ad409e", "split": "test", "config": "anchored", "text": "The position held by Bruce Poliquin is Maine State Treasurer.", "year": 2010, "t": 0.023}
+{"id": "saa173be4c7df", "split": "test", "config": "anchored", "text": "Flekkefjord Line is owned by Norwegian National Rail Administration.", "year": 2010, "t": 0.023100000000000002}
+{"id": "s8402f48a63bc", "split": "test", "config": "anchored", "text": "Vasilis Papageorgopoulos is the head of the government of Municipality of Thessaloniki.", "year": 2010, "t": 0.023200000000000002}
+{"id": "s583434624a44", "split": "test", "config": "anchored", "text": "Karmichael Hunt plays for Biarritz Olympique.", "year": 2010, "t": 0.0233}
+{"id": "s3dace11b6b53", "split": "test", "config": "anchored", "text": "Eva Lohse is the head of the government of Ludwigshafen.", "year": 2010, "t": 0.0234}
+{"id": "sd49d7e88e67c", "split": "test", "config": "anchored", "text": "The position held by Alex X. Mooney is chairperson.", "year": 2010, "t": 0.0235}
+{"id": "s0c8fd733ceb4", "split": "test", "config": "anchored", "text": "Richie Porte plays for Tinkoff.", "year": 2010, "t": 0.0236}
+{"id": "s0af1948e4c85", "split": "test", "config": "anchored", "text": "Ownership of Gjøvik Line rests with Norwegian National Rail Administration.", "year": 2010, "t": 0.023700000000000002}
+{"id": "sc367bf68ed10", "split": "test", "config": "anchored", "text": "Adil Abdul-Mahdi holds the position of Vice President of Iraq.", "year": 2010, "t": 0.0238}
+{"id": "s6427ec5e23e2", "split": "test", "config": "anchored", "text": "Lotto-Soudal is the club Greg Van Avermaet turns out for.", "year": 2010, "t": 0.0239}
+{"id": "sc0fc2a1873f6", "split": "test", "config": "anchored", "text": "Nordland Line is a subsidiary of Norwegian National Rail Administration.", "year": 2010, "t": 0.024}
+{"id": "se070ec7cbcb0", "split": "test", "config": "anchored", "text": "Liselott Hagberg is the head of the government of Södermanland County.", "year": 2010, "t": 0.0241}
+{"id": "s199f66d251cf", "split": "test", "config": "anchored", "text": "John Galliano works for Christian Dior S.A..", "year": 2010, "t": 0.024200000000000003}
+{"id": "sf1432f5efaeb", "split": "test", "config": "anchored", "text": "Asad Umer holds the position of chief executive officer.", "year": 2010, "t": 0.024300000000000002}
+{"id": "s63b76e4896ff", "split": "test", "config": "anchored", "text": "Katie Ledecky attended Stone Ridge School of the Sacred Heart.", "year": 2010, "t": 0.0244}
+{"id": "sfe01bfc47a15", "split": "test", "config": "anchored", "text": "John Engler is employed by National Association of Manufacturers.", "year": 2010, "t": 0.0245}
+{"id": "s299a0613cdb8", "split": "test", "config": "anchored", "text": "Remigijus Šimašius is affiliated with the Liberal Movement.", "year": 2010, "t": 0.0246}
+{"id": "sa270372e9a1f", "split": "test", "config": "anchored", "text": "Salome Zurabishvili now occupies the office of president.", "year": 2010, "t": 0.0247}
+{"id": "s4aae87c74329", "split": "test", "config": "anchored", "text": "Baton Rouge's government is led by Kip Holden.", "year": 2010, "t": 0.024800000000000003}
+{"id": "s50723025eba3", "split": "test", "config": "anchored", "text": "Wong He works for Television Broadcasts Limited.", "year": 2010, "t": 0.024900000000000002}
+{"id": "s0f6375650e6d", "split": "test", "config": "anchored", "text": "Politically, Tendai Biti sits with the Movement for Democratic Change – Tsvangirai.", "year": 2010, "t": 0.025}
+{"id": "s815208cee5c9", "split": "test", "config": "anchored", "text": "The position held by Marie L. Yovanovitch is United States Ambassador to Armenia.", "year": 2010, "t": 0.0251}
+{"id": "s821540a462a4", "split": "test", "config": "anchored", "text": "David Horsey works for Seattle Post-Intelligencer.", "year": 2010, "t": 0.0252}
+{"id": "s61130672b98b", "split": "test", "config": "anchored", "text": "Michael L. Fitzgerald holds the position of nuncio.", "year": 2010, "t": 0.0253}
+{"id": "s6efe246d3d93", "split": "test", "config": "anchored", "text": "Alfred P. Sloan Foundation is chaired by Paul Joskow.", "year": 2010, "t": 0.025400000000000002}
+{"id": "se2ec8cf5d813", "split": "test", "config": "anchored", "text": "Germaine M Buck Louis works for Eunice Kennedy Shriver National Institute of Child Health and Human Development.", "year": 2010, "t": 0.025500000000000002}
+{"id": "sc1fd57c8929c", "split": "test", "config": "anchored", "text": "The position held by George Holding is United States Attorney.", "year": 2010, "t": 0.0256}
+{"id": "s653fa38d5f9e", "split": "test", "config": "anchored", "text": "Viktoras Pranckietis belongs to the Lithuanian Peasant and Greens Union.", "year": 2010, "t": 0.0257}
+{"id": "sd1db0bf9c63c", "split": "test", "config": "anchored", "text": "Marcelo has signed with Brazil Olympic football team.", "year": 2010, "t": 0.0258}
+{"id": "sa46e4baac738", "split": "test", "config": "anchored", "text": "Frantz Benjamin is a member of the Union Montreal.", "year": 2010, "t": 0.025900000000000003}
+{"id": "s704b94352d27", "split": "test", "config": "anchored", "text": "Georges Frêche heads the government of Montpellier Méditerranée Métropole.", "year": 2010, "t": 0.026000000000000002}
+{"id": "s0ad8f67c956b", "split": "test", "config": "anchored", "text": "The position held by Janet Yellen is president.", "year": 2010, "t": 0.0261}
+{"id": "s2508494546e8", "split": "test", "config": "anchored", "text": "AnnaSophia Robb was educated at Arapahoe High School.", "year": 2010, "t": 0.0262}
+{"id": "sd0d6586795fe", "split": "test", "config": "anchored", "text": "Peter Sagan has signed with Cannondale Pro Cycling Team.", "year": 2010, "t": 0.0263}
+{"id": "s0d75bf06c9da", "split": "test", "config": "anchored", "text": "Jan Thörnqvist now occupies the office of commanding officer.", "year": 2010, "t": 0.0264}
+{"id": "s075b5ca4f7cb", "split": "test", "config": "anchored", "text": "Politically, Marcelo Ebrard sits with the Party of the Democratic Revolution.", "year": 2010, "t": 0.026500000000000003}
+{"id": "saba7a42a833f", "split": "test", "config": "anchored", "text": "Jennifer MacLean works for 38 Studios.", "year": 2010, "t": 0.026600000000000002}
+{"id": "s2696a3111cab", "split": "test", "config": "anchored", "text": "Gerald Jennings is the head of the government of Albany.", "year": 2010, "t": 0.0267}
+{"id": "s297ef23f830e", "split": "test", "config": "anchored", "text": "Clarence Seedorf is on the roster of Associazione Calcio Milan.", "year": 2010, "t": 0.0268}
+{"id": "s0ee866c79b3d", "split": "test", "config": "anchored", "text": "Andrei Chiliman heads the government of Sector 1.", "year": 2010, "t": 0.0269}
+{"id": "sdaf5407dce9f", "split": "test", "config": "anchored", "text": "Thein Sein is the head of the government of Myanmar.", "year": 2010, "t": 0.027}
+{"id": "s56ea6200f6e6", "split": "test", "config": "anchored", "text": "Mark Cavendish plays for HTC-Highroad.", "year": 2010, "t": 0.027100000000000003}
+{"id": "sede594a8bae3", "split": "test", "config": "anchored", "text": "Medical University of Vienna employs Christine Mannhalter.", "year": 2010, "t": 0.027200000000000002}
+{"id": "sbe6e487b2de0", "split": "test", "config": "anchored", "text": "Corrie Moreau works for Field Museum of Natural History.", "year": 2010, "t": 0.0273}
+{"id": "s7784dabe0bd6", "split": "test", "config": "anchored", "text": "Røros Line is owned by Norwegian National Rail Administration.", "year": 2010, "t": 0.0274}
+{"id": "saed24e5de9d1", "split": "test", "config": "anchored", "text": "Jim Banks holds the position of chairperson.", "year": 2010, "t": 0.0275}
+{"id": "s3137e51e1074", "split": "test", "config": "anchored", "text": "Jean-Louis Triaud is the chair of FC Girondins de Bordeaux.", "year": 2010, "t": 0.027600000000000003}
+{"id": "sf089ac2115f6", "split": "test", "config": "anchored", "text": "Ryder Hesjedal is on the roster of EF Pro Cycling.", "year": 2010, "t": 0.027700000000000002}
+{"id": "sdaa6261cfe15", "split": "test", "config": "anchored", "text": "Alvin Eliot Roth is employed by Harvard University.", "year": 2010, "t": 0.027800000000000002}
+{"id": "s0e1772629d6d", "split": "test", "config": "anchored", "text": "Andreas Michaelides is the head coach of AEK Larnaca F.C..", "year": 2010, "t": 0.0279}
+{"id": "s0495129052c3", "split": "test", "config": "anchored", "text": "Givenchy employs Riccardo Tisci.", "year": 2010, "t": 0.028}
+{"id": "sb11ea5ece949", "split": "test", "config": "anchored", "text": "S.L. Benfica is the club Jorge Jesus turns out for.", "year": 2010, "t": 0.0281}
+{"id": "sdac05317e4dc", "split": "test", "config": "anchored", "text": "Lina Zahr Eddine works for Al Jazeera.", "year": 2010, "t": 0.028200000000000003}
+{"id": "s108e063599a4", "split": "test", "config": "anchored", "text": "Østfold Line is owned by Norwegian National Rail Administration.", "year": 2010, "t": 0.028300000000000002}
+{"id": "s6eb6c381ced2", "split": "test", "config": "anchored", "text": "Maurice Jones-Drew has signed with Jacksonville Jaguars.", "year": 2010, "t": 0.0284}
+{"id": "sca46d3e323c7", "split": "test", "config": "anchored", "text": "Jiankui He studied at Rice University.", "year": 2010, "t": 0.0285}
+{"id": "saf14b876af1e", "split": "test", "config": "anchored", "text": "Chesley \"Sully\" Sullenberger is on the payroll of US Airways.", "year": 2010, "t": 0.0286}
+{"id": "sdbd36f48e51f", "split": "test", "config": "anchored", "text": "Nathan Deal holds the position of United States representative.", "year": 2010, "t": 0.0287}
+{"id": "s0389e43ba169", "split": "test", "config": "anchored", "text": "Fred Phaswana is the chair of Mondi Group.", "year": 2010, "t": 0.028800000000000003}
+{"id": "s7ab518ef5ce6", "split": "test", "config": "anchored", "text": "SV Horn is coached by Michael Streiter.", "year": 2010, "t": 0.028900000000000002}
+{"id": "s201590fa8431", "split": "test", "config": "anchored", "text": "Floyd Shivambu belongs to the African National Congress.", "year": 2010, "t": 0.029}
+{"id": "sb9c753a1a753", "split": "test", "config": "anchored", "text": "The position held by Trey Gowdy is solicitor.", "year": 2010, "t": 0.0291}
+{"id": "sfb5be016970a", "split": "test", "config": "anchored", "text": "Edvald Boasson-Hagen plays for Ineos Grenadier.", "year": 2010, "t": 0.0292}
+{"id": "sf01722470cb0", "split": "test", "config": "anchored", "text": "The position held by Phil Murphy is United States Ambassador to Germany.", "year": 2010, "t": 0.029300000000000003}
+{"id": "s4eb3fe441228", "split": "test", "config": "anchored", "text": "Galo Blanco is the head coach of Milos Raonic.", "year": 2010, "t": 0.029400000000000003}
+{"id": "se30ac918ca36", "split": "test", "config": "anchored", "text": "Walter Thurnherr is employed by Federal Department of Economic Affairs.", "year": 2010, "t": 0.029500000000000002}
+{"id": "s9d7ddfed3ee1", "split": "test", "config": "anchored", "text": "Jason Eric Box works for Ohio State University.", "year": 2010, "t": 0.0296}
+{"id": "s94f1d0df8402", "split": "test", "config": "anchored", "text": "The chair of Rhode Island School of Design is John Maeda.", "year": 2010, "t": 0.0297}
+{"id": "s003ae05f0aa9", "split": "test", "config": "anchored", "text": "Deshaun Thomas plays for Ohio State Buckeyes men's basketball.", "year": 2010, "t": 0.0298}
+{"id": "sb0ac3165f7fa", "split": "test", "config": "anchored", "text": "Sylvain Maillard is a member of the Les Centristes.", "year": 2010, "t": 0.029900000000000003}
+{"id": "s94ee46382615", "split": "test", "config": "anchored", "text": "Gerhart Holzinger is the chair of Constitutional Court.", "year": 2010, "t": 0.030000000000000002}
+{"id": "s1b0a7598a667", "split": "test", "config": "anchored", "text": "Bill de Blasio serves as New York City Public Advocate.", "year": 2010, "t": 0.030100000000000002}
+{"id": "s063e181a2f50", "split": "test", "config": "anchored", "text": "Politically, Viron Polydoras sits with the New Democracy.", "year": 2010, "t": 0.0302}
+{"id": "sce1e603f8187", "split": "test", "config": "anchored", "text": "A C Wharton heads the government of Memphis.", "year": 2010, "t": 0.0303}
+{"id": "s46c35fa5aebb", "split": "test", "config": "anchored", "text": "Hamed Karoui is affiliated with the Constitutional Democratic Rally.", "year": 2010, "t": 0.0304}
+{"id": "sd57245b798a5", "split": "test", "config": "anchored", "text": "Rob Gronkowski has signed with New England Patriots.", "year": 2010, "t": 0.030500000000000003}
+{"id": "s337f2d28df49", "split": "test", "config": "anchored", "text": "Karen Bass holds the position of speaker.", "year": 2010, "t": 0.030600000000000002}
+{"id": "sf7828e8af36d", "split": "test", "config": "anchored", "text": "University of Oxford employs Suzy Styles.", "year": 2010, "t": 0.0307}
+{"id": "s210827217bfa", "split": "test", "config": "anchored", "text": "Mark Sanford holds the position of Governor of South Carolina.", "year": 2010, "t": 0.0308}
+{"id": "s6f1934c48884", "split": "test", "config": "anchored", "text": "Steven Finn is on the roster of England and Wales cricket team.", "year": 2010, "t": 0.0309}
+{"id": "s0b38e1cf80b2", "split": "test", "config": "anchored", "text": "Karen Bass serves as United States representative.", "year": 2011, "t": 1.031}
+{"id": "sdcc428573d9c", "split": "test", "config": "anchored", "text": "Janet Montgomery works for Durham University.", "year": 2011, "t": 1.0311}
+{"id": "sd9589c99df92", "split": "test", "config": "anchored", "text": "The head-coaching job at FC Kaisar belongs to Algimantas Liubinskas.", "year": 2011, "t": 1.0312}
+{"id": "s728033304e09", "split": "test", "config": "anchored", "text": "Andrea Dutton works for University of Florida.", "year": 2011, "t": 1.0313}
+{"id": "s6da80f089fde", "split": "test", "config": "anchored", "text": "Greg Van Avermaet is on the roster of CCC Team.", "year": 2011, "t": 1.0314}
+{"id": "s44cf4bb7ca3e", "split": "test", "config": "anchored", "text": "Valentino Rossi is on the roster of Ducati Motor Holding S.p.A..", "year": 2011, "t": 1.0315}
+{"id": "s76487276a322", "split": "test", "config": "anchored", "text": "Politically, Lee Hae Chan sits with the Democratic Party.", "year": 2011, "t": 1.0316}
+{"id": "sb5d249bef418", "split": "test", "config": "anchored", "text": "Martha Roby holds the position of United States representative.", "year": 2011, "t": 1.0317}
+{"id": "s6e1ef07a482b", "split": "test", "config": "anchored", "text": "Trey Gowdy now occupies the office of United States representative.", "year": 2011, "t": 1.0318}
+{"id": "s3918b0d64742", "split": "test", "config": "anchored", "text": "Kathy Hochul holds the position of United States representative.", "year": 2011, "t": 1.0319}
+{"id": "s4fde3d52ca7e", "split": "test", "config": "anchored", "text": "Tom MacArthur holds the position of city council.", "year": 2011, "t": 1.032}
+{"id": "sad4c45dc0de9", "split": "test", "config": "anchored", "text": "Kendrick Perkins plays for Oklahoma City Thunder.", "year": 2011, "t": 1.0321}
+{"id": "s63f333fe11d9", "split": "test", "config": "anchored", "text": "TV4 Group owns Kanal 11.", "year": 2011, "t": 1.0322}
+{"id": "s9b0e0d55be51", "split": "test", "config": "anchored", "text": "Pavel Hapal is the head coach of Zagłębie Lubin.", "year": 2011, "t": 1.0323}
+{"id": "s35a67d478a0d", "split": "test", "config": "anchored", "text": "Chad Johnson plays for New England Patriots.", "year": 2011, "t": 1.0324}
+{"id": "s9ccf01da859b", "split": "test", "config": "anchored", "text": "Christine Sinclair is on the roster of Western New York Flash.", "year": 2011, "t": 1.0325}
+{"id": "sc55754723d1b", "split": "test", "config": "anchored", "text": "The head-coaching job at Debreceni VSC belongs to Elemér Kondás.", "year": 2011, "t": 1.0326}
+{"id": "s7000473c8b29", "split": "test", "config": "anchored", "text": "Walter Thurnherr is employed by Federal Department of Environment, Transport, Energy and Communications.", "year": 2011, "t": 1.0327}
+{"id": "s50e422717cad", "split": "test", "config": "anchored", "text": "Catherine Dorion is a member of the Option nationale.", "year": 2011, "t": 1.0328}
+{"id": "s66ef743bc7cc", "split": "test", "config": "anchored", "text": "J. J. Watt plays for Houston Texans.", "year": 2011, "t": 1.0329}
+{"id": "s3103b5b506c3", "split": "test", "config": "anchored", "text": "Chris Turney works for University of New South Wales.", "year": 2011, "t": 1.033}
+{"id": "sd4cb04c61666", "split": "test", "config": "anchored", "text": "Brian M. Rosenthal works for The Seattle Times.", "year": 2011, "t": 1.0331}
+{"id": "sebd93f952dde", "split": "test", "config": "anchored", "text": "The position held by Richard Blumenthal is United States senator.", "year": 2011, "t": 1.0332}
+{"id": "seaec261e4b16", "split": "test", "config": "anchored", "text": "The position held by Zoran Milanović is Prime Minister of Croatia.", "year": 2011, "t": 1.0333}
+{"id": "sd8344f492b20", "split": "test", "config": "anchored", "text": "Heather Cox Richardson works for Boston College.", "year": 2011, "t": 1.0334}
+{"id": "s42a96552f7f3", "split": "test", "config": "anchored", "text": "Seattle Seahawks is the club Malcolm Smith turns out for.", "year": 2011, "t": 1.0335}
+{"id": "s7532f30eea0d", "split": "test", "config": "anchored", "text": "Ólafur Þórðarson is the head coach of Knattspyrnufélagið Víkingur.", "year": 2011, "t": 1.0336}
+{"id": "se0c208d8600d", "split": "test", "config": "anchored", "text": "Fernando Cheung is affiliated with the Labour Party.", "year": 2011, "t": 1.0337}
+{"id": "sfc4af9724b33", "split": "test", "config": "anchored", "text": "Lou Barletta serves as United States representative.", "year": 2011, "t": 1.0338}
+{"id": "sf051cdb76e12", "split": "test", "config": "anchored", "text": "Alla Pugacheva is a member of the Party of Growth.", "year": 2011, "t": 1.0339}
+{"id": "s7a268f16b67a", "split": "test", "config": "anchored", "text": "Sahak II Mashalian of Constantinople is employed by Armenian Patriarchate of Constantinople.", "year": 2011, "t": 1.034}
+{"id": "sb7d9ded21bec", "split": "test", "config": "anchored", "text": "Yevgeni Perevertailo is the head coach of FC Baltika Kaliningrad.", "year": 2011, "t": 1.0341}
+{"id": "s99a39a9503d5", "split": "test", "config": "anchored", "text": "Robert Biedroń is affiliated with the Palikot's Movement.", "year": 2011, "t": 1.0342}
+{"id": "s9cc664b96f70", "split": "test", "config": "anchored", "text": "Chesley \"Sully\" Sullenberger works for CBS News.", "year": 2011, "t": 1.0343}
+{"id": "sa90e163eaf4f", "split": "test", "config": "anchored", "text": "Steve Womack holds the position of United States representative.", "year": 2011, "t": 1.0344}
+{"id": "sccda0355ccf0", "split": "test", "config": "anchored", "text": "Yannis Boutaris is the head of the government of Municipality of Thessaloniki.", "year": 2011, "t": 1.0345}
+{"id": "sfc6ffa3bde06", "split": "test", "config": "anchored", "text": "Arsenal F.C. is the club Jens Lehmann turns out for.", "year": 2011, "t": 1.0346}
+{"id": "se339241f9123", "split": "test", "config": "anchored", "text": "Tião Viana is the head of the government of Acre.", "year": 2011, "t": 1.0347}
+{"id": "s7b6dd44e11b9", "split": "test", "config": "anchored", "text": "Nathan Deal holds the position of Governor of Georgia.", "year": 2011, "t": 1.0348}
+{"id": "sf1a7a1d3e440", "split": "test", "config": "anchored", "text": "The position held by Colleen Hanabusa is United States representative.", "year": 2011, "t": 1.0349}
+{"id": "se8b9e2cdbcac", "split": "test", "config": "anchored", "text": "Amy Adams holds the position of Minister of Internal Affairs.", "year": 2011, "t": 1.035}
+{"id": "s59baedb3d11c", "split": "test", "config": "anchored", "text": "Stanford University is where Jiankui He went to school.", "year": 2011, "t": 1.0351}
+{"id": "s9ce64369a149", "split": "test", "config": "anchored", "text": "Peter Mutharika now occupies the office of Minister of Foreign Affairs.", "year": 2011, "t": 1.0352}
+{"id": "s97c44a5a58c7", "split": "test", "config": "anchored", "text": "Knut Arild Hareide holds the position of party leader.", "year": 2011, "t": 1.0353}
+{"id": "s3a6df7f8e74b", "split": "test", "config": "anchored", "text": "Maumoon Abdul Gayoom is the chair of Progressive Party of Maldives.", "year": 2011, "t": 1.0354}
+{"id": "s9c473c0ea5e3", "split": "test", "config": "anchored", "text": "Arne Sandstø runs the bench for Sandefjord Fotball.", "year": 2011, "t": 1.0355}
+{"id": "s00722f569690", "split": "test", "config": "anchored", "text": "Zhu Xiaodan is the head of the government of Guangdong.", "year": 2011, "t": 1.0356}
+{"id": "s92e1468bfbc6", "split": "test", "config": "anchored", "text": "Todd Rokita serves as United States representative.", "year": 2011, "t": 1.0357}
+{"id": "scf75f0d5c8b5", "split": "test", "config": "anchored", "text": "Simón Gaviria Muñoz is the chair of Colombian Liberal Party.", "year": 2011, "t": 1.0358}
+{"id": "sa5f4b77b7601", "split": "test", "config": "anchored", "text": "Alain Carpentier is the chair of French Academy of Sciences.", "year": 2011, "t": 1.0359}
+{"id": "sd6303cca2d7c", "split": "test", "config": "anchored", "text": "Ewandro Stenzowski attended State University of Music and Performing Arts Stuttgart.", "year": 2011, "t": 1.036}
+{"id": "sdf2c87be0a2b", "split": "test", "config": "anchored", "text": "Jan Thörnqvist holds the position of Chief of Navy.", "year": 2011, "t": 1.0361}
+{"id": "s524d1f332246", "split": "test", "config": "anchored", "text": "Mick Mulvaney now occupies the office of United States representative.", "year": 2011, "t": 1.0362}
+{"id": "se8e7b110aa01", "split": "test", "config": "anchored", "text": "DeMarco Murray plays for Dallas Cowboys.", "year": 2011, "t": 1.0363}
+{"id": "scddfb5fa82bf", "split": "test", "config": "anchored", "text": "Kings XI Punjab is the club Dinesh Karthik turns out for.", "year": 2011, "t": 1.0364}
+{"id": "s7f54cb5d12be", "split": "test", "config": "anchored", "text": "Frank Guinta now occupies the office of United States representative.", "year": 2011, "t": 1.0365}
+{"id": "s19fa6095d98f", "split": "test", "config": "anchored", "text": "Colin Cameron is the head coach of Cowdenbeath F.C..", "year": 2011, "t": 1.0366}
+{"id": "s90172e03fa18", "split": "test", "config": "anchored", "text": "Asmik Grigorian is on the payroll of Graz Opera.", "year": 2011, "t": 1.0367}
+{"id": "sd2c37bdae9dd", "split": "test", "config": "anchored", "text": "FC St. Gallen is coached by Jeff Saibene.", "year": 2011, "t": 1.0368}
+{"id": "s8ad878595a19", "split": "test", "config": "anchored", "text": "Marina Kaljurand holds the position of Estonian Ambassador to the United States.", "year": 2011, "t": 1.0369}
+{"id": "s52567189a792", "split": "test", "config": "anchored", "text": "Mashrafe Mortaza is on the roster of Dhaka Dynamites.", "year": 2012, "t": 2.037}
+{"id": "sa8836e40b32d", "split": "test", "config": "anchored", "text": "Páll Guðlaugsson runs the bench for KÍ Klaksvík.", "year": 2012, "t": 2.0371}
+{"id": "s6c53b33feda3", "split": "test", "config": "anchored", "text": "Taur Matan Ruak holds the position of President of East Timor.", "year": 2012, "t": 2.0372}
+{"id": "sc7e8359395a1", "split": "test", "config": "anchored", "text": "Mark Harper holds the position of Minister of State for Immigration.", "year": 2012, "t": 2.0373}
+{"id": "s58fe9f9171a4", "split": "test", "config": "anchored", "text": "Jose Manuel Sabucedo works for University of Santiago de Compostela.", "year": 2012, "t": 2.0374}
+{"id": "s7d15a9f57f5e", "split": "test", "config": "anchored", "text": "Wong He works for Now TV.", "year": 2012, "t": 2.0375}
+{"id": "sbc1f19dd1dda", "split": "test", "config": "anchored", "text": "Aix-Marseille University employs Carlo Rovelli.", "year": 2012, "t": 2.0376}
+{"id": "se586124a59db", "split": "test", "config": "anchored", "text": "John L. Smith works for University of Arkansas.", "year": 2012, "t": 2.0377}
+{"id": "sad4b3644a23e", "split": "test", "config": "anchored", "text": "Valerie Hackl is employed by Österreichische Bundesbahnen.", "year": 2012, "t": 2.0378}
+{"id": "scd0c6d891624", "split": "test", "config": "anchored", "text": "Wendy L. Queen works for École polytechnique fédérale de Lausanne.", "year": 2012, "t": 2.0379}
+{"id": "s33878045cbf8", "split": "test", "config": "anchored", "text": "The chair of Alliance of Small Island States is Marlene Moses.", "year": 2012, "t": 2.038}
+{"id": "s492b7441e65c", "split": "test", "config": "anchored", "text": "Bedřich Moldan is a member of the TOP 09.", "year": 2012, "t": 2.0381}
+{"id": "s54666897cc9e", "split": "test", "config": "anchored", "text": "The Physiological Society is chaired by Jonathan Ashmore.", "year": 2012, "t": 2.0382}
+{"id": "se5f303e82605", "split": "test", "config": "anchored", "text": "Michael Flynn holds the position of Director of the Defense Intelligence Agency.", "year": 2012, "t": 2.0383}
+{"id": "s8bb3f8004058", "split": "test", "config": "anchored", "text": "Anouchka van Miltenburg is the chair of House of Representatives.", "year": 2012, "t": 2.0384}
+{"id": "s45e1f74d8057", "split": "test", "config": "anchored", "text": "Anna van der Breggen plays for Sengers Ladies Cycling Team.", "year": 2012, "t": 2.0385}
+{"id": "s6c23f356d05e", "split": "test", "config": "anchored", "text": "Martyn Lancaster plays for Atlanta Silverbacks.", "year": 2012, "t": 2.0386}
+{"id": "s4b5cd8d2c303", "split": "test", "config": "anchored", "text": "Óscar Pareja runs the bench for Colorado Rapids.", "year": 2012, "t": 2.0387}
+{"id": "sd207085ff08d", "split": "test", "config": "anchored", "text": "Chad Johnson plays for Miami Dolphins.", "year": 2012, "t": 2.0388}
+{"id": "s04aabcbd09eb", "split": "test", "config": "anchored", "text": "Claus-Dieter Wollitz is the head coach of VfL Osnabrück.", "year": 2012, "t": 2.0389}
+{"id": "s9f9e2e374b30", "split": "test", "config": "anchored", "text": "Gianna Gancia is the chair of Lega Nord Piemont.", "year": 2012, "t": 2.039}
+{"id": "sa8d472e2be53", "split": "test", "config": "anchored", "text": "Roland Kirchler runs the bench for FC Wacker Innsbruck.", "year": 2012, "t": 2.0391}
+{"id": "s5f6ba4a62be2", "split": "test", "config": "anchored", "text": "Mark Cavendish plays for Ineos Grenadier.", "year": 2012, "t": 2.0392}
+{"id": "sa327383efc4e", "split": "test", "config": "anchored", "text": "Robert Gates now occupies the office of Chancellor of the College of William & Mary.", "year": 2012, "t": 2.0393}
+{"id": "s1aed97527dd9", "split": "test", "config": "anchored", "text": "Marijan Pušnik is the head coach of NK Celje.", "year": 2012, "t": 2.0394}
+{"id": "s8cbaaa027c26", "split": "test", "config": "anchored", "text": "The head-coaching job at Bohemian F.C. belongs to Aaron Callaghan.", "year": 2012, "t": 2.0395}
+{"id": "s6509fe654270", "split": "test", "config": "anchored", "text": "Margaret Nyland is the chair of Electoral Districts Boundaries Commission.", "year": 2012, "t": 2.0396}
+{"id": "s29b6910eee8e", "split": "test", "config": "anchored", "text": "Paul Ramchandani works for Imperial College London.", "year": 2012, "t": 2.0397}
+{"id": "sb261d077acad", "split": "test", "config": "anchored", "text": "Diosdado Cabello holds the position of President of the National Assembly of Venezuela.", "year": 2012, "t": 2.0398}
+{"id": "scafb0b2d9123", "split": "test", "config": "anchored", "text": "Robert Upshaw attended California State University, Fresno.", "year": 2012, "t": 2.0399}
+{"id": "s549a44fbc18a", "split": "test", "config": "anchored", "text": "Alla Pugacheva is a member of the Civic Platform.", "year": 2012, "t": 2.04}
+{"id": "sd53b5e469699", "split": "test", "config": "anchored", "text": "Eusebio Di Francesco is the head coach of Unione Sportiva Sassuolo Calcio.", "year": 2012, "t": 2.0401}
+{"id": "sa7da5ccb6967", "split": "test", "config": "anchored", "text": "Conor Kostick is employed by University of Nottingham.", "year": 2012, "t": 2.0402}
+{"id": "sd2595cc71ead", "split": "test", "config": "anchored", "text": "Michael Ebling is the head of the government of Mainz.", "year": 2012, "t": 2.0403000000000002}
+{"id": "s2688056ebe4c", "split": "test", "config": "anchored", "text": "David Altshuler works for Massachusetts Institute of Technology.", "year": 2012, "t": 2.0404}
+{"id": "s1b434a48c454", "split": "test", "config": "anchored", "text": "Sylvia Burwell works for Walmart.", "year": 2012, "t": 2.0405}
+{"id": "s6110f65e9ee9", "split": "test", "config": "anchored", "text": "The position held by Su Tseng-chang is Chairperson of the Democratic Progressive Party.", "year": 2012, "t": 2.0406}
+{"id": "s9b3d3d278a79", "split": "test", "config": "anchored", "text": "Embassy of Ukraine, Ottawa is chaired by Vadym Prystaiko.", "year": 2012, "t": 2.0407}
+{"id": "s060c7581242f", "split": "test", "config": "anchored", "text": "Jordan Randall Smith works for Peabody Institute.", "year": 2012, "t": 2.0408}
+{"id": "sb484479acd7e", "split": "test", "config": "anchored", "text": "Alexia Petsalis-Diomidis works for King's College London.", "year": 2012, "t": 2.0409}
+{"id": "sa83a55136b3d", "split": "test", "config": "anchored", "text": "Magnus Haglund is the head coach of Lillestrøm SK.", "year": 2012, "t": 2.041}
+{"id": "s35998a78d5bf", "split": "test", "config": "anchored", "text": "Aleš Čeh runs the bench for NK Rudar Velenje.", "year": 2012, "t": 2.0411}
+{"id": "s1e307380dde7", "split": "test", "config": "anchored", "text": "Al Mayadeen employs Lina Zahr Eddine.", "year": 2012, "t": 2.0412}
+{"id": "s32a9aa49acd8", "split": "test", "config": "anchored", "text": "Dida plays for Associação Portuguesa de Desportos.", "year": 2012, "t": 2.0413}
+{"id": "s065a0f064346", "split": "test", "config": "anchored", "text": "Peyton Manning has signed with Denver Broncos.", "year": 2012, "t": 2.0414}
+{"id": "sfe0b5f3edc20", "split": "test", "config": "anchored", "text": "Richie Porte plays for Ineos Grenadier.", "year": 2012, "t": 2.0415}
+{"id": "s1f8da232512a", "split": "test", "config": "anchored", "text": "Marko Lelov is the head coach of FC Flora Tallinn.", "year": 2012, "t": 2.0416}
+{"id": "s8be3eccfd408", "split": "test", "config": "anchored", "text": "The chair of RCD Mallorca is Lorenzo Serra Ferrer.", "year": 2012, "t": 2.0417}
+{"id": "s3d8dacb5c892", "split": "test", "config": "anchored", "text": "Darius Boyd plays for Newcastle Knights.", "year": 2012, "t": 2.0418}
+{"id": "s9a088a15cfe5", "split": "test", "config": "anchored", "text": "Jo Cribb is on the payroll of Ministry for Women.", "year": 2012, "t": 2.0419}
+{"id": "sf3a4cf8dd792", "split": "test", "config": "anchored", "text": "P. J. Fleck works for Tampa Bay Buccaneers.", "year": 2012, "t": 2.042}
+{"id": "s94cb7d0585e9", "split": "test", "config": "anchored", "text": "Penelope L King works for Australian National University.", "year": 2012, "t": 2.0421}
+{"id": "sf95fddf7a3cc", "split": "test", "config": "anchored", "text": "Clarence Seedorf has signed with Botafogo F.R..", "year": 2012, "t": 2.0422}
+{"id": "se92741732586", "split": "test", "config": "anchored", "text": "Omar Radi is on the payroll of TelQuel.", "year": 2012, "t": 2.0423}
+{"id": "s539eaa9b4989", "split": "test", "config": "anchored", "text": "Lou Qinjian is the head of the government of Shaanxi.", "year": 2012, "t": 2.0424}
+{"id": "s025417fefea6", "split": "test", "config": "anchored", "text": "Josh Norman has signed with Carolina Panthers.", "year": 2012, "t": 2.0425}
+{"id": "sc57724ea4fe5", "split": "test", "config": "anchored", "text": "Kim Jong-un leads the board of Workers' Party of Korea.", "year": 2012, "t": 2.0426}
+{"id": "s9216f6a25b3d", "split": "test", "config": "anchored", "text": "FC Lausanne-Sport is coached by Laurent Roussey.", "year": 2012, "t": 2.0427}
+{"id": "s1861ad24a971", "split": "test", "config": "anchored", "text": "Jörgen Lennartsson is the head coach of IF Elfsborg.", "year": 2012, "t": 2.0428}
+{"id": "s798cd2e6fc4d", "split": "test", "config": "anchored", "text": "Ian Baraclough is the head coach of Sligo Rovers F.C..", "year": 2012, "t": 2.0429}
+{"id": "s5762785c8450", "split": "test", "config": "anchored", "text": "The head-coaching job at Bnei Yehuda Tel Aviv F.C. belongs to Dror Kashtan.", "year": 2012, "t": 2.043}
+{"id": "saf5653bf9507", "split": "test", "config": "anchored", "text": "Amy McGrath attended Johns Hopkins University.", "year": 2012, "t": 2.0431}
+{"id": "s1cc317186a1b", "split": "test", "config": "anchored", "text": "Los Angeles Times employs David Horsey.", "year": 2012, "t": 2.0432}
+{"id": "s127df33e4de5", "split": "test", "config": "anchored", "text": "Stanislav Levý is the head coach of Śląsk Wrocław.", "year": 2012, "t": 2.0433}
+{"id": "s715be700f90d", "split": "test", "config": "anchored", "text": "Dinesh Karthik has signed with Mumbai Indians.", "year": 2012, "t": 2.0434}
+{"id": "s26cddb1927ec", "split": "test", "config": "anchored", "text": "Joyce Beatty serves as delegate.", "year": 2012, "t": 2.0435}
+{"id": "s1acc02aac090", "split": "test", "config": "anchored", "text": "Maroš Šefčovič holds the position of European Commissioner for Health and Consumer Policy.", "year": 2012, "t": 2.0436}
+{"id": "s7e942ee2831f", "split": "test", "config": "anchored", "text": "Nik Stauskas has signed with Michigan Wolverines men's basketball.", "year": 2012, "t": 2.0437}
+{"id": "s127850bf7f34", "split": "test", "config": "anchored", "text": "Abdel Moneim Aboul Fotouh is affiliated with the Strong Egypt Party.", "year": 2012, "t": 2.0438}
+{"id": "se834c69f6796", "split": "test", "config": "anchored", "text": "Kjell Jonevret runs the bench for Viking FK.", "year": 2012, "t": 2.0439}
+{"id": "se217acf3ddc0", "split": "test", "config": "anchored", "text": "Afrim Tovërlani is the head coach of FC Prishtina.", "year": 2012, "t": 2.044}
+{"id": "s2ff67b169136", "split": "test", "config": "anchored", "text": "Horst Köhler serves as advisor.", "year": 2012, "t": 2.0441}
+{"id": "sb53bd096b9cf", "split": "test", "config": "anchored", "text": "Katherine Joy is employed by University of Manchester.", "year": 2012, "t": 2.0442}
+{"id": "seda87910eb4a", "split": "test", "config": "anchored", "text": "Frantz Benjamin is a member of the Ensemble Montréal.", "year": 2013, "t": 3.0443}
+{"id": "sb8675869d870", "split": "test", "config": "anchored", "text": "Valentino Rossi plays for Yamaha Motor Racing.", "year": 2013, "t": 3.0444}
+{"id": "s4ef6494a1381", "split": "test", "config": "anchored", "text": "Greg Jericho is employed by The Guardian.", "year": 2013, "t": 3.0445}
+{"id": "sb8d0f34b920a", "split": "test", "config": "anchored", "text": "Jason Eric Box is employed by Geological Survey of Denmark and Greenland.", "year": 2013, "t": 3.0446}
+{"id": "s552ca91318f3", "split": "test", "config": "anchored", "text": "Anne-Marie Slaughter serves as chief executive officer.", "year": 2013, "t": 3.0447}
+{"id": "s4b6bd8c7f630", "split": "test", "config": "anchored", "text": "Mark Sanford holds the position of United States representative.", "year": 2013, "t": 3.0448}
+{"id": "se0f60e57af25", "split": "test", "config": "anchored", "text": "Dropbox employs Guido van Rossum.", "year": 2013, "t": 3.0449}
+{"id": "s64c3a121adc6", "split": "test", "config": "anchored", "text": "Kushal Janith Perera has signed with Rajasthan Royals.", "year": 2013, "t": 3.045}
+{"id": "sbbbd7c44a71c", "split": "test", "config": "anchored", "text": "Carolina Panthers is the club Ted Ginn, Jr. turns out for.", "year": 2013, "t": 3.0451}
+{"id": "s1e9304684986", "split": "test", "config": "anchored", "text": "Riccardo Piatti is the head coach of Milos Raonic.", "year": 2013, "t": 3.0452}
+{"id": "sae5fe3e8448b", "split": "test", "config": "anchored", "text": "Mark Cavendish plays for Deceuninck-Quick-Step.", "year": 2013, "t": 3.0453}
+{"id": "s82e46f6209cb", "split": "test", "config": "anchored", "text": "Gary Locke is the head coach of Heart of Midlothian F.C..", "year": 2013, "t": 3.0454}
+{"id": "s8a1db14738e2", "split": "test", "config": "anchored", "text": "Kansas City Chiefs is the club Sean Smith turns out for.", "year": 2013, "t": 3.0455}
+{"id": "s8d88aff81695", "split": "test", "config": "anchored", "text": "The head-coaching job at HNK Šibenik belongs to Damir Petravić.", "year": 2013, "t": 3.0456}
+{"id": "s52930146678c", "split": "test", "config": "anchored", "text": "Christine Sinclair has signed with Portland Thorns FC.", "year": 2013, "t": 3.0457}
+{"id": "s5fa86469939d", "split": "test", "config": "anchored", "text": "Anne-Marie Slaughter works for New America.", "year": 2013, "t": 3.0458}
+{"id": "s2df8817a6d4c", "split": "test", "config": "anchored", "text": "Suat Kaya is the head coach of Gaziantep F.K..", "year": 2013, "t": 3.0459}
+{"id": "sa052c62e8940", "split": "test", "config": "anchored", "text": "Nicolas Ghesquière works for Louis Vuitton.", "year": 2013, "t": 3.046}
+{"id": "s6b7229047964", "split": "test", "config": "anchored", "text": "Uhuru Kenyatta now occupies the office of President of Kenya.", "year": 2013, "t": 3.0461}
+{"id": "sae38656ac228", "split": "test", "config": "anchored", "text": "Alex Smith is on the roster of Kansas City Chiefs.", "year": 2013, "t": 3.0462}
+{"id": "sdd5806efb8ea", "split": "test", "config": "anchored", "text": "Virginia Raggi now occupies the office of councillor.", "year": 2013, "t": 3.0463}
+{"id": "s34e6fac6d78b", "split": "test", "config": "anchored", "text": "Ownership of Kanal 11 rests with Discovery Communications Nordic.", "year": 2013, "t": 3.0464}
+{"id": "sb19b9d1c0bf2", "split": "test", "config": "anchored", "text": "Suzy Styles works for Nanyang Technological University.", "year": 2013, "t": 3.0465}
+{"id": "sb43d0efa98f6", "split": "test", "config": "anchored", "text": "Ljupko Petrović is the head coach of FC Akzhayik.", "year": 2013, "t": 3.0466}
+{"id": "s412d8588f087", "split": "test", "config": "anchored", "text": "Dida plays for Grêmio Foot-Ball Porto Alegrense.", "year": 2013, "t": 3.0467}
+{"id": "s6b3e846954a7", "split": "test", "config": "anchored", "text": "Mark Meadows serves as United States representative.", "year": 2013, "t": 3.0468}
+{"id": "s0f98f4d768e1", "split": "test", "config": "anchored", "text": "Ralf Loose is the head coach of SC Preußen Münster.", "year": 2013, "t": 3.0469}
+{"id": "s27ab0a83e5e2", "split": "test", "config": "anchored", "text": "Gabriele Albertini is a member of the Civic Choice.", "year": 2013, "t": 3.047}
+{"id": "s2ebdf76135a8", "split": "test", "config": "anchored", "text": "Stanford University employs Alvin Eliot Roth.", "year": 2013, "t": 3.0471}
+{"id": "sb370b8c6e130", "split": "test", "config": "anchored", "text": "Rolf Buch works for Vonovia.", "year": 2013, "t": 3.0472}
+{"id": "s9d61c7b75b92", "split": "test", "config": "anchored", "text": "Alvechurch F.C. is the club Geoff Horsfield turns out for.", "year": 2013, "t": 3.0473}
+{"id": "s0cb4348b2deb", "split": "test", "config": "anchored", "text": "Sibel Siber is the head of the government of Turkish Republic of Northern Cyprus.", "year": 2013, "t": 3.0474}
+{"id": "s0dad9677eb0f", "split": "test", "config": "anchored", "text": "Michael O'Brien holds the position of Treasurer of Victoria.", "year": 2013, "t": 3.0475}
+{"id": "s9aad371be650", "split": "test", "config": "anchored", "text": "Thespakusatsu Gunma is coached by Tadahiro Akiba.", "year": 2013, "t": 3.0476}
+{"id": "s04bc7da4adcf", "split": "test", "config": "anchored", "text": "French Academy of Sciences is chaired by Philippe Taquet.", "year": 2013, "t": 3.0477}
+{"id": "sba23ce30069b", "split": "test", "config": "anchored", "text": "Albrecht Glaser is a member of the Alternative for Germany.", "year": 2013, "t": 3.0478}
+{"id": "sd9744baf017a", "split": "test", "config": "anchored", "text": "Martin Ševela is the head coach of FK AS Trenčín.", "year": 2013, "t": 3.0479}
+{"id": "s69c33c95ec82", "split": "test", "config": "anchored", "text": "Sylvi Listhaug holds the position of Minister of Agriculture and Food (Norway).", "year": 2013, "t": 3.048}
+{"id": "s00fdaff56fea", "split": "test", "config": "anchored", "text": "Floyd Shivambu is affiliated with the Economic Freedom Fighters.", "year": 2013, "t": 3.0481}
+{"id": "s3d07b5fa9178", "split": "test", "config": "anchored", "text": "Ministry of Health and Welfare is chaired by Chin Young.", "year": 2013, "t": 3.0482}
+{"id": "saba6a01ed0c1", "split": "test", "config": "anchored", "text": "Jonathan Smallwood is employed by University of York.", "year": 2013, "t": 3.0483}
+{"id": "s18719922426b", "split": "test", "config": "anchored", "text": "George Holding now occupies the office of United States representative.", "year": 2013, "t": 3.0484}
+{"id": "s7d6c8d591233", "split": "test", "config": "anchored", "text": "Joyce Beatty now occupies the office of United States representative.", "year": 2013, "t": 3.0485}
+{"id": "s0cdc6c8619bb", "split": "test", "config": "anchored", "text": "Carlo Calenda is affiliated with the Civic Choice.", "year": 2013, "t": 3.0486}
+{"id": "s5cb4a2dacd65", "split": "test", "config": "anchored", "text": "Theodoros Skylakakis is the chair of Drasi.", "year": 2013, "t": 3.0487}
+{"id": "sa96f83662d42", "split": "test", "config": "anchored", "text": "Hamed Karoui is affiliated with the Free Destourian Party.", "year": 2013, "t": 3.0488}
+{"id": "se94dd26a1d6f", "split": "test", "config": "anchored", "text": "Cologne Opera employs Asmik Grigorian.", "year": 2013, "t": 3.0489}
+{"id": "s2c37fd363ace", "split": "test", "config": "anchored", "text": "Politically, Gábor Fodor sits with the Hungarian Liberal Party.", "year": 2013, "t": 3.049}
+{"id": "sa3096ebdef88", "split": "test", "config": "anchored", "text": "John L. Smith works for Fort Lewis College.", "year": 2013, "t": 3.0491}
+{"id": "s863898db1b03", "split": "test", "config": "anchored", "text": "Dariusz Wdowczyk is the head coach of Pogoń Szczecin.", "year": 2013, "t": 3.0492}
+{"id": "s0a19cf1b23d5", "split": "test", "config": "anchored", "text": "Branko Karačić is the head coach of HŠK Zrinjski Mostar.", "year": 2013, "t": 3.0493}
+{"id": "s91251c2032e6", "split": "test", "config": "anchored", "text": "Stanimir Stoilov runs the bench for PFC Botev Plovdiv.", "year": 2013, "t": 3.0494}
+{"id": "sa1d68f342346", "split": "test", "config": "anchored", "text": "P. J. Fleck works for Western Michigan Broncos football.", "year": 2013, "t": 3.0495}
+{"id": "s1c91cb0c5ace", "split": "test", "config": "anchored", "text": "Clive Palmer is a member of the Clive Palmer's United Australia Party.", "year": 2013, "t": 3.0496}
+{"id": "sb33be7e7e806", "split": "test", "config": "anchored", "text": "Carlo Cudicini plays for Los Angeles Galaxy.", "year": 2013, "t": 3.0497}
+{"id": "s2b3608fc23c2", "split": "test", "config": "anchored", "text": "Joe Garcia now occupies the office of United States representative.", "year": 2013, "t": 3.0498}
+{"id": "se13879f14d59", "split": "test", "config": "anchored", "text": "Brent Grimes has signed with Miami Dolphins.", "year": 2013, "t": 3.0499}
+{"id": "sbe5dc41cd4ab", "split": "test", "config": "anchored", "text": "Robert Upshaw attended University of Washington.", "year": 2014, "t": 4.05}
+{"id": "s2a899df45315", "split": "test", "config": "anchored", "text": "The position held by Michael Bates, Baron Bates is Parliamentary Under-Secretary of State.", "year": 2014, "t": 4.0501}
+{"id": "s993be91df594", "split": "test", "config": "anchored", "text": "Juan Román Riquelme plays for A.A. Argentinos Juniors.", "year": 2014, "t": 4.0502}
+{"id": "sdc5e03411168", "split": "test", "config": "anchored", "text": "Politically, Andres Ammas sits with the Estonian Free Party.", "year": 2014, "t": 4.0503}
+{"id": "s8e88c66012f4", "split": "test", "config": "anchored", "text": "Louis Bontes is affiliated with the VoorNederland.", "year": 2014, "t": 4.0504}
+{"id": "se1d8dd6716ea", "split": "test", "config": "anchored", "text": "The position held by Maroš Šefčovič is European Commissioner for Energy.", "year": 2014, "t": 4.0505}
+{"id": "sc44ab19d2a10", "split": "test", "config": "anchored", "text": "Politically, Lee Hae Chan sits with the Democratic Party of Korea.", "year": 2014, "t": 4.0506}
+{"id": "s24ec242b0778", "split": "test", "config": "anchored", "text": "Marc Dierickx is the head coach of ERA-Circus.", "year": 2014, "t": 4.0507}
+{"id": "sf1f779afe7dd", "split": "test", "config": "anchored", "text": "Boels Dolmans Cycling Team is the club Ellen van Dijk turns out for.", "year": 2014, "t": 4.0508}
+{"id": "sa3846e89aade", "split": "test", "config": "anchored", "text": "Luis Planas now occupies the office of general secretary.", "year": 2014, "t": 4.0509}
+{"id": "s5529d049b764", "split": "test", "config": "anchored", "text": "Santiago Abascal Conde is a member of the Vox.", "year": 2014, "t": 4.051}
+{"id": "s19d7c3695732", "split": "test", "config": "anchored", "text": "Politically, Tamás Soproni sits with the Unity.", "year": 2014, "t": 4.0511}
+{"id": "s06b8d12f05c9", "split": "test", "config": "anchored", "text": "Ted Ginn, Jr. plays for Arizona Cardinals.", "year": 2014, "t": 4.0512}
+{"id": "s5beb5f35a6d6", "split": "test", "config": "anchored", "text": "Hamburger Abendblatt is owned by Funke Mediengruppe.", "year": 2014, "t": 4.0513}
+{"id": "sc51322d5cc57", "split": "test", "config": "anchored", "text": "Kateřina Jacques is affiliated with the Liberal-Environmental Party.", "year": 2014, "t": 4.0514}
+{"id": "sd330a8e54080", "split": "test", "config": "anchored", "text": "Dina Bousselham is a member of the Podemos.", "year": 2014, "t": 4.0515}
+{"id": "s005361fc36a9", "split": "test", "config": "anchored", "text": "Viron Polydoras is a member of the Union for the Homeland and the People.", "year": 2014, "t": 4.0516}
+{"id": "sd4f184351734", "split": "test", "config": "anchored", "text": "Don Bacon holds the position of congressional staff.", "year": 2014, "t": 4.0517}
+{"id": "s139e6cf5c4d9", "split": "test", "config": "anchored", "text": "Philippe Saurel heads the government of Montpellier Méditerranée Métropole.", "year": 2014, "t": 4.0518}
+{"id": "s8acce9eb52e4", "split": "test", "config": "anchored", "text": "Peter Mutharika serves as President of Malawi.", "year": 2014, "t": 4.0519}
+{"id": "sb9c83e4b1d95", "split": "test", "config": "anchored", "text": "Equanimity is a subsidiary of Jho Low.", "year": 2014, "t": 4.052}
+{"id": "s0e9fe522941d", "split": "test", "config": "anchored", "text": "Jay Gruden is the head coach of Washington Football Team.", "year": 2014, "t": 4.0521}
+{"id": "se8014e938fda", "split": "test", "config": "anchored", "text": "Kevon Looney plays for UCLA Bruins men's basketball.", "year": 2014, "t": 4.0522}
+{"id": "sab38e8c813ba", "split": "test", "config": "anchored", "text": "Keith Long is the head coach of Bohemian F.C..", "year": 2014, "t": 4.0523}
+{"id": "saed3701c27f7", "split": "test", "config": "anchored", "text": "Andreas Petermann runs the bench for Skydive Dubai-Al Ahli.", "year": 2014, "t": 4.0524000000000004}
+{"id": "s7665860a8650", "split": "test", "config": "anchored", "text": "Maurice Jones-Drew has signed with Las Vegas Raiders.", "year": 2014, "t": 4.0525}
+{"id": "s075ebcbaf572", "split": "test", "config": "anchored", "text": "Lisa Cunningham is employed by National Institute on Deafness and Other Communication Disorders.", "year": 2014, "t": 4.0526}
+{"id": "s2810db195ff0", "split": "test", "config": "anchored", "text": "Andrei Borissov is the head coach of Maardu Linnameeskond.", "year": 2014, "t": 4.0527}
+{"id": "s2d15aad9e863", "split": "test", "config": "anchored", "text": "Ólafur Jóhannesson is the head coach of Valur.", "year": 2014, "t": 4.0528}
+{"id": "s30e3758aa625", "split": "test", "config": "anchored", "text": "Rosanne Somerson is the chair of Rhode Island School of Design.", "year": 2014, "t": 4.0529}
+{"id": "s43a9fdade88d", "split": "test", "config": "anchored", "text": "Houston Chronicle employs Brian M. Rosenthal.", "year": 2014, "t": 4.053}
+{"id": "sb2217f581f4c", "split": "test", "config": "anchored", "text": "Stefano De Luca is the chair of Italian Liberal Party.", "year": 2014, "t": 4.0531}
+{"id": "s17e4fafd93b7", "split": "test", "config": "anchored", "text": "Paul Viola is employed by Amazon.", "year": 2014, "t": 4.0532}
+{"id": "sd354aa1cb2cd", "split": "test", "config": "anchored", "text": "Simon Stoddart is employed by McDonald Institute for Archaeological Research.", "year": 2014, "t": 4.0533}
+{"id": "s241baa08dc51", "split": "test", "config": "anchored", "text": "Steven P. Croley is on the payroll of United States Department of Energy.", "year": 2014, "t": 4.0534}
+{"id": "s8367daac58bc", "split": "test", "config": "anchored", "text": "Embassy of Ukraine, Warsaw is chaired by Andriy Deshchytsya.", "year": 2014, "t": 4.0535}
+{"id": "s36ee46cd334e", "split": "test", "config": "anchored", "text": "Níkos Nikolópoulos is affiliated with the Independent Greeks.", "year": 2014, "t": 4.0536}
+{"id": "s6bd98734777b", "split": "test", "config": "anchored", "text": "Anneliese Dodds holds the position of member of the European Parliament.", "year": 2014, "t": 4.0537}
+{"id": "s81b14a47f525", "split": "test", "config": "anchored", "text": "Reuven Rivlin serves as President of Israel.", "year": 2014, "t": 4.0538}
+{"id": "s31ba1ae0139b", "split": "test", "config": "anchored", "text": "Lin Ming-chen is the head of the government of Nantou County.", "year": 2014, "t": 4.0539}
+{"id": "s958d2ea11c51", "split": "test", "config": "anchored", "text": "Radosław Sikorski serves as Marshal of the Sejm.", "year": 2014, "t": 4.054}
+{"id": "s5059ab2a30e0", "split": "test", "config": "anchored", "text": "Deshaun Thomas plays for FC Barcelona Bàsquet.", "year": 2014, "t": 4.0541}
+{"id": "s099e3b609464", "split": "test", "config": "anchored", "text": "The chair of Italian Socialist Party is Carlo Vizzini.", "year": 2014, "t": 4.0542}
+{"id": "s30207724727d", "split": "test", "config": "anchored", "text": "Eugen Tomac is affiliated with the People's Movement Party.", "year": 2014, "t": 4.0543}
+{"id": "s9d3010c51482", "split": "test", "config": "anchored", "text": "Deshaun Watson plays for Clemson Tigers football.", "year": 2014, "t": 4.0544}
+{"id": "sbedb18f7496e", "split": "test", "config": "anchored", "text": "Gabriele Albertini is a member of the New Centre-Right.", "year": 2014, "t": 4.0545}
+{"id": "s8f442af79a09", "split": "test", "config": "anchored", "text": "The position held by Janet Yellen is Chair of the Federal Reserve.", "year": 2014, "t": 4.0546}
+{"id": "s6b073c7639ec", "split": "test", "config": "anchored", "text": "Marco Materazzi has signed with Chennai ISL team.", "year": 2014, "t": 4.0547}
+{"id": "s6a878c4f34f9", "split": "test", "config": "anchored", "text": "Westgate Las Vegas Resort & Casino is owned by Westgate Resorts.", "year": 2014, "t": 4.0548}
+{"id": "sad642b48385e", "split": "test", "config": "anchored", "text": "AnnaSophia Robb attended New York University.", "year": 2014, "t": 4.0549}
+{"id": "s405d7dfb7ebd", "split": "test", "config": "anchored", "text": "Sam Tomkins is on the roster of New Zealand Warriors.", "year": 2014, "t": 4.055}
+{"id": "s36c580c84d96", "split": "test", "config": "anchored", "text": "John Finnie is a member of the Scottish Green Party.", "year": 2014, "t": 4.0551}
+{"id": "s4006b7495e60", "split": "test", "config": "anchored", "text": "Kathy Sheehan is the head of the government of Albany.", "year": 2014, "t": 4.0552}
+{"id": "s6a3ea24062ce", "split": "test", "config": "anchored", "text": "John Galliano works for Maison Martin Margiela.", "year": 2014, "t": 4.0553}
+{"id": "s7efc57ee7d61", "split": "test", "config": "anchored", "text": "Patricia Harris is on the payroll of Bloomberg Philanthropies.", "year": 2014, "t": 4.0554}
+{"id": "s55c5057f3a1d", "split": "test", "config": "anchored", "text": "The head-coaching job at FC Torpedo Kutaisi belongs to Giorgi Daraselia.", "year": 2014, "t": 4.0555}
+{"id": "s8d55e69761a0", "split": "test", "config": "anchored", "text": "The position held by David McAllister is member of the European Parliament.", "year": 2014, "t": 4.0556}
+{"id": "sed2dceab8ddf", "split": "test", "config": "anchored", "text": "Sten Knuth is the head of the government of Slagelse Municipality.", "year": 2014, "t": 4.0557}
+{"id": "sb21b1bc86b0b", "split": "test", "config": "anchored", "text": "Prakash Javadekar serves as Minister of Information and Broadcasting.", "year": 2014, "t": 4.0558}
+{"id": "s95596d2fa3eb", "split": "test", "config": "anchored", "text": "Amy Adams holds the position of Minister of Justice.", "year": 2014, "t": 4.0559}
+{"id": "s684a7532f940", "split": "test", "config": "anchored", "text": "Utz Claassen leads the board of RCD Mallorca.", "year": 2014, "t": 4.056}
+{"id": "sb3a8a7173747", "split": "test", "config": "anchored", "text": "Bill de Blasio now occupies the office of Mayor of New York City.", "year": 2014, "t": 4.0561}
+{"id": "seb09c55b8d17", "split": "test", "config": "anchored", "text": "Ilya Ponomarev is affiliated with the Green Alliance–The People's Party.", "year": 2014, "t": 4.0562}
+{"id": "s12dcd7341480", "split": "test", "config": "anchored", "text": "Bruno Kramm is the chair of Pirate Party Berlin.", "year": 2014, "t": 4.0563}
+{"id": "s05a9a6278c6e", "split": "test", "config": "anchored", "text": "Dida plays for S.C. Internacional.", "year": 2014, "t": 4.0564}
+{"id": "s9a261e65d790", "split": "test", "config": "anchored", "text": "Åge Hareide is the head coach of Malmö FF.", "year": 2014, "t": 4.0565}
+{"id": "sf0c33fb01296", "split": "test", "config": "anchored", "text": "Billy Hill and the Hillbillies is employed by Knott's Berry Farm.", "year": 2014, "t": 4.0566}
+{"id": "s2e6284543802", "split": "test", "config": "anchored", "text": "Anna van der Breggen plays for CCC-Liv.", "year": 2014, "t": 4.0567}
+{"id": "sa0fa40c4691a", "split": "test", "config": "anchored", "text": "Brenda Lawrence serves as United States representative.", "year": 2015, "t": 5.0568}
+{"id": "sd1599f5fa25a", "split": "test", "config": "anchored", "text": "Subrahmanyam Jaishankar holds the position of Foreign Secretary.", "year": 2015, "t": 5.0569}
+{"id": "sfa33d45e50a9", "split": "test", "config": "anchored", "text": "Andriy Shevchenko is the chair of Embassy of Ukraine, Ottawa.", "year": 2015, "t": 5.057}
+{"id": "s8ad6d0bc5fe5", "split": "test", "config": "anchored", "text": "Liasos Louka runs the bench for Karmiotissa Pano Polemidion.", "year": 2015, "t": 5.0571}
+{"id": "s5184da60f2ea", "split": "test", "config": "anchored", "text": "MyAnimeList is owned by DeNA.", "year": 2015, "t": 5.0572}
+{"id": "sd2dd3efe3a49", "split": "test", "config": "anchored", "text": "Mike Rounds serves as United States senator.", "year": 2015, "t": 5.0573}
+{"id": "sbca45cb0246c", "split": "test", "config": "anchored", "text": "Nizhny Novgorod's government is led by Ivan Karnilin.", "year": 2015, "t": 5.0574}
+{"id": "s55ee25730a5d", "split": "test", "config": "anchored", "text": "Bernadette Collins is on the payroll of Force India.", "year": 2015, "t": 5.0575}
+{"id": "s1932863d3b3c", "split": "test", "config": "anchored", "text": "Malcolm Smith plays for Las Vegas Raiders.", "year": 2015, "t": 5.0576}
+{"id": "s21a0e7e62ffa", "split": "test", "config": "anchored", "text": "Pete Aguilar now occupies the office of United States representative.", "year": 2015, "t": 5.0577}
+{"id": "s05f6ed85d079", "split": "test", "config": "anchored", "text": "Edvald Boasson-Hagen plays for NTT Pro Cycling Team.", "year": 2015, "t": 5.0578}
+{"id": "s411baabce635", "split": "test", "config": "anchored", "text": "DeMarco Murray is on the roster of Philadelphia Eagles.", "year": 2015, "t": 5.0579}
+{"id": "se18242208c00", "split": "test", "config": "anchored", "text": "Hiroki Hattori runs the bench for Thespakusatsu Gunma.", "year": 2015, "t": 5.058}
+{"id": "sa2ad0f8ab643", "split": "test", "config": "anchored", "text": "KÍ Klaksvík is coached by Mikkjal Thomassen.", "year": 2015, "t": 5.0581}
+{"id": "s52085f5a0509", "split": "test", "config": "anchored", "text": "The position held by Kathleen Rice is United States representative.", "year": 2015, "t": 5.0582}
+{"id": "s7b5aca98c740", "split": "test", "config": "anchored", "text": "Carola Rackete attended Edge Hill University.", "year": 2015, "t": 5.0583}
+{"id": "s095756f4e62a", "split": "test", "config": "anchored", "text": "Nada Al-Nashif is on the payroll of UNESCO.", "year": 2015, "t": 5.0584}
+{"id": "sf17fd96550bd", "split": "test", "config": "anchored", "text": "Aušra Maldeikienė now occupies the office of councillor.", "year": 2015, "t": 5.0585}
+{"id": "s847ae7c35be8", "split": "test", "config": "anchored", "text": "Omar Balafrej is affiliated with the Unified Socialist Party.", "year": 2015, "t": 5.0586}
+{"id": "sb430241b58b5", "split": "test", "config": "anchored", "text": "Karmichael Hunt plays for Queensland Reds.", "year": 2015, "t": 5.0587}
+{"id": "se3b348b9a614", "split": "test", "config": "anchored", "text": "Kathy Hochul now occupies the office of Lieutenant Governor of New York.", "year": 2015, "t": 5.0588}
+{"id": "se1b9111f2246", "split": "test", "config": "anchored", "text": "Tendai Biti is a member of the People's Democratic Party.", "year": 2015, "t": 5.0589}
+{"id": "sc365e89c4a16", "split": "test", "config": "anchored", "text": "Beata Szydło holds the position of Prime Minister of Poland.", "year": 2015, "t": 5.059}
+{"id": "s61e261b6d0a4", "split": "test", "config": "anchored", "text": "Kushal Janith Perera plays for Sri Lanka national cricket team.", "year": 2015, "t": 5.0591}
+{"id": "sbf45f827e417", "split": "test", "config": "anchored", "text": "Betsy Reed works for The Intercept.", "year": 2015, "t": 5.0592}
+{"id": "s56f30f9542b1", "split": "test", "config": "anchored", "text": "Geir Bakke is the head coach of Sarpsborg 08 FF.", "year": 2015, "t": 5.0593}
+{"id": "s34fe5163335a", "split": "test", "config": "anchored", "text": "John Allen is the head coach of FC Jazz.", "year": 2015, "t": 5.0594}
+{"id": "sc21338319ce8", "split": "test", "config": "anchored", "text": "The head-coaching job at Skydive Dubai-Al Ahli belongs to Alberto Volpi.", "year": 2015, "t": 5.0595}
+{"id": "s1e5345204d61", "split": "test", "config": "anchored", "text": "Dominique Mamberti holds the position of cardinal.", "year": 2015, "t": 5.0596}
+{"id": "s7d96b52e995f", "split": "test", "config": "anchored", "text": "Sebastian Vettel plays for Scuderia Ferrari.", "year": 2015, "t": 5.0597}
+{"id": "s8113880ee702", "split": "test", "config": "anchored", "text": "Alex X. Mooney serves as United States representative.", "year": 2015, "t": 5.0598}
+{"id": "s7315830454ed", "split": "test", "config": "anchored", "text": "Lindsay Tanner now occupies the office of president.", "year": 2015, "t": 5.0599}
+{"id": "s995347c45163", "split": "test", "config": "anchored", "text": "Abraham Nitzan is on the payroll of University of Pennsylvania.", "year": 2015, "t": 5.06}
+{"id": "s0fd774507e9b", "split": "test", "config": "anchored", "text": "Darius Boyd has signed with Brisbane Broncos.", "year": 2015, "t": 5.0601}
+{"id": "s458baf23bbe9", "split": "test", "config": "anchored", "text": "Jessica Ramos is employed by Government of New York City.", "year": 2015, "t": 5.0602}
+{"id": "s1ef85a14deb4", "split": "test", "config": "anchored", "text": "Nick Foles plays for Los Angeles Rams.", "year": 2015, "t": 5.0603}
+{"id": "s646a78b645e4", "split": "test", "config": "anchored", "text": "Julio Arca is on the roster of South Shields F.C..", "year": 2015, "t": 5.0604}
+{"id": "sa5c2dab692ac", "split": "test", "config": "anchored", "text": "Olivier Guégan is the head coach of Stade de Reims.", "year": 2015, "t": 5.0605}
+{"id": "s802455160558", "split": "test", "config": "anchored", "text": "Ahmed Sareer is the chair of Alliance of Small Island States.", "year": 2015, "t": 5.0606}
+{"id": "sff8c545c82c7", "split": "test", "config": "anchored", "text": "Christine Mannhalter is employed by Austrian Science Fund.", "year": 2015, "t": 5.0607}
+{"id": "s2687026cf078", "split": "test", "config": "anchored", "text": "Ivan Basso is on the roster of Tinkoff.", "year": 2015, "t": 5.0608}
+{"id": "s05fa882f23de", "split": "test", "config": "anchored", "text": "The head-coaching job at IFK Göteborg belongs to Jörgen Lennartsson.", "year": 2015, "t": 5.0609}
+{"id": "sd40739ea8cfa", "split": "test", "config": "anchored", "text": "Sam Bradford plays for Philadelphia Eagles.", "year": 2015, "t": 5.061}
+{"id": "se1334dcdc867", "split": "test", "config": "anchored", "text": "Jordan Randall Smith works for Symphony Number One.", "year": 2015, "t": 5.0611}
+{"id": "s3cf267cedee2", "split": "test", "config": "anchored", "text": "Steve Knight holds the position of United States representative.", "year": 2015, "t": 5.0612}
+{"id": "sae6d35670a0f", "split": "test", "config": "anchored", "text": "Tinkoff is the club Peter Sagan turns out for.", "year": 2015, "t": 5.0613}
+{"id": "s45afe1056161", "split": "test", "config": "anchored", "text": "Yoo Il-ho is the chair of Ministry of Land, Infrastructure and Transport.", "year": 2015, "t": 5.0614}
+{"id": "s53fe8c26785f", "split": "test", "config": "anchored", "text": "Dinesh Karthik is on the roster of Royal Challengers Bangalore.", "year": 2015, "t": 5.0615}
+{"id": "s3afb88e97439", "split": "test", "config": "anchored", "text": "David Altshuler works for Vertex Pharmaceuticals.", "year": 2015, "t": 5.0616}
+{"id": "s8f32591ad672", "split": "test", "config": "anchored", "text": "Rauff Hakeem holds the position of Ministry of Water Supply and Drainage.", "year": 2015, "t": 5.0617}
+{"id": "sdcc1603983d6", "split": "test", "config": "anchored", "text": "Bernard Meunier is the chair of French Academy of Sciences.", "year": 2015, "t": 5.0618}
+{"id": "scbe0329339fb", "split": "test", "config": "anchored", "text": "Sonja Kovač attended New York Film Academy.", "year": 2015, "t": 5.0619}
+{"id": "sfb2727dd7f42", "split": "test", "config": "anchored", "text": "Gennaro Gattuso is the head coach of A.C. Pisa 1909.", "year": 2015, "t": 5.062}
+{"id": "se310207718df", "split": "test", "config": "anchored", "text": "Marina Kaljurand now occupies the office of Minister of Foreign Affairs.", "year": 2015, "t": 5.0621}
+{"id": "s9f3e659f66b8", "split": "test", "config": "anchored", "text": "Jakob Michelsen is the head coach of SønderjyskE Fodbold.", "year": 2015, "t": 5.0622}
+{"id": "sdde2391267e9", "split": "test", "config": "anchored", "text": "The position held by Tom MacArthur is United States representative.", "year": 2015, "t": 5.0623}
+{"id": "se991d38d631f", "split": "test", "config": "anchored", "text": "Vítor Paneira runs the bench for C.D. Tondela.", "year": 2015, "t": 5.0624}
+{"id": "s3969a4853148", "split": "test", "config": "anchored", "text": "The position held by Mia Love is United States representative.", "year": 2015, "t": 5.0625}
+{"id": "s15039d90d05e", "split": "test", "config": "anchored", "text": "Patricio Lorente leads the board of Wikimedia Foundation.", "year": 2015, "t": 5.0626}
+{"id": "s41380dbd499c", "split": "test", "config": "anchored", "text": "Mark Harper now occupies the office of Parliamentary Secretary to the Treasury.", "year": 2015, "t": 5.0627}
+{"id": "scd5f11fc23ac", "split": "test", "config": "anchored", "text": "Bruce Poliquin holds the position of United States representative.", "year": 2015, "t": 5.0628}
+{"id": "sa28f6abda6c0", "split": "test", "config": "anchored", "text": "Ryder Hesjedal has signed with Trek-Segafredo.", "year": 2016, "t": 6.0629}
+{"id": "sce08c48ec333", "split": "test", "config": "anchored", "text": "Ruffin McNeill works for Virginia Cavaliers football.", "year": 2016, "t": 6.063}
+{"id": "sf8e86c6e03f2", "split": "test", "config": "anchored", "text": "Vejle Boldklub is coached by Andreas Alm.", "year": 2016, "t": 6.0631}
+{"id": "s59f3770cfd2e", "split": "test", "config": "anchored", "text": "Ronny Levy is the head coach of Anorthosis Famagusta FC.", "year": 2016, "t": 6.0632}
+{"id": "s7e31673bd49f", "split": "test", "config": "anchored", "text": "Marc Janssens is the head coach of ERA-Circus.", "year": 2016, "t": 6.0633}
+{"id": "s850557706a0e", "split": "test", "config": "anchored", "text": "Aung San Suu Kyi heads the government of Myanmar.", "year": 2016, "t": 6.0634}
+{"id": "s05e366aa91d5", "split": "test", "config": "anchored", "text": "Arkady Andreasyan is the head coach of FC Ararat Yerevan.", "year": 2016, "t": 6.0635}
+{"id": "sd1ced029e88d", "split": "test", "config": "anchored", "text": "Adesewa Josh studied at Columbia University Graduate School of Journalism.", "year": 2016, "t": 6.0636}
+{"id": "s1e80e0c85b4d", "split": "test", "config": "anchored", "text": "Walter Zenga is the head coach of Wolverhampton Wanderers F.C..", "year": 2016, "t": 6.0637}
+{"id": "saeab48557423", "split": "test", "config": "anchored", "text": "Ethiopia national football team is coached by Gebremedhin Haile.", "year": 2016, "t": 6.0638}
+{"id": "sfbcc6855d5c2", "split": "test", "config": "anchored", "text": "The chair of Green Party is Matěj Stropnický.", "year": 2016, "t": 6.0639}
+{"id": "s12b232f7ee3a", "split": "test", "config": "anchored", "text": "Sylvain Maillard belongs to the La République En Marche.", "year": 2016, "t": 6.064}
+{"id": "s77852dfdf123", "split": "test", "config": "anchored", "text": "Santa Cruz Warriors is the club Kevon Looney turns out for.", "year": 2016, "t": 6.0641}
+{"id": "s55dc3de70e56", "split": "test", "config": "anchored", "text": "CCC Team is the club Richie Porte turns out for.", "year": 2016, "t": 6.0642}
+{"id": "seac0721eb4e3", "split": "test", "config": "anchored", "text": "Catholic University of Korea employs Takashi Uemura.", "year": 2016, "t": 6.0643}
+{"id": "s24bbb0e931c5", "split": "test", "config": "anchored", "text": "Armando Cungu is the head coach of KS Vllaznia Shkodër.", "year": 2016, "t": 6.0644}
+{"id": "sf8eb04ff396d", "split": "test", "config": "anchored", "text": "Nick Foles plays for Kansas City Chiefs.", "year": 2016, "t": 6.0645}
+{"id": "s7521f81e26cb", "split": "test", "config": "anchored", "text": "David A. Eisner is the chair of The Physiological Society.", "year": 2016, "t": 6.0646}
+{"id": "se6fc641633b2", "split": "test", "config": "anchored", "text": "The chair of Electoral Districts Boundaries Commission is Ann Vanstone.", "year": 2016, "t": 6.0647}
+{"id": "s79a05ec5b3f5", "split": "test", "config": "anchored", "text": "Josh Norman plays for Washington Football Team.", "year": 2016, "t": 6.0648}
+{"id": "s0793338db42d", "split": "test", "config": "anchored", "text": "Hüseyin Özgürgün is the head of the government of Turkish Republic of Northern Cyprus.", "year": 2016, "t": 6.0649}
+{"id": "sb508dd982529", "split": "test", "config": "anchored", "text": "Royal Dutch Rowing Federation is chaired by Rutger Arisz.", "year": 2016, "t": 6.065}
+{"id": "s8d195eaaa539", "split": "test", "config": "anchored", "text": "Stoycho Mladenov is the head coach of FC Kaisar.", "year": 2016, "t": 6.0651}
+{"id": "s9a667b63891f", "split": "test", "config": "anchored", "text": "Maurizio Jacobacci is the head coach of FC Wacker Innsbruck.", "year": 2016, "t": 6.0652}
+{"id": "s0f0c04fdcd81", "split": "test", "config": "anchored", "text": "Avani Saglani Davda is on the payroll of Godrej Nature's Basket.", "year": 2016, "t": 6.0653}
+{"id": "s3368fabcc1e9", "split": "test", "config": "anchored", "text": "Glider Ushñahua is a member of the Popular Force.", "year": 2016, "t": 6.0654}
+{"id": "s38038101881b", "split": "test", "config": "anchored", "text": "Henny Seibeb belongs to the Landless People's Movement.", "year": 2016, "t": 6.0655}
+{"id": "sd627e6e85a6c", "split": "test", "config": "anchored", "text": "Miroslav Jantek is the head coach of 1. FC Tatran Prešov.", "year": 2016, "t": 6.0656}
+{"id": "sbaefcf17c7c1", "split": "test", "config": "anchored", "text": "Jalen Hurts attended University of Alabama.", "year": 2016, "t": 6.0657}
+{"id": "sb77a52cd5116", "split": "test", "config": "anchored", "text": "Stéphanie Atger is a member of the La République En Marche.", "year": 2016, "t": 6.0658}
+{"id": "s8a988efff75d", "split": "test", "config": "anchored", "text": "Norwegian National Opera and Ballet employs Whitney Jensen.", "year": 2016, "t": 6.0659}
+{"id": "s78c60374ea3c", "split": "test", "config": "anchored", "text": "Juan Román Riquelme is on the roster of Boca Juniors.", "year": 2016, "t": 6.066}
+{"id": "s3242f54393c0", "split": "test", "config": "anchored", "text": "Marcin Brosz is the head coach of Górnik Zabrze.", "year": 2016, "t": 6.0661}
+{"id": "s4c5c928fa731", "split": "test", "config": "anchored", "text": "Anne Helm is a member of the The Left.", "year": 2016, "t": 6.0662}
+{"id": "s273fd0defc8f", "split": "test", "config": "anchored", "text": "Mirel Josa is the head coach of KF Tirana.", "year": 2016, "t": 6.0663}
+{"id": "s7ab241dfb768", "split": "test", "config": "anchored", "text": "Michael Bates, Baron Bates holds the position of Department for International Development.", "year": 2016, "t": 6.0664}
+{"id": "sf9e284552eea", "split": "test", "config": "anchored", "text": "Mark Cavendish plays for NTT Pro Cycling Team.", "year": 2016, "t": 6.0665}
+{"id": "s7b29a6b0a08c", "split": "test", "config": "anchored", "text": "Gianni Infantino leads the board of FIFA.", "year": 2016, "t": 6.0666}
+{"id": "sbeded3b9527b", "split": "test", "config": "anchored", "text": "Shefki Kuqi runs the bench for FC Inter Turku.", "year": 2016, "t": 6.0667}
+{"id": "s922323c56ccc", "split": "test", "config": "anchored", "text": "Gilles Pélisson works for TF1 Group.", "year": 2016, "t": 6.0668}
+{"id": "s641180f51e95", "split": "test", "config": "anchored", "text": "Edwin van der Sar has signed with VV Noordwijk.", "year": 2016, "t": 6.0669}
+{"id": "s9a17e442937f", "split": "test", "config": "anchored", "text": "Sergio Villalobos works for San Sebastián University.", "year": 2016, "t": 6.067}
+{"id": "s154ce34442ba", "split": "test", "config": "anchored", "text": "Vinny Arkins is the head coach of Portadown F.C..", "year": 2016, "t": 6.0671}
+{"id": "s440e55521b03", "split": "test", "config": "anchored", "text": "Katie Ledecky was educated at Stanford University.", "year": 2016, "t": 6.0672}
+{"id": "se62cb4e8c3eb", "split": "test", "config": "anchored", "text": "The chair of Football Association of Thailand is Somyot Poompanmoung.", "year": 2016, "t": 6.0673}
+{"id": "se35de56793d0", "split": "test", "config": "anchored", "text": "Mohamed Fakhir runs the bench for Raja Casablanca.", "year": 2016, "t": 6.0674}
+{"id": "s4ef8b868039a", "split": "test", "config": "anchored", "text": "Jeff Collins belongs to the Australian Labor Party (Northern Territory Branch).", "year": 2016, "t": 6.0675}
+{"id": "s1f62e75a3335", "split": "test", "config": "anchored", "text": "The head-coaching job at 1. FK Příbram belongs to Petr Rada.", "year": 2016, "t": 6.0676}
+{"id": "sc9f398d5a25f", "split": "test", "config": "anchored", "text": "Prakash Javadekar serves as Minister of Human Resource Development.", "year": 2016, "t": 6.0677}
+{"id": "s31018a930102", "split": "test", "config": "anchored", "text": "Teodor Meleșcanu belongs to the Alliance of Liberals and Democrats Party (Romania).", "year": 2016, "t": 6.0678}
+{"id": "s4972f81c98cd", "split": "test", "config": "anchored", "text": "Noemí de Miguel works for Movistar+.", "year": 2016, "t": 6.0679}
+{"id": "s6b20987466c3", "split": "test", "config": "anchored", "text": "Khadija Arib is the chair of House of Representatives.", "year": 2016, "t": 6.068}
+{"id": "sd38a5e70ecc0", "split": "test", "config": "anchored", "text": "Andrey Hlebasolaw runs the bench for FC Baranovichi.", "year": 2016, "t": 6.0681}
+{"id": "s97e92189c12b", "split": "test", "config": "anchored", "text": "Ulrike Guérot is employed by Danube University Krems.", "year": 2016, "t": 6.0682}
+{"id": "s2240504c9cf2", "split": "test", "config": "anchored", "text": "Dinesh Karthik has signed with Gujarat Lions.", "year": 2016, "t": 6.0683}
+{"id": "s73891cbf9cc0", "split": "test", "config": "anchored", "text": "DeMarco Murray plays for Tennessee Titans.", "year": 2016, "t": 6.0684}
+{"id": "sfdd937539aa8", "split": "test", "config": "anchored", "text": "Thomas Hutzschenreuter is on the payroll of Technical University of Munich.", "year": 2016, "t": 6.0685}
+{"id": "s4f87eaa5cf82", "split": "test", "config": "anchored", "text": "Paul Robinson plays for Burnley F.C..", "year": 2016, "t": 6.0686}
+{"id": "s1768f16d8552", "split": "test", "config": "anchored", "text": "Virginia Raggi now occupies the office of mayor of Rome.", "year": 2016, "t": 6.0687}
+{"id": "s07a8433c5883", "split": "test", "config": "anchored", "text": "Benno Möhlmann is the head coach of SC Preußen Münster.", "year": 2016, "t": 6.0688}
+{"id": "s485f34af95f2", "split": "test", "config": "anchored", "text": "Marcello Troisi runs the bench for KF Laçi.", "year": 2016, "t": 6.0689}
+{"id": "sc720af94ce18", "split": "test", "config": "anchored", "text": "Marie L. Yovanovitch holds the position of United States Ambassador to Ukraine.", "year": 2016, "t": 6.069}
+{"id": "s79afad9e486f", "split": "test", "config": "anchored", "text": "Íñigo Méndez de Vigo holds the position of Spokesperson of the Government of Spain.", "year": 2016, "t": 6.0691}
+{"id": "sf0b66cabd10b", "split": "test", "config": "anchored", "text": "Vicki Grassian is employed by University of California, San Diego.", "year": 2016, "t": 6.0692}
+{"id": "sc32a6bdb8d48", "split": "test", "config": "anchored", "text": "Patrick Murphy holds the position of United States Secretary of the Army.", "year": 2016, "t": 6.0693}
+{"id": "sb9e7f9aa42e6", "split": "test", "config": "anchored", "text": "The head-coaching job at Boca Juniors belongs to Guillermo Barros Schelotto.", "year": 2016, "t": 6.0694}
+{"id": "s76474bda9b0c", "split": "test", "config": "anchored", "text": "The head-coaching job at Aris Limassol F.C. belongs to Frederik Vanderbiest.", "year": 2016, "t": 6.0695}
+{"id": "sf022da6487a3", "split": "test", "config": "anchored", "text": "Vyacheslav Volodin serves as Chairman of the State Duma.", "year": 2016, "t": 6.0696}
+{"id": "s10d07afd0d33", "split": "test", "config": "anchored", "text": "Jeroen van den Brink works for Harvard University.", "year": 2016, "t": 6.0697}
+{"id": "s620e793c7ac3", "split": "test", "config": "anchored", "text": "The chair of Food Standards Agency is Heather Hancock.", "year": 2016, "t": 6.0698}
+{"id": "sb76a47664f62", "split": "test", "config": "anchored", "text": "Memphis's government is led by Jim Strickland.", "year": 2016, "t": 6.0699}
+{"id": "sb136953471ad", "split": "test", "config": "anchored", "text": "The head-coaching job at SFC Opava belongs to Roman Skuhravý.", "year": 2016, "t": 6.07}
+{"id": "s47de219f48da", "split": "test", "config": "anchored", "text": "Clara Ponsatí i Obiols is on the payroll of University of St Andrews.", "year": 2016, "t": 6.0701}
+{"id": "scc484a14538d", "split": "test", "config": "anchored", "text": "The head-coaching job at FC Baranovichi belongs to Aleksey Vergeyenko.", "year": 2017, "t": 7.0702}
+{"id": "s98cd7c5d82fb", "split": "test", "config": "anchored", "text": "Christoph Steinbeck works for University of Jena.", "year": 2017, "t": 7.0703}
+{"id": "s0e72ca380979", "split": "test", "config": "anchored", "text": "Arno Pijpers is the head coach of FC Flora Tallinn.", "year": 2017, "t": 7.0704}
+{"id": "sb972105802b6", "split": "test", "config": "anchored", "text": "Kim Young-joo is the chair of Ministry of Employment and Labor.", "year": 2017, "t": 7.0705}
+{"id": "scf10a447d833", "split": "test", "config": "anchored", "text": "Craig Levein is the head coach of Heart of Midlothian F.C..", "year": 2017, "t": 7.0706}
+{"id": "s9d729bc933ab", "split": "test", "config": "anchored", "text": "Politically, Juan Branco sits with the Unsubmissive France.", "year": 2017, "t": 7.0707}
+{"id": "s3c5279f7cc55", "split": "test", "config": "anchored", "text": "The position held by Sonny Perdue is United States Secretary of Agriculture.", "year": 2017, "t": 7.0708}
+{"id": "s5cc16743d498", "split": "test", "config": "anchored", "text": "Jim Banks holds the position of United States representative.", "year": 2017, "t": 7.0709}
+{"id": "s1fc4299578c1", "split": "test", "config": "anchored", "text": "Bane NOR owns Jæren Line.", "year": 2017, "t": 7.071}
+{"id": "sda4e42c24f3f", "split": "test", "config": "anchored", "text": "Nordland Line is a subsidiary of Bane NOR.", "year": 2017, "t": 7.0711}
+{"id": "s1175d57beff1", "split": "test", "config": "anchored", "text": "The head-coaching job at FC Milsami belongs to Veaceslav Rusnac.", "year": 2017, "t": 7.0712}
+{"id": "s008f59acc7c8", "split": "test", "config": "anchored", "text": "Jiří Pospíšil is a member of the TOP 09.", "year": 2017, "t": 7.0713}
+{"id": "s2700e3c466f5", "split": "test", "config": "anchored", "text": "Wolverhampton Wanderers F.C. is coached by Nuno Espírito Santo.", "year": 2017, "t": 7.0714}
+{"id": "s68836c28172f", "split": "test", "config": "anchored", "text": "Alexia Petsalis-Diomidis works for University of St Andrews.", "year": 2017, "t": 7.0715}
+{"id": "s9a339fec16d5", "split": "test", "config": "anchored", "text": "Meral Akşener is a member of the İYİ Party.", "year": 2017, "t": 7.0716}
+{"id": "sdf6a5d7c41a5", "split": "test", "config": "anchored", "text": "Peter Lundberg is the head coach of IFK Mariehamn.", "year": 2017, "t": 7.0717}
+{"id": "sefc5663da0e6", "split": "test", "config": "anchored", "text": "Brian M. Rosenthal works for The New York Times.", "year": 2017, "t": 7.0718}
+{"id": "s6c85360da3e0", "split": "test", "config": "anchored", "text": "Hitoshi Morishita is the head coach of Thespakusatsu Gunma.", "year": 2017, "t": 7.0719}
+{"id": "s7f1e76146346", "split": "test", "config": "anchored", "text": "Joey Guðjónsson runs the bench for Íþróttabandalag Akraness.", "year": 2017, "t": 7.072}
+{"id": "sa6203ae0554a", "split": "test", "config": "anchored", "text": "Jo Cribb is employed by Read NZ Te Pou Muramura (formerly the New Zealand Book Council).", "year": 2017, "t": 7.0721}
+{"id": "s4e498ecdc797", "split": "test", "config": "anchored", "text": "András Herczeg is the head coach of Debreceni VSC.", "year": 2017, "t": 7.0722}
+{"id": "sb178a059b3dc", "split": "test", "config": "anchored", "text": "Park Neung-hoo is the chair of Ministry of Health and Welfare.", "year": 2017, "t": 7.0723}
+{"id": "sc0472e3e0d7c", "split": "test", "config": "anchored", "text": "The head-coaching job at Clube Atlético Mineiro belongs to Oswaldo de Oliveira.", "year": 2017, "t": 7.0724}
+{"id": "sf39b05281b25", "split": "test", "config": "anchored", "text": "Germaine M Buck Louis works for George Mason University.", "year": 2017, "t": 7.0725}
+{"id": "s85c2f2fac8a8", "split": "test", "config": "anchored", "text": "Skøyen Station is a subsidiary of Bane NOR Eiendom.", "year": 2017, "t": 7.0725999999999996}
+{"id": "s597094db1f3c", "split": "test", "config": "anchored", "text": "Verónika Mendoza belongs to the Broad Front.", "year": 2017, "t": 7.0727}
+{"id": "sc7501b513a6c", "split": "test", "config": "anchored", "text": "Jean-Paul Delevoye is a member of the La République En Marche.", "year": 2017, "t": 7.0728}
+{"id": "s6a20bfc2d7e6", "split": "test", "config": "anchored", "text": "Ownership of Trunk Line rests with Bane NOR.", "year": 2017, "t": 7.0729}
+{"id": "sbf701ac1aae2", "split": "test", "config": "anchored", "text": "Daniel Thioune is the head coach of VfL Osnabrück.", "year": 2017, "t": 7.073}
+{"id": "s687c870c84df", "split": "test", "config": "anchored", "text": "Charlie Aptroot heads the government of Wassenaar.", "year": 2017, "t": 7.0731}
+{"id": "s925db2bbfbd0", "split": "test", "config": "anchored", "text": "Tamás Soproni is affiliated with the Momentum Movement.", "year": 2017, "t": 7.0732}
+{"id": "s154e637685ff", "split": "test", "config": "anchored", "text": "Meråker Line is owned by Bane NOR.", "year": 2017, "t": 7.0733}
+{"id": "s161cf3163ee8", "split": "test", "config": "anchored", "text": "Bane NOR owns Røros Line.", "year": 2017, "t": 7.0734}
+{"id": "sedb78bcb358a", "split": "test", "config": "anchored", "text": "Greta Van Susteren works for MSNBC.", "year": 2017, "t": 7.0735}
+{"id": "sb778cf65582a", "split": "test", "config": "anchored", "text": "Boels Dolmans Cycling Team is the club Anna van der Breggen turns out for.", "year": 2017, "t": 7.0736}
+{"id": "s9faaf53599a6", "split": "test", "config": "anchored", "text": "Deshaun Watson has signed with Houston Texans.", "year": 2017, "t": 7.0737}
+{"id": "s376ef2a1c9a3", "split": "test", "config": "anchored", "text": "Qi Lu works for Baidu.", "year": 2017, "t": 7.0738}
+{"id": "sa9c39e8a40d6", "split": "test", "config": "anchored", "text": "International Game Developers Association employs Jennifer MacLean.", "year": 2017, "t": 7.0739}
+{"id": "se5a5bce5ed61", "split": "test", "config": "anchored", "text": "Skøyen–Filipstad Line is owned by Bane NOR.", "year": 2017, "t": 7.074}
+{"id": "s99595f08a8b0", "split": "test", "config": "anchored", "text": "Gary Bollan is the head coach of Cowdenbeath F.C..", "year": 2017, "t": 7.0741}
+{"id": "s80faa43af82a", "split": "test", "config": "anchored", "text": "Karl Daxbacher runs the bench for FC Wacker Innsbruck.", "year": 2017, "t": 7.0742}
+{"id": "s3d415c0f1d85", "split": "test", "config": "anchored", "text": "Østfold Line is a subsidiary of Bane NOR.", "year": 2017, "t": 7.0743}
+{"id": "sd561051054c6", "split": "test", "config": "anchored", "text": "Ágúst Gylfason is the head coach of Breiðablik UBK.", "year": 2017, "t": 7.0744}
+{"id": "s5c975ad2e1e8", "split": "test", "config": "anchored", "text": "Gail Koziara Boudreaux is on the payroll of Anthem Inc..", "year": 2017, "t": 7.0745}
+{"id": "s18218d0f421e", "split": "test", "config": "anchored", "text": "Jozef Barmoš is the head coach of FK Inter Bratislava.", "year": 2017, "t": 7.0746}
+{"id": "s032f69681f4f", "split": "test", "config": "anchored", "text": "Martin Svědík runs the bench for FC Vysočina Jihlava.", "year": 2017, "t": 7.0747}
+{"id": "sacbe3578c043", "split": "test", "config": "anchored", "text": "Elisabeth Enger works for Norwegian Railway Directorate.", "year": 2017, "t": 7.0748}
+{"id": "s23176966e428", "split": "test", "config": "anchored", "text": "Colombian Liberal Party is chaired by César Gaviria.", "year": 2017, "t": 7.0749}
+{"id": "s9204ea59d8bd", "split": "test", "config": "anchored", "text": "Mariusz Lewandowski is the head coach of Zagłębie Lubin.", "year": 2017, "t": 7.075}
+{"id": "s8e1d85ce0497", "split": "test", "config": "anchored", "text": "Sharon Weston Broome heads the government of Baton Rouge.", "year": 2017, "t": 7.0751}
+{"id": "s1d0db0ea1161", "split": "test", "config": "anchored", "text": "Mashrafe Mortaza plays for Rangpur Riders.", "year": 2017, "t": 7.0752}
+{"id": "s53677b7da355", "split": "test", "config": "anchored", "text": "Kongsvinger Line is a subsidiary of Bane NOR.", "year": 2017, "t": 7.0753}
+{"id": "s7e8aba4a7021", "split": "test", "config": "anchored", "text": "The position held by Karen Handel is United States representative.", "year": 2017, "t": 7.0754}
+{"id": "s90a2a33a6aec", "split": "test", "config": "anchored", "text": "David Guion is the head coach of Stade de Reims.", "year": 2017, "t": 7.0755}
+{"id": "sd0a375975c57", "split": "test", "config": "anchored", "text": "The government of Guangdong is run by Ma Xingrui.", "year": 2017, "t": 7.0756}
+{"id": "s93341e717194", "split": "test", "config": "anchored", "text": "Pogoń Szczecin is coached by Kosta Runjaić.", "year": 2017, "t": 7.0757}
+{"id": "s47ece9520dfc", "split": "test", "config": "anchored", "text": "The head-coaching job at Newell's Old Boys belongs to Juan Manuel Llop.", "year": 2017, "t": 7.0758}
+{"id": "s9d7abe6af273", "split": "test", "config": "anchored", "text": "Clay Higgins holds the position of United States representative.", "year": 2017, "t": 7.0759}
+{"id": "s7abf8aa53ecb", "split": "test", "config": "anchored", "text": "Steve Robinson is the head coach of Motherwell F.C..", "year": 2017, "t": 7.076}
+{"id": "sa3635fdaf805", "split": "test", "config": "anchored", "text": "P. J. Fleck works for Minnesota Golden Gophers football.", "year": 2017, "t": 7.0761}
+{"id": "s79fa30889a67", "split": "test", "config": "anchored", "text": "Don Bacon holds the position of United States representative.", "year": 2017, "t": 7.0762}
+{"id": "s48f10550856d", "split": "test", "config": "anchored", "text": "Numedal Line is owned by Bane NOR.", "year": 2017, "t": 7.0763}
+{"id": "s751ae3d7f4af", "split": "test", "config": "anchored", "text": "Ellen van Dijk plays for Team Sunweb.", "year": 2017, "t": 7.0764}
+{"id": "s489309693ca5", "split": "test", "config": "anchored", "text": "Flekkefjord Line is owned by Bane NOR.", "year": 2017, "t": 7.0765}
+{"id": "s3d2b7a6e1476", "split": "test", "config": "anchored", "text": "Kim Hyun-mee is the chair of Ministry of Land, Infrastructure and Transport.", "year": 2017, "t": 7.0766}
+{"id": "s9b8bf07b8539", "split": "test", "config": "anchored", "text": "Abdulla Yameen is the chair of Progressive Party of Maldives.", "year": 2017, "t": 7.0767}
+{"id": "sdf295e92916e", "split": "test", "config": "anchored", "text": "French Academy of Sciences is chaired by Sébastien Candel.", "year": 2017, "t": 7.0768}
+{"id": "s930403de1f57", "split": "test", "config": "anchored", "text": "Dušan Kosič is the head coach of NK Celje.", "year": 2017, "t": 7.0769}
+{"id": "sbba18ab0b121", "split": "test", "config": "anchored", "text": "Peter Sagan is on the roster of Bora-Hansgrohe.", "year": 2017, "t": 7.077}
+{"id": "see506fe7824b", "split": "test", "config": "anchored", "text": "Nir Klinger is the head coach of Hapoel Haifa F.C..", "year": 2017, "t": 7.0771}
+{"id": "s145ae3e69b45", "split": "test", "config": "anchored", "text": "Michael Flynn serves as National Security Advisor.", "year": 2017, "t": 7.0772}
+{"id": "se7384f23a8e7", "split": "test", "config": "anchored", "text": "Dipak Misra serves as Chief Justice of India.", "year": 2017, "t": 7.0773}
+{"id": "s734689f8a1ca", "split": "test", "config": "anchored", "text": "Tiffany Trump attended Georgetown University.", "year": 2017, "t": 7.0774}
+{"id": "s4e1d478c88c9", "split": "test", "config": "anchored", "text": "John Neely Kennedy now occupies the office of United States senator.", "year": 2017, "t": 7.0775}
+{"id": "s11e80b066a92", "split": "test", "config": "anchored", "text": "Ethiopia national football team is coached by Ashenafi Bekele.", "year": 2017, "t": 7.0776}
+{"id": "s1ff00611a98a", "split": "test", "config": "anchored", "text": "American University employs Sylvia Burwell.", "year": 2017, "t": 7.0777}
+{"id": "sddc9fb8f5c63", "split": "test", "config": "anchored", "text": "The position held by Vince Cable is Leader of the Liberal Democrats.", "year": 2017, "t": 7.0778}
+{"id": "s4d5dd358d416", "split": "test", "config": "anchored", "text": "Gjøvik Line is a subsidiary of Bane NOR.", "year": 2017, "t": 7.0779}
+{"id": "sa050c0a5637d", "split": "test", "config": "anchored", "text": "Robert Mueller now occupies the office of special prosecutor.", "year": 2017, "t": 7.078}
+{"id": "s13e4674a2745", "split": "test", "config": "anchored", "text": "Andy Kohlberg is the chair of RCD Mallorca.", "year": 2017, "t": 7.0781}
+{"id": "s562d2e9ca95f", "split": "test", "config": "anchored", "text": "Navjot Singh Sidhu is a member of the Indian National Congress.", "year": 2017, "t": 7.0782}
+{"id": "sd27295919aab", "split": "test", "config": "anchored", "text": "Michel Spiro holds the position of president.", "year": 2017, "t": 7.0783}
+{"id": "sab04c1108b20", "split": "test", "config": "anchored", "text": "Omar Radi works for Middle East Eye.", "year": 2017, "t": 7.0784}
+{"id": "s84ab6c1b34bd", "split": "test", "config": "anchored", "text": "Rebecca J Shipley works for University College London.", "year": 2017, "t": 7.0785}
+{"id": "safff1769241c", "split": "test", "config": "anchored", "text": "Anthony Hudson runs the bench for Colorado Rapids.", "year": 2017, "t": 7.0786}
+{"id": "se88a661a434c", "split": "test", "config": "anchored", "text": "Aamir Hussain is a member of the Pakistan Tehreek-e-Insaf.", "year": 2018, "t": 8.0787}
+{"id": "s2dfab3b80e2f", "split": "test", "config": "anchored", "text": "Jonatan Johansson is the head coach of Greenock Morton F.C..", "year": 2018, "t": 8.0788}
+{"id": "s5d89447926ba", "split": "test", "config": "anchored", "text": "Pedro Martins is the head coach of Olympiacos F.C..", "year": 2018, "t": 8.0789}
+{"id": "sd8946ab841ba", "split": "test", "config": "anchored", "text": "Phil Murphy now occupies the office of Governor of New Jersey.", "year": 2018, "t": 8.079}
+{"id": "s45711af6b2b2", "split": "test", "config": "anchored", "text": "Embassy of Ukraine, Tallinn is chaired by Mariana Betsa.", "year": 2018, "t": 8.0791}
+{"id": "s81b8b2e50e19", "split": "test", "config": "anchored", "text": "Martí Cifuentes is the head coach of Sandefjord Fotball.", "year": 2018, "t": 8.0792}
+{"id": "sf34cb5a898ae", "split": "test", "config": "anchored", "text": "Lillestrøm SK is coached by Jörgen Lennartsson.", "year": 2018, "t": 8.0793}
+{"id": "s2bf2672706fc", "split": "test", "config": "anchored", "text": "Susanne Ås Sivborg works for Lantmäteriet.", "year": 2018, "t": 8.0794}
+{"id": "s9a7932dfcc84", "split": "test", "config": "anchored", "text": "Poya Asbaghi runs the bench for IFK Göteborg.", "year": 2018, "t": 8.0795}
+{"id": "s631d7c726086", "split": "test", "config": "anchored", "text": "Riccardo Tisci is employed by Burberry.", "year": 2018, "t": 8.0796}
+{"id": "s4a6f2c3bef3a", "split": "test", "config": "anchored", "text": "Jorge Almiron is the head coach of Club Atlético San Lorenzo de Almagro.", "year": 2018, "t": 8.0797}
+{"id": "sab27a4e1863c", "split": "test", "config": "anchored", "text": "Barham Salih holds the position of President of Iraq.", "year": 2018, "t": 8.0798}
+{"id": "se6c7417627dd", "split": "test", "config": "anchored", "text": "Sylvi Listhaug holds the position of Minister of Justice and Public Security.", "year": 2018, "t": 8.0799}
+{"id": "s7fc6530c704d", "split": "test", "config": "anchored", "text": "Michael O'Brien holds the position of Leader of the Opposition.", "year": 2018, "t": 8.08}
+{"id": "s908f463b5da1", "split": "test", "config": "anchored", "text": "Migen Memelli is the head coach of KF Laçi.", "year": 2018, "t": 8.0801}
+{"id": "sd64d600e68b2", "split": "test", "config": "anchored", "text": "Ivory Coast national football team is coached by Ibrahim Kamara.", "year": 2018, "t": 8.0802}
+{"id": "sf7887bb55204", "split": "test", "config": "anchored", "text": "The head-coaching job at FK Radnik Surdulica belongs to Mladen Dodić.", "year": 2018, "t": 8.0803}
+{"id": "se5abcc00e17b", "split": "test", "config": "anchored", "text": "Steven Finn plays for Islamabad United.", "year": 2018, "t": 8.0804}
+{"id": "s61070104c201", "split": "test", "config": "anchored", "text": "FC Rotor Volgograd is coached by Robert Yevdokimov.", "year": 2018, "t": 8.0805}
+{"id": "s77d3176b67f5", "split": "test", "config": "anchored", "text": "Didier Tholot runs the bench for A.S. Nancy-Lorraine.", "year": 2018, "t": 8.0806}
+{"id": "s5661f30705f1", "split": "test", "config": "anchored", "text": "Marcelo plays for Juventus FC.", "year": 2018, "t": 8.0807}
+{"id": "s2af73b23c207", "split": "test", "config": "anchored", "text": "Adam Falk is the chair of Alfred P. Sloan Foundation.", "year": 2018, "t": 8.0808}
+{"id": "s0475714fcca4", "split": "test", "config": "anchored", "text": "Jimmy Thelin is the head coach of IF Elfsborg.", "year": 2018, "t": 8.0809}
+{"id": "se55a37d802ac", "split": "test", "config": "anchored", "text": "Valeri Nepomniachi is the head coach of FC Baltika Kaliningrad.", "year": 2018, "t": 8.081}
+{"id": "s3828f94f0bbf", "split": "test", "config": "anchored", "text": "Liam Buckley is the head coach of Sligo Rovers F.C..", "year": 2018, "t": 8.0811}
+{"id": "s55d138a57c98", "split": "test", "config": "anchored", "text": "United States Forest Service is chaired by chairperson.", "year": 2018, "t": 8.0812}
+{"id": "s9a490ff14feb", "split": "test", "config": "anchored", "text": "FK AS Trenčín is coached by Ricardo Moniz.", "year": 2018, "t": 8.0813}
+{"id": "sb8cabc750c9a", "split": "test", "config": "anchored", "text": "Ata Öweznepesowiç Serdarow is the chair of Democratic Party of Turkmenistan.", "year": 2018, "t": 8.0814}
+{"id": "s7a2b23110932", "split": "test", "config": "anchored", "text": "John Engler works for Michigan State University.", "year": 2018, "t": 8.0815}
+{"id": "sdfb07e052f8e", "split": "test", "config": "anchored", "text": "Elvis Plori is the head coach of KS Kastrioti.", "year": 2018, "t": 8.0816}
+{"id": "s2de14605e184", "split": "test", "config": "anchored", "text": "Roberto De Zerbi runs the bench for Unione Sportiva Sassuolo Calcio.", "year": 2018, "t": 8.0817}
+{"id": "s56192a8bf55a", "split": "test", "config": "anchored", "text": "FC Inter Turku is coached by John Allen.", "year": 2018, "t": 8.0818}
+{"id": "sdc605c1cee68", "split": "test", "config": "anchored", "text": "John Dyrby Paulsen heads the government of Slagelse Municipality.", "year": 2018, "t": 8.0819}
+{"id": "sef89fa326b90", "split": "test", "config": "anchored", "text": "Dragan Okuka is the head coach of F.K. Vojvodina.", "year": 2018, "t": 8.082}
+{"id": "sb2393e06bb2d", "split": "test", "config": "anchored", "text": "Embassy of Poland, Rome is chaired by Konrad Głębocki.", "year": 2018, "t": 8.0821}
+{"id": "s663e8575bf29", "split": "test", "config": "anchored", "text": "Joseph DaGrosa is the chair of FC Girondins de Bordeaux.", "year": 2018, "t": 8.0822}
+{"id": "sb4c4709b0e79", "split": "test", "config": "anchored", "text": "Yiotis Engomitis is the head coach of Ethnikos Achna FC.", "year": 2018, "t": 8.0823}
+{"id": "s795cfd3d3b35", "split": "test", "config": "anchored", "text": "The head-coaching job at FC Zimbru Chișinău belongs to Sorin Colceag.", "year": 2018, "t": 8.0824}
+{"id": "s0d8b08e06007", "split": "test", "config": "anchored", "text": "Roman Skuhravý is the head coach of FK Dukla Prague.", "year": 2018, "t": 8.0825}
+{"id": "s3657ba7fb42e", "split": "test", "config": "anchored", "text": "Hasan Lika is the head coach of KS Vllaznia Shkodër.", "year": 2018, "t": 8.0826}
+{"id": "sdd93d08b67ca", "split": "test", "config": "anchored", "text": "Signal Messenger employs Moxie Marlinspike.", "year": 2018, "t": 8.0827}
+{"id": "sa31219a76d0c", "split": "test", "config": "anchored", "text": "Ravinder Bhalla is the head of the government of Hoboken.", "year": 2018, "t": 8.0828}
+{"id": "sb3ed1acd3bd0", "split": "test", "config": "anchored", "text": "Adrian Peterson plays for Washington Football Team.", "year": 2018, "t": 8.0829}
+{"id": "sb109f138e1ee", "split": "test", "config": "anchored", "text": "Raoul Voss is the head coach of Penn FC.", "year": 2018, "t": 8.083}
+{"id": "s8740f7c29563", "split": "test", "config": "anchored", "text": "Peter Zeidler is the head coach of FC St. Gallen.", "year": 2018, "t": 8.0831}
+{"id": "s7a58c0aacaaf", "split": "test", "config": "anchored", "text": "Asad Umer now occupies the office of Finance Minister of Pakistan.", "year": 2018, "t": 8.0832}
+{"id": "s3052aa4f64dc", "split": "test", "config": "anchored", "text": "Nikos Panayiotou is the head coach of Aris Limassol F.C..", "year": 2018, "t": 8.0833}
+{"id": "sdd9f47a853bb", "split": "test", "config": "anchored", "text": "The head-coaching job at FC Ararat Yerevan belongs to Abraham Khashmanyan.", "year": 2018, "t": 8.0834}
+{"id": "s614610d162a6", "split": "test", "config": "anchored", "text": "Luca D'Angelo is the head coach of A.C. Pisa 1909.", "year": 2018, "t": 8.0835}
+{"id": "sb16ec2c1f5b6", "split": "test", "config": "anchored", "text": "Constitutional Court is chaired by Brigitte Bierlein.", "year": 2018, "t": 8.0836}
+{"id": "s89eb185f9785", "split": "test", "config": "anchored", "text": "Politically, Orly Levy sits with the Gesher.", "year": 2018, "t": 8.0837}
+{"id": "s6246b408f148", "split": "test", "config": "anchored", "text": "Heiko Maas now occupies the office of Federal Minister for Foreign Affairs.", "year": 2018, "t": 8.0838}
+{"id": "s5267cf56cb30", "split": "test", "config": "anchored", "text": "The head-coaching job at FK Olimpik belongs to Dragan Radović.", "year": 2018, "t": 8.0839}
+{"id": "s9bf4daddc1b2", "split": "test", "config": "anchored", "text": "Paul Ramchandani is employed by University of Cambridge.", "year": 2018, "t": 8.084}
+{"id": "s340409f3cfc8", "split": "test", "config": "anchored", "text": "The head-coaching job at Malmö FF belongs to Uwe Rösler.", "year": 2018, "t": 8.0841}
+{"id": "s8d50e6062046", "split": "test", "config": "anchored", "text": "Giorgio Contini is the head coach of FC Lausanne-Sport.", "year": 2018, "t": 8.0842}
+{"id": "s0df3d4ae9199", "split": "test", "config": "anchored", "text": "Keiichiro Nuno runs the bench for Thespakusatsu Gunma.", "year": 2018, "t": 8.0843}
+{"id": "s3db0b3c24397", "split": "test", "config": "anchored", "text": "James S. Famiglietti is employed by University of Saskatchewan.", "year": 2018, "t": 8.0844}
+{"id": "sc096df8e53b8", "split": "test", "config": "anchored", "text": "Rafał Trzaskowski holds the position of Mayor of Warsaw.", "year": 2018, "t": 8.0845}
+{"id": "s69fc7d5d9b6e", "split": "test", "config": "anchored", "text": "Miroslav Jantek is the head coach of FK Inter Bratislava.", "year": 2018, "t": 8.0846}
+{"id": "s6ac271fef2c7", "split": "test", "config": "anchored", "text": "Steven Pressley runs the bench for Pafos FC.", "year": 2018, "t": 8.0847}
+{"id": "s997c912f0ea0", "split": "test", "config": "anchored", "text": "Salome Zurabishvili holds the position of President of Georgia.", "year": 2018, "t": 8.0848}
+{"id": "s566d735ae344", "split": "test", "config": "anchored", "text": "Jutta Steinruck is the head of the government of Ludwigshafen.", "year": 2018, "t": 8.0849}
+{"id": "saeba0692e733", "split": "test", "config": "anchored", "text": "Janice Lee is a member of the Parti Rakyat Malaysia.", "year": 2018, "t": 8.085}
+{"id": "s8100e11e1a26", "split": "test", "config": "anchored", "text": "The head-coaching job at KF Tirana belongs to Ardian Mema.", "year": 2018, "t": 8.0851}
+{"id": "sae1dcc614021", "split": "test", "config": "anchored", "text": "Vladimir Panov heads the government of Nizhny Novgorod.", "year": 2018, "t": 8.0852}
+{"id": "sa5f370c96000", "split": "test", "config": "anchored", "text": "The head-coaching job at FK Shkupi belongs to Ümit Karan.", "year": 2018, "t": 8.0853}
+{"id": "s2d7064c2b908", "split": "test", "config": "anchored", "text": "Viking FK is coached by Bjarne Berntsen.", "year": 2018, "t": 8.0854}
+{"id": "sb385125c1d66", "split": "test", "config": "anchored", "text": "Bülent Korkmaz runs the bench for Antalyaspor.", "year": 2018, "t": 8.0855}
+{"id": "s56083d96d5a4", "split": "test", "config": "anchored", "text": "Dimension Films is owned by Lantern Entertainment.", "year": 2018, "t": 8.0856}
+{"id": "se4bb461a948b", "split": "test", "config": "anchored", "text": "Adil Abdul-Mahdi serves as Prime Minister of Iraq.", "year": 2018, "t": 8.0857}
+{"id": "s0c4e8e25f757", "split": "test", "config": "anchored", "text": "Taur Matan Ruak holds the position of Prime Minister of East Timor.", "year": 2018, "t": 8.0858}
+{"id": "sfa0ff01ce8bc", "split": "test", "config": "anchored", "text": "Politically, Carlo Calenda sits with the Democratic Party.", "year": 2018, "t": 8.0859}
+{"id": "saa156c4dbb38", "split": "test", "config": "anchored", "text": "Politically, Catherine Dorion sits with the Québec solidaire.", "year": 2018, "t": 8.086}
+{"id": "s1c24dc572596", "split": "test", "config": "anchored", "text": "The head-coaching job at Portadown F.C. belongs to Matthew Tipton.", "year": 2018, "t": 8.0861}
+{"id": "s777c284893be", "split": "test", "config": "anchored", "text": "Politically, Marguerite Blais sits with the Coalition Avenir Québec.", "year": 2018, "t": 8.0862}
+{"id": "s7858ad2b8ede", "split": "test", "config": "anchored", "text": "Anton Mišovec runs the bench for 1. FC Tatran Prešov.", "year": 2018, "t": 8.0863}
+{"id": "se1b72815d9be", "split": "test", "config": "anchored", "text": "Michèle Dittlot is a member of the Horizon Monaco.", "year": 2018, "t": 8.0864}
+{"id": "s19951547cf85", "split": "test", "config": "anchored", "text": "Liu Guozhong is the head of the government of Shaanxi.", "year": 2018, "t": 8.0865}
+{"id": "s70d8d31ec54f", "split": "test", "config": "anchored", "text": "Śląsk Wrocław is coached by Tadeusz Pawłowski.", "year": 2018, "t": 8.0866}
+{"id": "s72c16f8666b8", "split": "test", "config": "anchored", "text": "Marcelo Ebrard is affiliated with the National Regeneration Movement.", "year": 2018, "t": 8.0867}
+{"id": "scae64b4ca088", "split": "test", "config": "anchored", "text": "Andoni Iraola is the head coach of AEK Larnaca F.C..", "year": 2018, "t": 8.0868}
+{"id": "s2550de6b0421", "split": "test", "config": "anchored", "text": "Chris Mack runs the bench for Louisville Cardinals men's basketball.", "year": 2018, "t": 8.0869}
+{"id": "sb9da745f421f", "split": "test", "config": "anchored", "text": "Ewine van Dishoeck is the chair of International Astronomical Union.", "year": 2018, "t": 8.087}
+{"id": "sa0be24ab51fa", "split": "test", "config": "anchored", "text": "Elshad Akhmedov is the head coach of Sabah Football Club.", "year": 2018, "t": 8.0871}
+{"id": "s830bf1f95a5b", "split": "test", "config": "anchored", "text": "Darko Vojvodić is the head coach of FK Borac Banja Luka.", "year": 2018, "t": 8.0872}
+{"id": "s2b3c086a11cd", "split": "test", "config": "anchored", "text": "María Sefidari is the chair of Wikimedia Foundation.", "year": 2018, "t": 8.0873}
+{"id": "s3a69b9051cf5", "split": "test", "config": "anchored", "text": "Śląsk Wrocław is coached by Vítězslav Lavička.", "year": 2019, "t": 9.0874}
+{"id": "s7a64dc41241c", "split": "test", "config": "anchored", "text": "The head-coaching job at Boca Juniors belongs to Gustavo Alfaro.", "year": 2019, "t": 9.0875}
+{"id": "s5758229b0ef1", "split": "test", "config": "anchored", "text": "The government of Acre is run by Gladson Cameli.", "year": 2019, "t": 9.0876}
+{"id": "s13b3fad53023", "split": "test", "config": "anchored", "text": "Nigel Farage is a member of the Brexit Party.", "year": 2019, "t": 9.0877}
+{"id": "s9382ab5fb7ea", "split": "test", "config": "anchored", "text": "Jorge Jesus plays for Clube de Regatas do Flamengo.", "year": 2019, "t": 9.0878}
+{"id": "sdc3f8ce016ec", "split": "test", "config": "anchored", "text": "Mirza Varešanović runs the bench for FK Tuzla City.", "year": 2019, "t": 9.0879}
+{"id": "s967bbff22258", "split": "test", "config": "anchored", "text": "Chrises Michael is the head coach of Karmiotissa Pano Polemidion.", "year": 2019, "t": 9.088}
+{"id": "sa384929a2db5", "split": "test", "config": "anchored", "text": "Franck Ribéry plays for Liga Deportiva Universitaria de Quito.", "year": 2019, "t": 9.0881}
+{"id": "s56db151d3ccc", "split": "test", "config": "anchored", "text": "Politically, Krzysztof Gawkowski sits with the Spring.", "year": 2019, "t": 9.0882}
+{"id": "s0ee4b2a0c2a3", "split": "test", "config": "anchored", "text": "Trek-Segafredo is the club Richie Porte turns out for.", "year": 2019, "t": 9.0883}
+{"id": "sb9c69aea9194", "split": "test", "config": "anchored", "text": "Andrey Hlebasolaw is the head coach of FC Baranovichi.", "year": 2019, "t": 9.0884}
+{"id": "s74a94fdc26a0", "split": "test", "config": "anchored", "text": "The head-coaching job at SønderjyskE Fodbold belongs to Glen Riddersholm.", "year": 2019, "t": 9.0885}
+{"id": "s457705f8369a", "split": "test", "config": "anchored", "text": "Teresa A. Sullivan works for Michigan State University.", "year": 2019, "t": 9.0886}
+{"id": "s0b484f622a58", "split": "test", "config": "anchored", "text": "Michael L. Fitzgerald now occupies the office of cardinal.", "year": 2019, "t": 9.0887}
+{"id": "se3b53666ad18", "split": "test", "config": "anchored", "text": "Jan Thörnqvist holds the position of Commandant General in Stockholm.", "year": 2019, "t": 9.0888}
+{"id": "s7a33b9a5babe", "split": "test", "config": "anchored", "text": "Kvinnherad's government is led by Hans Inge Myrvold.", "year": 2019, "t": 9.0889}
+{"id": "saca357dc88ba", "split": "test", "config": "anchored", "text": "Matt LaFleur is the head coach of Green Bay Packers.", "year": 2019, "t": 9.089}
+{"id": "s3cd9561cac82", "split": "test", "config": "anchored", "text": "Zagłębie Lubin is coached by Martin Ševela.", "year": 2019, "t": 9.0891}
+{"id": "s700bd06b0e0a", "split": "test", "config": "anchored", "text": "Giselle Zarur works for Fox Deportes.", "year": 2019, "t": 9.0892}
+{"id": "s0546008d394d", "split": "test", "config": "anchored", "text": "Bharat Mehra is employed by University of Alabama.", "year": 2019, "t": 9.0893}
+{"id": "s84c6cb492e9c", "split": "test", "config": "anchored", "text": "Equanimity is owned by Genting Group.", "year": 2019, "t": 9.0894}
+{"id": "s1ee937577344", "split": "test", "config": "anchored", "text": "The position held by Marina Kaljurand is member of the European Parliament.", "year": 2019, "t": 9.0895}
+{"id": "s63244a2d4193", "split": "test", "config": "anchored", "text": "Jean-Louis Garcia runs the bench for A.S. Nancy-Lorraine.", "year": 2019, "t": 9.0896}
+{"id": "se45abf9b5e1d", "split": "test", "config": "anchored", "text": "Mladen Žižović is the head coach of HŠK Zrinjski Mostar.", "year": 2019, "t": 9.0897}
+{"id": "s775e9a356c70", "split": "test", "config": "anchored", "text": "Trek-Segafredo Women is the club Ellen van Dijk turns out for.", "year": 2019, "t": 9.0898}
+{"id": "sa92168937603", "split": "test", "config": "anchored", "text": "Artur Avakyants is the head coach of FC Akzhayik.", "year": 2019, "t": 9.0899}
+{"id": "s86b78356be63", "split": "test", "config": "anchored", "text": "Leonid Kuchuk is the head coach of FC Rukh Lviv.", "year": 2019, "t": 9.09}
+{"id": "s191c4fd0aefa", "split": "test", "config": "anchored", "text": "Vernon Tava is a member of the Sustainable New Zealand Party.", "year": 2019, "t": 9.0901}
+{"id": "s7196daddaf57", "split": "test", "config": "anchored", "text": "Valerie Hackl works for Austro Control.", "year": 2019, "t": 9.0902}
+{"id": "sede645291a36", "split": "test", "config": "anchored", "text": "Bledar Devolli is the head coach of KS Kastrioti.", "year": 2019, "t": 9.0903}
+{"id": "s065620868e19", "split": "test", "config": "anchored", "text": "Seth Ablade is the head coach of FC Jazz.", "year": 2019, "t": 9.0904}
+{"id": "sda2407b33b8c", "split": "test", "config": "anchored", "text": "Arnar Gunnlaugsson is the head coach of Knattspyrnufélagið Víkingur.", "year": 2019, "t": 9.0905}
+{"id": "sa96232370b5a", "split": "test", "config": "anchored", "text": "Alyaksandr Khatskevich is the head coach of FC Rotor Volgograd.", "year": 2019, "t": 9.0906}
+{"id": "sd7dead48cb48", "split": "test", "config": "anchored", "text": "Cornell University employs Corrie Moreau.", "year": 2019, "t": 9.0907}
+{"id": "s2cb508c41f04", "split": "test", "config": "anchored", "text": "Pedro Pierluisi holds the position of Governor of Puerto Rico.", "year": 2019, "t": 9.0908}
+{"id": "sdeaee9965755", "split": "test", "config": "anchored", "text": "Robert Biedroń belongs to the Spring.", "year": 2019, "t": 9.0909}
+{"id": "se6c5f2552853", "split": "test", "config": "anchored", "text": "The head-coaching job at Hapoel Haifa F.C. belongs to Haim Silvas.", "year": 2019, "t": 9.091}
+{"id": "s5c48d744023a", "split": "test", "config": "anchored", "text": "Aušra Maldeikienė serves as member of the European Parliament.", "year": 2019, "t": 9.0911}
+{"id": "s66b21abf1527", "split": "test", "config": "anchored", "text": "Radosław Sikorski now occupies the office of member of the European Parliament.", "year": 2019, "t": 9.0912}
+{"id": "sf0dcfe218175", "split": "test", "config": "anchored", "text": "The position held by Silvio Berlusconi is member of the European Parliament.", "year": 2019, "t": 9.0913}
+{"id": "s74669095b319", "split": "test", "config": "anchored", "text": "Phil Hudson works for University of Winnipeg.", "year": 2019, "t": 9.0914}
+{"id": "sdbb0e2a0edd0", "split": "test", "config": "anchored", "text": "Jalen Hurts attended University of Oklahoma.", "year": 2019, "t": 9.0915}
+{"id": "sa761c0280928", "split": "test", "config": "anchored", "text": "Mick Mulvaney serves as White House Chief of Staff.", "year": 2019, "t": 9.0916}
+{"id": "s0eed068cb5f5", "split": "test", "config": "anchored", "text": "Hans Kleer runs the bench for SV Horn.", "year": 2019, "t": 9.0917}
+{"id": "s1cf6ac92913c", "split": "test", "config": "anchored", "text": "Simo Krunić runs the bench for FK Radnik Surdulica.", "year": 2019, "t": 9.0918}
+{"id": "s9872b784004c", "split": "test", "config": "anchored", "text": "Beata Szydło holds the position of member of the European Parliament.", "year": 2019, "t": 9.0919}
+{"id": "s31e1b0958a90", "split": "test", "config": "anchored", "text": "Constantin Gâlcă is the head coach of Vejle Boldklub.", "year": 2019, "t": 9.092}
+{"id": "s983d2e41e727", "split": "test", "config": "anchored", "text": "Su Tseng-chang holds the position of President of the Executive Yuan.", "year": 2019, "t": 9.0921}
+{"id": "s9948eeaa13af", "split": "test", "config": "anchored", "text": "Rodrigo Marques de Santana runs the bench for Clube Atlético Mineiro.", "year": 2019, "t": 9.0922}
+{"id": "s366981b755d4", "split": "test", "config": "anchored", "text": "Traian Băsescu holds the position of member of the European Parliament.", "year": 2019, "t": 9.0923}
+{"id": "sba9065ebe37d", "split": "test", "config": "anchored", "text": "French Academy of Sciences is chaired by Pierre Corvol.", "year": 2019, "t": 9.0924}
+{"id": "sb8208a1a90c6", "split": "test", "config": "anchored", "text": "Aleksandrs Starkovs is the head coach of FK Liepāja.", "year": 2019, "t": 9.0925}
+{"id": "s5d4e284432f8", "split": "test", "config": "anchored", "text": "Cameron Toshack runs the bench for Pafos FC.", "year": 2019, "t": 9.0926}
+{"id": "sa01db5a38176", "split": "test", "config": "anchored", "text": "Marius Șumudică is the head coach of Gaziantep F.K..", "year": 2019, "t": 9.0927}
+{"id": "s431a15792ea2", "split": "test", "config": "anchored", "text": "Conor Kostick is employed by Trinity College Dublin.", "year": 2019, "t": 9.0928}
+{"id": "s3f29f3e99dd3", "split": "test", "config": "anchored", "text": "The government of Phoenix is run by Kate Gallego.", "year": 2019, "t": 9.0929}
+{"id": "s6c83acbc8597", "split": "test", "config": "anchored", "text": "Subrahmanyam Jaishankar serves as Minister of External Affairs.", "year": 2019, "t": 9.093}
+{"id": "se339fddd7b24", "split": "test", "config": "anchored", "text": "Tan Cheng Bock is affiliated with the Progress Singapore Party.", "year": 2019, "t": 9.0931}
+{"id": "sf98f91665d18", "split": "test", "config": "anchored", "text": "Sylvi Listhaug now occupies the office of Minister of Petroleum and Energy.", "year": 2019, "t": 9.0932}
+{"id": "sbf9d50601277", "split": "test", "config": "anchored", "text": "Leendert de Lange is the head of the government of Wassenaar.", "year": 2019, "t": 9.0933}
+{"id": "sc9106123695b", "split": "test", "config": "anchored", "text": "The head-coaching job at HNK Šibenik belongs to Krunoslav Rendulić.", "year": 2019, "t": 9.0934}
+{"id": "s46451a6c971c", "split": "test", "config": "anchored", "text": "Natxo González runs the bench for C.D. Tondela.", "year": 2019, "t": 9.0935}
+{"id": "sf6727816c6d9", "split": "test", "config": "anchored", "text": "Darko Vojvodić runs the bench for FK Olimpik.", "year": 2019, "t": 9.0936}
+{"id": "s3a8b9356b4b6", "split": "test", "config": "anchored", "text": "Frank Darío Kudelka runs the bench for Newell's Old Boys.", "year": 2019, "t": 9.0937}
+{"id": "sf24d63ebe657", "split": "test", "config": "anchored", "text": "The head-coaching job at Anorthosis Famagusta FC belongs to Temur Ketsbaia.", "year": 2019, "t": 9.0938}
+{"id": "s92e324dac420", "split": "test", "config": "anchored", "text": "Tim Burchett serves as United States representative.", "year": 2019, "t": 9.0939}
+{"id": "s740df651581e", "split": "test", "config": "anchored", "text": "Anna Maria Anders is the chair of Embassy of Poland, Rome.", "year": 2019, "t": 9.094}
+{"id": "sf26ed52f9837", "split": "test", "config": "anchored", "text": "F.K. Vojvodina is coached by Nenad Lalatović.", "year": 2019, "t": 9.0941}
+{"id": "sa552d0018e85", "split": "test", "config": "anchored", "text": "Nik Stauskas plays for Saski Baskonia.", "year": 2019, "t": 9.0942}
+{"id": "s39d3d4fc3c2a", "split": "test", "config": "anchored", "text": "Halyna Yanchenko is a member of the Servant of the People.", "year": 2019, "t": 9.0943}
+{"id": "s6c8ef7eeb479", "split": "test", "config": "anchored", "text": "Remigijus Šimašius is affiliated with the Freedom Party.", "year": 2019, "t": 9.0944}
+{"id": "se5c3e5e277df", "split": "test", "config": "anchored", "text": "The head-coaching job at Raja Casablanca belongs to Jamal Sellami.", "year": 2019, "t": 9.0945}
+{"id": "s2f50e309570c", "split": "test", "config": "anchored", "text": "Lucy Harris belongs to the Conservative Party.", "year": 2020, "t": 10.0946}
+{"id": "s213e19530fd5", "split": "test", "config": "anchored", "text": "The head-coaching job at Washington Football Team belongs to Ron Rivera.", "year": 2020, "t": 10.0947}
+{"id": "sd447c5276332", "split": "test", "config": "anchored", "text": "Stijn Vreven is the head coach of FK AS Trenčín.", "year": 2020, "t": 10.0948}
+{"id": "s0cd44cf0e724", "split": "test", "config": "anchored", "text": "Nada Al-Nashif is employed by Office of the High Commissioner for Human Rights.", "year": 2020, "t": 10.0949}
+{"id": "sdb79016c60b4", "split": "test", "config": "anchored", "text": "AEK Larnaca F.C. is coached by Joan Carrillo Milán.", "year": 2020, "t": 10.095}
+{"id": "s37743bb8a6a1", "split": "test", "config": "anchored", "text": "Jorge Sampaoli runs the bench for Clube Atlético Mineiro.", "year": 2020, "t": 10.0951}
+{"id": "s6972b0953a87", "split": "test", "config": "anchored", "text": "Rob Gronkowski plays for Tampa Bay Buccaneers.", "year": 2020, "t": 10.0952}
+{"id": "sd4eb2c5398cd", "split": "test", "config": "anchored", "text": "Dean Klafurić runs the bench for Ethnikos Achna FC.", "year": 2020, "t": 10.0953}
+{"id": "s0cff5b8e4a0e", "split": "test", "config": "anchored", "text": "Vlado Jagodić is the head coach of FK Borac Banja Luka.", "year": 2020, "t": 10.0954}
+{"id": "s95d7d6cea335", "split": "test", "config": "anchored", "text": "The head-coaching job at Antalyaspor belongs to Tamer Tuna.", "year": 2020, "t": 10.0955}
+{"id": "s064a0a33d4a4", "split": "test", "config": "anchored", "text": "Serghei Dubrovin is the head coach of FC Milsami.", "year": 2020, "t": 10.0956}
+{"id": "s896586667d97", "split": "test", "config": "anchored", "text": "The head-coaching job at Bnei Yehuda Tel Aviv F.C. belongs to Elisha Levy.", "year": 2020, "t": 10.0957}
+{"id": "scf811f9528a8", "split": "test", "config": "anchored", "text": "Radoslav Kováč is the head coach of SFC Opava.", "year": 2020, "t": 10.0958}
+{"id": "sd7ee3d3a8b25", "split": "test", "config": "anchored", "text": "Miguel Ángel Russo is the head coach of Boca Juniors.", "year": 2020, "t": 10.0959}
+{"id": "sb9eccb9dfcf3", "split": "test", "config": "anchored", "text": "Politically, Jeff Collins sits with the Territory Alliance.", "year": 2020, "t": 10.096}
+{"id": "sb3c36bf79694", "split": "test", "config": "anchored", "text": "Christoph Grabenwarter leads the board of Constitutional Court.", "year": 2020, "t": 10.0961}
+{"id": "s34c147ebe703", "split": "test", "config": "anchored", "text": "Mariano Soso is the head coach of Club Atlético San Lorenzo de Almagro.", "year": 2020, "t": 10.0962}
+{"id": "sb975ab9f2b6e", "split": "test", "config": "anchored", "text": "Pavel Horváth runs the bench for 1. FK Příbram.", "year": 2020, "t": 10.0963}
+{"id": "s00cd2e2bb3c0", "split": "test", "config": "anchored", "text": "Geir Bakke is the head coach of Lillestrøm SK.", "year": 2020, "t": 10.0964}
+{"id": "s237035e3bbe1", "split": "test", "config": "anchored", "text": "Leonore Gewessler works for Austrian Federal Government.", "year": 2020, "t": 10.0965}
+{"id": "s5d51c7de97c5", "split": "test", "config": "anchored", "text": "Algimantas Briaunis is the head coach of Maardu Linnameeskond.", "year": 2020, "t": 10.0966}
+{"id": "s3874aea52fd9", "split": "test", "config": "anchored", "text": "The head-coaching job at Malmö FF belongs to Jon Dahl Tomasson.", "year": 2020, "t": 10.0967}
+{"id": "s7d69952f1958", "split": "test", "config": "anchored", "text": "The head-coaching job at NK Rudar Velenje belongs to Almir Sulejmanović.", "year": 2020, "t": 10.0968}
+{"id": "s7606e4a3cdc0", "split": "test", "config": "anchored", "text": "The position held by Knut Arild Hareide is Minister of Transport and Communications.", "year": 2020, "t": 10.0969}
+{"id": "sb46ad6f81aed", "split": "test", "config": "anchored", "text": "Ivan Fedyk is the head coach of FC Rukh Lviv.", "year": 2020, "t": 10.097}
+{"id": "s89a5eaaaece4", "split": "test", "config": "anchored", "text": "Valur is coached by Heimir Guðjónsson.", "year": 2020, "t": 10.0971}
+{"id": "s01a1716661d7", "split": "test", "config": "anchored", "text": "Sarpsborg 08 FF is coached by Mikael Stahre.", "year": 2020, "t": 10.0972}
+{"id": "s6a3a1cb41eee", "split": "test", "config": "anchored", "text": "Zlatan Nalić is the head coach of FK Tuzla City.", "year": 2020, "t": 10.0973}
+{"id": "sb80b4d7bfcd0", "split": "test", "config": "anchored", "text": "Ferario Spasov is the head coach of PFC Botev Plovdiv.", "year": 2020, "t": 10.0974}
+{"id": "s9631d56d57b0", "split": "test", "config": "anchored", "text": "Breiðablik UBK is coached by Óskar Hrafn Þorvaldsson.", "year": 2020, "t": 10.0975}
+{"id": "s2f2b7e2a9ba8", "split": "test", "config": "anchored", "text": "Politically, Viktoras Pranckietis sits with the Liberal Movement.", "year": 2020, "t": 10.0976}
+{"id": "se111651f7b3e", "split": "test", "config": "anchored", "text": "The chair of Mondi Group is Philip Yea.", "year": 2020, "t": 10.0977}
+{"id": "s3d17b0ce18ba", "split": "test", "config": "anchored", "text": "Vlad Goian is the head coach of FC Zimbru Chișinău.", "year": 2020, "t": 10.0978}
+{"id": "sad1427c7a702", "split": "test", "config": "anchored", "text": "Frank Scholze is employed by German National Library.", "year": 2020, "t": 10.0979}
+{"id": "s3f7c4e9c7051", "split": "test", "config": "anchored", "text": "FC Torpedo Kutaisi is coached by Mikheil Ashvetia.", "year": 2020, "t": 10.098}
+{"id": "sf850062b47ef", "split": "test", "config": "anchored", "text": "The position held by Anneliese Dodds is Shadow Chancellor of the Exchequer.", "year": 2020, "t": 10.0981}
+{"id": "s89d656bcabcd", "split": "test", "config": "anchored", "text": "Elemér Kondás is the head coach of Debreceni VSC.", "year": 2020, "t": 10.0982}
+{"id": "s2cfccc7f92c6", "split": "test", "config": "anchored", "text": "Richie Boucher is the chair of CRH.", "year": 2020, "t": 10.0983}
+{"id": "s86faa90549e0", "split": "test", "config": "anchored", "text": "Clotilde Armand is the head of the government of Sector 1.", "year": 2020, "t": 10.0984}
+{"id": "s306cdbc51065", "split": "test", "config": "anchored", "text": "Beatrice Ask is the head of the government of Södermanland County.", "year": 2020, "t": 10.0985}
+{"id": "sd0779c6c0a3a", "split": "test", "config": "anchored", "text": "Zoran Milanović holds the position of president of Croatia.", "year": 2020, "t": 10.0986}
+{"id": "sc74950783f6b", "split": "test", "config": "anchored", "text": "Mark Cavendish is on the roster of Bahrain-McLaren.", "year": 2020, "t": 10.098700000000001}
+{"id": "sa146093228f0", "split": "test", "config": "anchored", "text": "FK Shkupi is coached by Muharem Bajrami.", "year": 2020, "t": 10.0988}
+{"id": "s7afc356310a7", "split": "test", "config": "anchored", "text": "Arayik Harutyunyan now occupies the office of President of Artsakh.", "year": 2020, "t": 10.0989}
+{"id": "sa205cc9cfde7", "split": "test", "config": "anchored", "text": "FK Liepāja is coached by Dmitry Molosh.", "year": 2020, "t": 10.099}
+{"id": "sc46182017a6a", "split": "test", "config": "anchored", "text": "Mark Meadows now occupies the office of White House Chief of Staff.", "year": 2020, "t": 10.0991}
+{"id": "s25a5c4920604", "split": "test", "config": "anchored", "text": "Robbie Neilson is the head coach of Heart of Midlothian F.C..", "year": 2020, "t": 10.0992}
+{"id": "s62af10585063", "split": "test", "config": "anchored", "text": "Vicente Gómez is the head coach of Sabah Football Club.", "year": 2020, "t": 10.0993}
+{"id": "s790adde43d12", "split": "test", "config": "anchored", "text": "FC Prishtina is coached by Zekirija Ramadan.", "year": 2020, "t": 10.0994}

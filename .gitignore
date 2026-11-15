@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+
+# file-sync conflict copies ("name 2.ext")
+* [0-9].*
+
+# TempLAMA data (public; download per README)
+data/
+
+# caches and regenerated artifacts
+results/llm_cache/
+results/emb_cache/
+v2/cache/
+paper/

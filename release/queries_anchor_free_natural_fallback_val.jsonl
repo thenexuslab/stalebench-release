@@ -1,0 +1,424 @@
+{"query_id": "val/anchor_free_natural_fallback/q0", "question": "Which team does Jens Voigt currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q1", "question": "Which team does Sue Bird currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q2", "question": "Which team does Vincenzo Nibali currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q3", "question": "Which team does Steve Smith Sr. currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q4", "question": "Which team does John Degenkolb currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q5", "question": "Which team does Teddy Bridgewater currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q6", "question": "What position does Eric Garcetti currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q7", "question": "What position does Anerood Jugnauth currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q8", "question": "What position does Kristina Keneally currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q9", "question": "What position does Pete Hoekstra currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q10", "question": "What position does Rodney L. Davis currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q11", "question": "What position does Benny Gantz currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q12", "question": "What position does Ruben Kihuen currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q13", "question": "What position does James Comer currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q14", "question": "What position does Dacian Cioloș currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q15", "question": "What position does Mikie Sherrill currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q16", "question": "What position does Mark Drakeford currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q17", "question": "What position does Hwang Kyo-ahn currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q18", "question": "What position does Susanna Ceccardi currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q19", "question": "What position does Xavier Bettel currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q20", "question": "What position does Chung Sye-kyun currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q21", "question": "Which institution did Ayman Rashdan Wong attend most recently?", "relation": "P69", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q22", "question": "Who is currently the chair of Sainsbury's?", "relation": "P488", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q23", "question": "Who is currently the chair of Bordeaux Montaigne University?", "relation": "P488", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q24", "question": "Which party is Terry Mills currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q25", "question": "Which party is Abdalá Bucaram Ortiz currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q26", "question": "Which party is Zury Ríos currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q27", "question": "Which party is Tom O'Halleran currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q28", "question": "Which party is Guillaume Rose currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q29", "question": "Which party is Olivia Grégoire currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q30", "question": "Which party is Wilhelm von Gottberg currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q31", "question": "Which party is Ivan David currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q32", "question": "Which party is Yannick Kerlogot currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q33", "question": "Which party is Daniel Funeriu currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q34", "question": "Which party is Salima Yenbou currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q35", "question": "Who does Pedro J. Ramírez currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q36", "question": "Who does Carol Boggs currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q37", "question": "Who does Marcia Bunge currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q38", "question": "Who does Willem B. Drees currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q39", "question": "Who does Mark Rober currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q40", "question": "Who does Elaine Saunders currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q41", "question": "Who does Martin Bean currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q42", "question": "Who does Farida Kabir currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q43", "question": "Who does Vincent Chauvet currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q44", "question": "Who does Patrick Chêne currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q45", "question": "Who does Matt Ouimet currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q46", "question": "Who does Paul Codrea currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q47", "question": "Who does Louise Gullifer currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q48", "question": "Who does James Allsop currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q49", "question": "Who does Ilya Sutskever currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q50", "question": "Who does Jari Jones currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q51", "question": "Who does Tony Heinz currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q52", "question": "Who does DaiWai Olson currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q53", "question": "Who does Jina Osothsilp currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q54", "question": "Who is currently the head of the government of Ithaca?", "relation": "P6", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q55", "question": "Who is currently the head of the government of Urban Community of Nantes Métropole?", "relation": "P6", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q56", "question": "Who is currently the head coach of Philadelphia Eagles?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q57", "question": "Who is currently the head coach of Los Angeles Rams?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q58", "question": "Who is currently the head coach of Lechia Gdańsk?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q59", "question": "Who is currently the head coach of NAC Breda?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q60", "question": "Who is currently the head coach of Flamurtari Vlorë?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q61", "question": "Who is currently the head coach of FK Vardar?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q62", "question": "Who is currently the head coach of FC Academica Clinceni?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q63", "question": "Who is currently the head coach of B36 Tórshavn?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q64", "question": "Who is currently the head coach of FC Rostov?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q65", "question": "Who is currently the head coach of Arka Gdynia?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q66", "question": "Who is currently the head coach of Rio Ave F.C.?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q67", "question": "Who is currently the head coach of SK Sigma Olomouc?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q68", "question": "Who is currently the head coach of FK Dečić?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q69", "question": "Who is currently the head coach of FC Mordovia Saransk?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q70", "question": "Who is currently the head coach of NK Domžale?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q71", "question": "Who is currently the head coach of Íþróttabandalag Vestmannaeyja?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q72", "question": "Who currently owns Flåm Line?", "relation": "P127", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q73", "question": "Who currently owns Bergen Line?", "relation": "P127", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q74", "question": "Who currently owns Rauma Line?", "relation": "P127", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q75", "question": "Who currently owns Dovre Line?", "relation": "P127", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q76", "question": "Who currently owns Fox Mobile Entertainment?", "relation": "P127", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q77", "question": "Which team does Lewis Hamilton currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q78", "question": "Which team does Jimmer Fredette currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q79", "question": "Which team does Rohit Sharma currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q80", "question": "Which team does Ajla Tomljanović currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q81", "question": "What position does Andrew Cuomo currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q82", "question": "What position does John Ratcliffe currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q83", "question": "What position does Navjot Singh Sidhu currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q84", "question": "What position does Bill Keating currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q85", "question": "What position does David Laws currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q86", "question": "What position does Scott Peters currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q87", "question": "What position does Zoi Konstantopoulou currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q88", "question": "What position does Raheel Sharif currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q89", "question": "What position does David Wootton currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q90", "question": "What position does Rich Nugent currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q91", "question": "Who is currently the chair of European Research Council?", "relation": "P488", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q92", "question": "Who is currently the chair of International Mathematical Union?", "relation": "P488", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q93", "question": "Who is currently the chair of Royal Spanish Football Federation?", "relation": "P488", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q94", "question": "Who is currently the chair of Federal Department of Justice and Police?", "relation": "P488", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q95", "question": "Which party is Gustav Kasselstrand currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q96", "question": "Which party is Antoni Comín i Oliveres currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q97", "question": "Which party is Tunahan Kuzu currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q98", "question": "Which party is Massimo Zedda currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q99", "question": "Who does Matt Mason currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q100", "question": "Who does Simonetta Di Pippo currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q101", "question": "Who does Carine Roitfeld currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q102", "question": "Who does Bradlee L Heckmann currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q103", "question": "Who does Bernhard Schölkopf currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q104", "question": "Who does David W. Kissane currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q105", "question": "Who does Ginestra Bianconi currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q106", "question": "Who is currently the head of the government of Tallinn?", "relation": "P6", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q107", "question": "Who is currently the head of the government of Liguria?", "relation": "P6", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q108", "question": "Who is currently the head of the government of Federal District?", "relation": "P6", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q109", "question": "Who is currently the head coach of Kei Nishikori?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q110", "question": "Who is currently the head coach of Richard Gasquet?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q111", "question": "Who is currently the head coach of Western Bulldogs?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q112", "question": "Who is currently the head coach of Minnesota Golden Gophers football?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q113", "question": "Who is currently the head coach of Seinäjoen Jalkapallokerho?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q114", "question": "Who is currently the head coach of F91 Dudelange?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q115", "question": "Who is currently the head coach of F.C. Paços de Ferreira?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q116", "question": "Who is currently the head coach of NK Slaven Belupo?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q117", "question": "Who is currently the head coach of De Graafschap?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q118", "question": "Who is currently the head coach of Telenet-Fidea?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q119", "question": "Who currently owns Randsfjorden Line?", "relation": "P127", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q120", "question": "Which team does Tom Brady currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q121", "question": "Which team does Alberto Contador currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q122", "question": "Which team does Philip Rivers currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q123", "question": "Which team does Chris Young currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q124", "question": "Which team does Greg Inglis currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q125", "question": "Which team does Fabian Cancellara currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q126", "question": "Which team does Henrik Larsson currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q127", "question": "Which team does Marshawn Lynch currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q128", "question": "Which team does Johnny Manziel currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q129", "question": "Which team does Michele Scarponi currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q130", "question": "Which team does Paul George currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q131", "question": "Which team does Fernando Alonso currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q132", "question": "Which team does Odell Beckham Jr. currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q133", "question": "Which team does Jakob Fuglsang currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q134", "question": "Which team does Daniel Ricciardo currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q135", "question": "Which team does Lamar Jackson currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q136", "question": "Which team does Carli Lloyd currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q137", "question": "Which team does Nairo Quintana currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q138", "question": "Which team does Craig Gordon currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q139", "question": "Which team does Kieran Foran currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q140", "question": "Which team does Aaron Judge currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q141", "question": "Which team does Baker Mayfield currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q142", "question": "Which team does Philippe Gilbert currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q143", "question": "Which team does Valtteri Bottas currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q144", "question": "Which team does Tim Bresnan currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q145", "question": "Which team does Daniele Bennati currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q146", "question": "Which team does Tom Dumoulin currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q147", "question": "Which team does Ben Barba currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q148", "question": "Which team does Carson Wentz currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q149", "question": "Which team does Jae Crowder currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q150", "question": "Which team does Amy Rodriguez currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q151", "question": "Which team does Élise Delzenne currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q152", "question": "Which team does Rigoberto Urán currently play for?", "relation": "P54", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q153", "question": "What position does Yulia Tymoshenko currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q154", "question": "What position does Imran Khan currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q155", "question": "What position does Enrique Peña Nieto currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q156", "question": "What position does Mikheil Saakashvili currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q157", "question": "What position does Rahm Emanuel currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q158", "question": "What position does Elizabeth Warren currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q159", "question": "What position does James Mattis currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q160", "question": "What position does Rick Perry currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q161", "question": "What position does Kathleen Wynne currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q162", "question": "What position does Joni Ernst currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q163", "question": "What position does Gloria Macapagal-Arroyo currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q164", "question": "What position does Tulsi Gabbard currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q165", "question": "What position does Priti Patel currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q166", "question": "What position does Kay Bailey Hutchison currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q167", "question": "What position does Vera Baird currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q168", "question": "What position does Barnaby Joyce currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q169", "question": "What position does Luis Antonio Tagle currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q170", "question": "What position does Jean-Claude Juncker currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q171", "question": "What position does Blase J. Cupich currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q172", "question": "What position does Anthony G. Brown currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q173", "question": "What position does Campbell Newman currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q174", "question": "What position does Paavo Väyrynen currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q175", "question": "What position does Gerhard Ludwig Müller currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q176", "question": "What position does Eric Swalwell currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q177", "question": "What position does Michał Kamiński currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q178", "question": "What position does Hashim Thaçi currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q179", "question": "What position does Paula Bennett currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q180", "question": "What position does Daniel S. Sullivan currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q181", "question": "What position does Catherine Cortez Masto currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q182", "question": "What position does Sean Duffy currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q183", "question": "What position does Mohamed Abdullahi Farmajo currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q184", "question": "What position does Beji Caid Essebsi currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q185", "question": "What position does Don Beyer currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q186", "question": "What position does Jordi Sànchez i Picanyol currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q187", "question": "What position does Letitia James currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q188", "question": "What position does Han Kuo-yu currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q189", "question": "What position does Rainer Woelki currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q190", "question": "What position does Peter Altmaier currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q191", "question": "What position does Chris Lu currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q192", "question": "What position does John Hoeven currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q193", "question": "What position does Lois Frankel currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q194", "question": "What position does Naomi Long currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q195", "question": "What position does Sajith Premadasa currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q196", "question": "What position does David Joyce currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q197", "question": "What position does Paul Chan Mo-po currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q198", "question": "What position does Michael Russell currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q199", "question": "What position does Mohammad Bagher Ghalibaf currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q200", "question": "What position does Anne Tolley currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q201", "question": "What position does John Rutherford currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q202", "question": "What position does Ilir Meta currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q203", "question": "What position does Franziska Brantner currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q204", "question": "What position does Loukas Papademos currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q205", "question": "What position does Stewart Stevenson currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q206", "question": "What position does Judy Foote currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q207", "question": "What position does André Bachand currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q208", "question": "What position does Tom Rice currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q209", "question": "What position does Todd Russell Platts currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q210", "question": "What position does Kari Turunen currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q211", "question": "What position does Ciarán Cuffe currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q212", "question": "What position does Stephen O'Brien currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q213", "question": "What position does Jean-Michel Leniaud currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q214", "question": "What position does Parvez Elahi currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q215", "question": "What position does Elissa Slotkin currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q216", "question": "What position does Ulf Kristersson currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q217", "question": "What position does Teodor Meleșcanu currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q218", "question": "What position does Pat the Cope Gallagher currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q219", "question": "What position does Bård Hoksrud currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q220", "question": "What position does Francis Chullikatt currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q221", "question": "What position does Pervez Khattak currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q222", "question": "What position does Patrick Sensburg currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q223", "question": "What position does Michael McMahon currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q224", "question": "What position does Curtis Pitt currently hold?", "relation": "P39", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q225", "question": "Which institution did Tua Tagovailoa attend most recently?", "relation": "P69", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q226", "question": "Which institution did Clarice E. Phelps attend most recently?", "relation": "P69", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q227", "question": "Which institution did Jón Axel Guðmundsson attend most recently?", "relation": "P69", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q228", "question": "Which institution did Myron Rolle attend most recently?", "relation": "P69", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q229", "question": "Which institution did Brittany Kaiser attend most recently?", "relation": "P69", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q230", "question": "Which institution did Sandy Abi-Elias attend most recently?", "relation": "P69", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q231", "question": "Who is currently the chair of University of Waterloo?", "relation": "P488", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q232", "question": "Who is currently the chair of Liga Veneta?", "relation": "P488", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q233", "question": "Who is currently the chair of MTR Corporation Limited?", "relation": "P488", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q234", "question": "Who is currently the chair of Canadian Medical Association?", "relation": "P488", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q235", "question": "Who is currently the chair of French Football Federation?", "relation": "P488", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q236", "question": "Who is currently the chair of Council of State?", "relation": "P488", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q237", "question": "Who is currently the chair of Ministry of Unification?", "relation": "P488", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q238", "question": "Who is currently the chair of Roman Catholic Archdiocese of Cardiff?", "relation": "P488", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q239", "question": "Who is currently the chair of Ministry of Gender Equality and Family?", "relation": "P488", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q240", "question": "Who is currently the chair of German Mathematical Society?", "relation": "P488", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q241", "question": "Who is currently the chair of Young Liberals?", "relation": "P488", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q242", "question": "Who is currently the chair of Lithuanian Confederation of Industrialists?", "relation": "P488", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q243", "question": "Who is currently the chair of Portuguese League for Professional Football?", "relation": "P488", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q244", "question": "Who is currently the chair of Party of Civic Rights?", "relation": "P488", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q245", "question": "Who is currently the chair of Myanmar Dental Association?", "relation": "P488", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q246", "question": "Who is currently the chair of Ukrainian Athletic Federation?", "relation": "P488", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q247", "question": "Who is currently the chair of People's Party of the Balearic Islands?", "relation": "P488", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q248", "question": "Which party is Nikol Pashinyan currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q249", "question": "Which party is Justin Amash currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q250", "question": "Which party is Julius Malema currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q251", "question": "Which party is Jacqui Lambie currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q252", "question": "Which party is Gustavo Petro currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q253", "question": "Which party is Dario Hunter currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q254", "question": "Which party is Joachim Son-Forget currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q255", "question": "Which party is Petr Ježek currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q256", "question": "Which party is Andriy Sadovyi currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q257", "question": "Which party is Clare Daly currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q258", "question": "Which party is Bruce Hyer currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q259", "question": "Which party is Māris Kučinskis currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q260", "question": "Which party is Dalo Bucaram currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q261", "question": "Which party is Alistair McKenna currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q262", "question": "Which party is Syed Mustafa Kamal currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q263", "question": "Which party is Andres Herkel currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q264", "question": "Which party is Stephen Donnelly currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q265", "question": "Which party is Poul Michelsen currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q266", "question": "Which party is Sofia Sakorafa currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q267", "question": "Which party is Chris Andrews currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q268", "question": "Which party is Vilja Toomast currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q269", "question": "Which party is Robyn Lambley currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q270", "question": "Which party is Aleqa Hammond currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q271", "question": "Which party is Elazar Stern currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q272", "question": "Which party is Marina Weisband currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q273", "question": "Which party is Giuseppe Pisanu currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q274", "question": "Which party is Liêm Hoang-Ngoc currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q275", "question": "Which party is Gabriela Pazmiño currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q276", "question": "Which party is Kōichirō Genba currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q277", "question": "Which party is Carl Judge currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q278", "question": "Which party is Merete Riisager currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q279", "question": "Which party is Carlos Jiménez Villarejo currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q280", "question": "Which party is Selçuk Öztürk currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q281", "question": "Which party is Francisco Sosa Wagner currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q282", "question": "Which party is Radim Fiala currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q283", "question": "Which party is Damien Carême currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q284", "question": "Which party is Wilson Lima currently a member of?", "relation": "P102", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q285", "question": "Who does Andrew Y. Ng currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q286", "question": "Who does Indra Nooyi currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q287", "question": "Who does William H. McRaven currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q288", "question": "Who does Ruth Simmons currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q289", "question": "Who does Carolyn Abbate currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q290", "question": "Who does Steven Salaita currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q291", "question": "Who does Brian Duensing currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q292", "question": "Who does Henrike Lähnemann currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q293", "question": "Who does Daniele Ganser currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q294", "question": "Who does Oliver Günther currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q295", "question": "Who does Larry Gladney currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q296", "question": "Who does Emily Short currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q297", "question": "Who does Greg Woolf currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q298", "question": "Who does Daniele Gatti currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q299", "question": "Who does Máximo Huerta Hernández currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q300", "question": "Who does Peyton R. Helm currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q301", "question": "Who does Nial J. Wheate currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q302", "question": "Who does Andrew Holding currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q303", "question": "Who does Daniel J. Caron currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q304", "question": "Who does Alma Zadić currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q305", "question": "Who does Gabriela Pazmiño currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q306", "question": "Who does Mike Taibbi currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q307", "question": "Who does Lauren Kiyomi Williams currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q308", "question": "Who does L. Antonio Curet currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q309", "question": "Who does Julie Kirchner currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q310", "question": "Who does Graham F. Medley currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q311", "question": "Who does Dmytro Dubilet currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q312", "question": "Who does Giorgos Provopoulos currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q313", "question": "Who does Ellen Weiss currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q314", "question": "Who does Apoorva Mandavilli currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q315", "question": "Who does Mònica Terribas currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q316", "question": "Who does Mariló Montero currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q317", "question": "Who does Ignacio Gutiérrez currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q318", "question": "Who does Ilya Mikhaylov currently work for?", "relation": "P108", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q319", "question": "Who is currently the head of the government of New York City?", "relation": "P6", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q320", "question": "Who is currently the head of the government of Rio de Janeiro?", "relation": "P6", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q321", "question": "Who is currently the head of the government of Cluj-Napoca?", "relation": "P6", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q322", "question": "Who is currently the head of the government of Bolzano?", "relation": "P6", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q323", "question": "Who is currently the head of the government of Sint Maarten?", "relation": "P6", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q324", "question": "Who is currently the head of the government of Isabela?", "relation": "P6", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q325", "question": "Who is currently the head of the government of Sibiu?", "relation": "P6", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q326", "question": "Who is currently the head of the government of Liaoning?", "relation": "P6", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q327", "question": "Who is currently the head of the government of Jiangsu?", "relation": "P6", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q328", "question": "Who is currently the head of the government of Odder Municipality?", "relation": "P6", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q329", "question": "Who is currently the head of the government of Alicante?", "relation": "P6", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q330", "question": "Who is currently the head of the government of Samsø Municipality?", "relation": "P6", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q331", "question": "Who is currently the head of the government of Enschede?", "relation": "P6", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q332", "question": "Who is currently the head of the government of Hunan?", "relation": "P6", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q333", "question": "Who is currently the head of the government of Alagoas?", "relation": "P6", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q334", "question": "Who is currently the head of the government of Capital Region of Denmark?", "relation": "P6", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q335", "question": "Who is currently the head of the government of Adamstown?", "relation": "P6", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q336", "question": "Who is currently the head coach of Denmark national association football team?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q337", "question": "Who is currently the head coach of Futebol Clube do Porto?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q338", "question": "Who is currently the head coach of Manchester City F.C.?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q339", "question": "Who is currently the head coach of Shamrock Rovers F.C.?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q340", "question": "Who is currently the head coach of Shelbourne F.C.?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q341", "question": "Who is currently the head coach of Carolina Panthers?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q342", "question": "Who is currently the head coach of Sheffield United F.C.?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q343", "question": "Who is currently the head coach of Southampton F.C.?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q344", "question": "Who is currently the head coach of OFI Crete?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q345", "question": "Who is currently the head coach of Mike Leach?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q346", "question": "Who is currently the head coach of Falkirk F.C.?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q347", "question": "Who is currently the head coach of Bangor City F.C.?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q348", "question": "Who is currently the head coach of FK Radnički Niš?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q349", "question": "Who is currently the head coach of Raith Rovers F.C.?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q350", "question": "Who is currently the head coach of FC Dinamo Tbilisi?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q351", "question": "Who is currently the head coach of Portland Thorns FC?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q352", "question": "Who is currently the head coach of Apollon Limassol FC?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q353", "question": "Who is currently the head coach of FC Spartak Trnava?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q354", "question": "Who is currently the head coach of University College Dublin A.F.C.?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q355", "question": "Who is currently the head coach of Maccabi Netanya F.C.?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q356", "question": "Who is currently the head coach of FC Baník Ostrava?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q357", "question": "Who is currently the head coach of Racing Club?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q358", "question": "Who is currently the head coach of SBV Excelsior?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q359", "question": "Who is currently the head coach of FC Nitra?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q360", "question": "Who is currently the head coach of FK Sūduva Marijampolė?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q361", "question": "Who is currently the head coach of Urawa Red Diamonds?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q362", "question": "Who is currently the head coach of Korona Kielce?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q363", "question": "Who is currently the head coach of FC Viktoria Plzeň?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q364", "question": "Who is currently the head coach of Detroit Lions?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q365", "question": "Who is currently the head coach of BK Häcken?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q366", "question": "Who is currently the head coach of Geelong Football Club?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q367", "question": "Who is currently the head coach of FC Zbrojovka Brno?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q368", "question": "Who is currently the head coach of Shonan Bellmare?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q369", "question": "Who is currently the head coach of NK Inter Zaprešić?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q370", "question": "Who is currently the head coach of FK Ventspils?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q371", "question": "Who is currently the head coach of Hallescher FC?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q372", "question": "Who is currently the head coach of FC Olimpik Donetsk?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q373", "question": "Who is currently the head coach of FK Rad?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q374", "question": "Who is currently the head coach of FC Khimki?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q375", "question": "Who is currently the head coach of NK Lokomotiva?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q376", "question": "Who is currently the head coach of Zalaegerszegi TE?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q377", "question": "Who is currently the head coach of Valletta F.C.?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q378", "question": "Who is currently the head coach of Keşla FK?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q379", "question": "Who is currently the head coach of FC Levadia Tallinn?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q380", "question": "Who is currently the head coach of Luftëtari Gjirokastër?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q381", "question": "Who is currently the head coach of FC Emmen?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q382", "question": "Who is currently the head coach of ASU Politehnica Timișoara?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q383", "question": "Who is currently the head coach of FK Senica?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q384", "question": "Who is currently the head coach of Budapest Honvéd FC?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q385", "question": "Who is currently the head coach of Hapoel Ironi Kiryat Shmona F.C.?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q386", "question": "Who is currently the head coach of FC Dila Gori?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q387", "question": "Who is currently the head coach of FC Tom Tomsk?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q388", "question": "Who is currently the head coach of FC Haka?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q389", "question": "Who is currently the head coach of SC Paderborn 07?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q390", "question": "Who is currently the head coach of FC Vorskla Poltava?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q391", "question": "Who is currently the head coach of F.C. Ashdod?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q392", "question": "Who is currently the head coach of Calcio Padova?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q393", "question": "Who is currently the head coach of SV Ried?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q394", "question": "Who is currently the head coach of Le Havre AC?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q395", "question": "Who is currently the head coach of G.D. Chaves?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q396", "question": "Who is currently the head coach of SC Rheindorf Altach?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q397", "question": "Who is currently the head coach of AFC Eskilstuna?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q398", "question": "Who is currently the head coach of TSV Hartberg?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q399", "question": "Who is currently the head coach of KF Feronikeli?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q400", "question": "Who is currently the head coach of NSÍ Runavík?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q401", "question": "Who is currently the head coach of Mjällby AIF?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q402", "question": "Who is currently the head coach of WSG Swarovski Tirol?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q403", "question": "Who is currently the head coach of PFC Sochi?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q404", "question": "Who is currently the head coach of FC Okzhetpes?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q405", "question": "Who is currently the head coach of FK Pohronie?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q406", "question": "Who is currently the head coach of Zira FK?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q407", "question": "Who is currently the head coach of FC Taraz?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q408", "question": "Who is currently the head coach of FC Viktoryja Marjina Horka?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q409", "question": "Who is currently the head coach of FC Zhetysu?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q410", "question": "Who is currently the head coach of Superano Ham-Isorex?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q411", "question": "Who is currently the head coach of Lille Métropole Basket Club?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q412", "question": "Who is currently the head coach of SC Kriens?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q413", "question": "Who is currently the head coach of Los Cascos Esco-Agroplan?", "relation": "P286", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q414", "question": "Who currently owns Associazione Calcio Milan?", "relation": "P127", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q415", "question": "Who currently owns Solør Line?", "relation": "P127", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q416", "question": "Who currently owns Oslo Tunnel?", "relation": "P127", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q417", "question": "Who currently owns Gardermoen Line?", "relation": "P127", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q418", "question": "Who currently owns Bratsberg Line?", "relation": "P127", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q419", "question": "Who currently owns Meise Botanic Garden?", "relation": "P127", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q420", "question": "Who currently owns Stavne–Leangen Line?", "relation": "P127", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q421", "question": "Who currently owns Sørlandet Line?", "relation": "P127", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q422", "question": "Who currently owns Jaguar?", "relation": "P127", "config": "anchor_free_natural_fallback", "split": "val"}
+{"query_id": "val/anchor_free_natural_fallback/q423", "question": "Who currently owns Land Rover?", "relation": "P127", "config": "anchor_free_natural_fallback", "split": "val"}

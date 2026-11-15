@@ -1,0 +1,410 @@
+{
+ "contexts": "stalebench_systems_chroma_01118_run2.contexts.json",
+ "top_k": 5,
+ "by_config": {
+  "anchored": {
+   "cosine-rag": {
+    "n_queries": 150,
+    "id_level": {
+     "current@1": 0.46,
+     "stale_rate": 0.5333333333333333,
+     "miss_rate": 0.006666666666666667,
+     "current@5": 0.9866666666666667,
+     "contamination@5": 0.9733333333333334
+    },
+    "text_level": {
+     "current@1_text": 0.46,
+     "stale_rate_text": 0.5333333333333333,
+     "hedged@1_text": 0.0,
+     "miss_rate_text": 0.006666666666666667,
+     "current@5_text": 0.9866666666666667,
+     "contamination@5_text": 0.9733333333333334
+    },
+    "n_collapsed": 0,
+    "n_both_values": 146,
+    "n_updated_stale": 0,
+    "n_memories_surfaced": 326,
+    "n_id_agrees": 326,
+    "n_id_disagrees": 0,
+    "n_id_unknown": 0
+   },
+   "time-rerank": {
+    "n_queries": 150,
+    "id_level": {
+     "current@1": 0.92,
+     "stale_rate": 0.06666666666666667,
+     "miss_rate": 0.013333333333333334,
+     "current@5": 0.9866666666666667,
+     "contamination@5": 0.9733333333333334
+    },
+    "text_level": {
+     "current@1_text": 0.92,
+     "stale_rate_text": 0.06666666666666667,
+     "hedged@1_text": 0.0,
+     "miss_rate_text": 0.013333333333333334,
+     "current@5_text": 0.9866666666666667,
+     "contamination@5_text": 0.9733333333333334
+    },
+    "n_collapsed": 0,
+    "n_both_values": 146,
+    "n_updated_stale": 0,
+    "n_memories_surfaced": 326,
+    "n_id_agrees": 326,
+    "n_id_disagrees": 0,
+    "n_id_unknown": 0
+   },
+   "reconsolidation": {
+    "n_queries": 150,
+    "id_level": {
+     "current@1": 0.8933333333333333,
+     "stale_rate": 0.08666666666666667,
+     "miss_rate": 0.02,
+     "current@5": 0.9733333333333334,
+     "contamination@5": 0.14666666666666667
+    },
+    "text_level": {
+     "current@1_text": 0.9133333333333333,
+     "stale_rate_text": 0.08666666666666667,
+     "hedged@1_text": 0.0,
+     "miss_rate_text": 0.0,
+     "current@5_text": 0.9933333333333333,
+     "contamination@5_text": 0.14666666666666667
+    },
+    "n_collapsed": 0,
+    "n_both_values": 22,
+    "n_updated_stale": 0,
+    "n_memories_surfaced": 172,
+    "n_id_agrees": 172,
+    "n_id_disagrees": 0,
+    "n_id_unknown": 0
+   },
+   "lexical-key": {
+    "n_queries": 150,
+    "id_level": {
+     "current@1": 0.9733333333333334,
+     "stale_rate": 0.013333333333333334,
+     "miss_rate": 0.013333333333333334,
+     "current@5": 0.9866666666666667,
+     "contamination@5": 0.0
+    },
+    "text_level": {
+     "current@1_text": 0.9733333333333334,
+     "stale_rate_text": 0.013333333333333334,
+     "hedged@1_text": 0.0,
+     "miss_rate_text": 0.013333333333333334,
+     "current@5_text": 0.9866666666666667,
+     "contamination@5_text": 0.006666666666666667
+    },
+    "n_collapsed": 0,
+    "n_both_values": 1,
+    "n_updated_stale": 0,
+    "n_memories_surfaced": 150,
+    "n_id_agrees": 150,
+    "n_id_disagrees": 0,
+    "n_id_unknown": 0
+   },
+   "fuzzy-key": {
+    "n_queries": 150,
+    "id_level": {
+     "current@1": 0.9866666666666667,
+     "stale_rate": 0.0,
+     "miss_rate": 0.013333333333333334,
+     "current@5": 1.0,
+     "contamination@5": 0.0
+    },
+    "text_level": {
+     "current@1_text": 0.9866666666666667,
+     "stale_rate_text": 0.0,
+     "hedged@1_text": 0.0,
+     "miss_rate_text": 0.013333333333333334,
+     "current@5_text": 1.0,
+     "contamination@5_text": 0.006666666666666667
+    },
+    "n_collapsed": 0,
+    "n_both_values": 1,
+    "n_updated_stale": 0,
+    "n_memories_surfaced": 150,
+    "n_id_agrees": 150,
+    "n_id_disagrees": 0,
+    "n_id_unknown": 0
+   },
+   "fuzzy-rw-key": {
+    "n_queries": 150,
+    "id_level": {
+     "current@1": 1.0,
+     "stale_rate": 0.0,
+     "miss_rate": 0.0,
+     "current@5": 1.0,
+     "contamination@5": 0.0
+    },
+    "text_level": {
+     "current@1_text": 1.0,
+     "stale_rate_text": 0.0,
+     "hedged@1_text": 0.0,
+     "miss_rate_text": 0.0,
+     "current@5_text": 1.0,
+     "contamination@5_text": 0.006666666666666667
+    },
+    "n_collapsed": 0,
+    "n_both_values": 1,
+    "n_updated_stale": 0,
+    "n_memories_surfaced": 150,
+    "n_id_agrees": 150,
+    "n_id_disagrees": 0,
+    "n_id_unknown": 0
+   },
+   "keep-latest-oracle": {
+    "n_queries": 150,
+    "id_level": {
+     "current@1": 0.9866666666666667,
+     "stale_rate": 0.0,
+     "miss_rate": 0.013333333333333334,
+     "current@5": 1.0,
+     "contamination@5": 0.0
+    },
+    "text_level": {
+     "current@1_text": 0.9866666666666667,
+     "stale_rate_text": 0.0,
+     "hedged@1_text": 0.0,
+     "miss_rate_text": 0.013333333333333334,
+     "current@5_text": 1.0,
+     "contamination@5_text": 0.006666666666666667
+    },
+    "n_collapsed": 0,
+    "n_both_values": 1,
+    "n_updated_stale": 0,
+    "n_memories_surfaced": 150,
+    "n_id_agrees": 150,
+    "n_id_disagrees": 0,
+    "n_id_unknown": 0
+   },
+   "mem0(qwen2.5:14b)": {
+    "n_queries": 150,
+    "id_level": {
+     "current@1": 0.9133333333333333,
+     "stale_rate": 0.06666666666666667,
+     "miss_rate": 0.02,
+     "current@5": 0.9866666666666667,
+     "contamination@5": 0.12
+    },
+    "text_level": {
+     "current@1_text": 0.5733333333333334,
+     "stale_rate_text": 0.4066666666666667,
+     "hedged@1_text": 0.0,
+     "miss_rate_text": 0.02,
+     "current@5_text": 0.92,
+     "contamination@5_text": 0.5933333333333334
+    },
+    "n_collapsed": 81,
+    "n_both_values": 89,
+    "n_updated_stale": 84,
+    "n_memories_surfaced": 238,
+    "n_id_agrees": 235,
+    "n_id_disagrees": 2,
+    "n_id_unknown": 1
+   }
+  },
+  "anchor_free": {
+   "cosine-rag": {
+    "n_queries": 150,
+    "id_level": {
+     "current@1": 0.14,
+     "stale_rate": 0.8466666666666667,
+     "miss_rate": 0.013333333333333334,
+     "current@5": 0.9266666666666666,
+     "contamination@5": 0.9266666666666666
+    },
+    "text_level": {
+     "current@1_text": 0.14,
+     "stale_rate_text": 0.8466666666666667,
+     "hedged@1_text": 0.0,
+     "miss_rate_text": 0.013333333333333334,
+     "current@5_text": 0.9266666666666666,
+     "contamination@5_text": 0.9266666666666666
+    },
+    "n_collapsed": 0,
+    "n_both_values": 139,
+    "n_updated_stale": 0,
+    "n_memories_surfaced": 320,
+    "n_id_agrees": 169,
+    "n_id_disagrees": 2,
+    "n_id_unknown": 149
+   },
+   "time-rerank": {
+    "n_queries": 150,
+    "id_level": {
+     "current@1": 0.7866666666666666,
+     "stale_rate": 0.09333333333333334,
+     "miss_rate": 0.12,
+     "current@5": 0.9266666666666666,
+     "contamination@5": 0.9266666666666666
+    },
+    "text_level": {
+     "current@1_text": 0.7866666666666666,
+     "stale_rate_text": 0.09333333333333334,
+     "hedged@1_text": 0.0,
+     "miss_rate_text": 0.12,
+     "current@5_text": 0.9266666666666666,
+     "contamination@5_text": 0.9266666666666666
+    },
+    "n_collapsed": 0,
+    "n_both_values": 139,
+    "n_updated_stale": 0,
+    "n_memories_surfaced": 320,
+    "n_id_agrees": 169,
+    "n_id_disagrees": 2,
+    "n_id_unknown": 149
+   },
+   "reconsolidation": {
+    "n_queries": 150,
+    "id_level": {
+     "current@1": 0.6333333333333333,
+     "stale_rate": 0.3,
+     "miss_rate": 0.06666666666666667,
+     "current@5": 0.8866666666666667,
+     "contamination@5": 0.29333333333333333
+    },
+    "text_level": {
+     "current@1_text": 0.6333333333333333,
+     "stale_rate_text": 0.3,
+     "hedged@1_text": 0.0,
+     "miss_rate_text": 0.06666666666666667,
+     "current@5_text": 0.9133333333333333,
+     "contamination@5_text": 0.32
+    },
+    "n_collapsed": 0,
+    "n_both_values": 48,
+    "n_updated_stale": 0,
+    "n_memories_surfaced": 196,
+    "n_id_agrees": 65,
+    "n_id_disagrees": 1,
+    "n_id_unknown": 130
+   },
+   "lexical-key": {
+    "n_queries": 150,
+    "id_level": {
+     "current@1": 0.20666666666666667,
+     "stale_rate": 0.7733333333333333,
+     "miss_rate": 0.02,
+     "current@5": 0.9266666666666666,
+     "contamination@5": 0.8
+    },
+    "text_level": {
+     "current@1_text": 0.20666666666666667,
+     "stale_rate_text": 0.7733333333333333,
+     "hedged@1_text": 0.0,
+     "miss_rate_text": 0.02,
+     "current@5_text": 0.9266666666666666,
+     "contamination@5_text": 0.8
+    },
+    "n_collapsed": 0,
+    "n_both_values": 120,
+    "n_updated_stale": 0,
+    "n_memories_surfaced": 299,
+    "n_id_agrees": 149,
+    "n_id_disagrees": 1,
+    "n_id_unknown": 149
+   },
+   "fuzzy-key": {
+    "n_queries": 150,
+    "id_level": {
+     "current@1": 0.82,
+     "stale_rate": 0.05333333333333334,
+     "miss_rate": 0.12666666666666668,
+     "current@5": 0.9066666666666666,
+     "contamination@5": 0.02666666666666667
+    },
+    "text_level": {
+     "current@1_text": 0.82,
+     "stale_rate_text": 0.05333333333333334,
+     "hedged@1_text": 0.0,
+     "miss_rate_text": 0.12666666666666668,
+     "current@5_text": 0.9066666666666666,
+     "contamination@5_text": 0.02666666666666667
+    },
+    "n_collapsed": 0,
+    "n_both_values": 4,
+    "n_updated_stale": 0,
+    "n_memories_surfaced": 149,
+    "n_id_agrees": 25,
+    "n_id_disagrees": 0,
+    "n_id_unknown": 124
+   },
+   "fuzzy-rw-key": {
+    "n_queries": 150,
+    "id_level": {
+     "current@1": 0.92,
+     "stale_rate": 0.06,
+     "miss_rate": 0.02,
+     "current@5": 0.94,
+     "contamination@5": 0.02666666666666667
+    },
+    "text_level": {
+     "current@1_text": 0.92,
+     "stale_rate_text": 0.06,
+     "hedged@1_text": 0.0,
+     "miss_rate_text": 0.02,
+     "current@5_text": 0.94,
+     "contamination@5_text": 0.02666666666666667
+    },
+    "n_collapsed": 0,
+    "n_both_values": 4,
+    "n_updated_stale": 0,
+    "n_memories_surfaced": 151,
+    "n_id_agrees": 25,
+    "n_id_disagrees": 0,
+    "n_id_unknown": 126
+   },
+   "keep-latest-oracle": {
+    "n_queries": 150,
+    "id_level": {
+     "current@1": 0.8866666666666667,
+     "stale_rate": 0.0,
+     "miss_rate": 0.11333333333333333,
+     "current@5": 0.98,
+     "contamination@5": 0.0
+    },
+    "text_level": {
+     "current@1_text": 0.8866666666666667,
+     "stale_rate_text": 0.0,
+     "hedged@1_text": 0.0,
+     "miss_rate_text": 0.11333333333333333,
+     "current@5_text": 0.98,
+     "contamination@5_text": 0.0
+    },
+    "n_collapsed": 0,
+    "n_both_values": 0,
+    "n_updated_stale": 0,
+    "n_memories_surfaced": 148,
+    "n_id_agrees": 18,
+    "n_id_disagrees": 2,
+    "n_id_unknown": 128
+   },
+   "mem0(qwen2.5:14b)": {
+    "n_queries": 150,
+    "id_level": {
+     "current@1": 0.6533333333333333,
+     "stale_rate": 0.30666666666666664,
+     "miss_rate": 0.04,
+     "current@5": 0.9333333333333333,
+     "contamination@5": 0.32
+    },
+    "text_level": {
+     "current@1_text": 0.20666666666666667,
+     "stale_rate_text": 0.74,
+     "hedged@1_text": 0.0,
+     "miss_rate_text": 0.05333333333333334,
+     "current@5_text": 0.88,
+     "contamination@5_text": 0.7466666666666667
+    },
+    "n_collapsed": 87,
+    "n_both_values": 112,
+    "n_updated_stale": 84,
+    "n_memories_surfaced": 280,
+    "n_id_agrees": 141,
+    "n_id_disagrees": 4,
+    "n_id_unknown": 135
+   }
+  }
+ }
+}

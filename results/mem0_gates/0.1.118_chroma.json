@@ -1,0 +1,19 @@
+{
+ "lib_version": "0.1.118",
+ "vector_store": "chroma",
+ "n_memories_held": 8,
+ "n_returned": 6,
+ "rank1_right_fact": true,
+ "retrieval_ok": true,
+ "actions_ok": true,
+ "n_silent_add": 0,
+ "n_add_calls": 16,
+ "events": {
+  "ADD": 8,
+  "UPDATE": 10
+ },
+ "hand_scored_best_cos": 0.7986721577721156,
+ "hand_scored_best_sid": "f0:2",
+ "rank1_sid": "f0:2",
+ "gate_pass": true
+}

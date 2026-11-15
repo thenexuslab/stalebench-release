@@ -1,0 +1,19 @@
+{
+ "lib_version": "0.1.118",
+ "vector_store": "faiss",
+ "n_memories_held": 14,
+ "n_returned": 2,
+ "rank1_right_fact": false,
+ "retrieval_ok": false,
+ "actions_ok": true,
+ "n_silent_add": 0,
+ "n_add_calls": 16,
+ "events": {
+  "ADD": 14,
+  "UPDATE": 2
+ },
+ "hand_scored_best_cos": 0.7986721577721156,
+ "hand_scored_best_sid": "f0:2",
+ "rank1_sid": "f4:0",
+ "gate_pass": false
+}

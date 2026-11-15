@@ -1,0 +1,144 @@
+[anchored] tuned on val: {'k': 2, 'tau': 0.6, 'ftau': 0.2}
+[anchored] langmem(qwen2.5:14b) with langmem:ollama:qwen2.5:14b over 329 statements
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 7221.53it/s]
+[1mBertModel LOAD REPORT[0m from: sentence-transformers/all-MiniLM-L6-v2
+Key                     | Status     |  | 
+------------------------+------------+--+-
+embeddings.position_ids | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+Could not apply patch: 'Martyn Lancaster' is not a valid sequence index
+Could not apply patch: can't remove a non-existent object ''
+Could not apply patch: can't remove a non-existent object ''
+Could not apply patch: 'str' object doesn't support item deletion
+Could not apply patch: member 'instance' not found in {'content': 'Synnøve Solbakken is the head of the government of Kvinnherad.'}
+Could not apply patch: can't remove a non-existent object ''
+Could not apply patch: can't remove a non-existent object ''
+Could not apply patch: can't remove a non-existent object ''
+Could not apply patch: can't remove a non-existent object ''
+Could not apply patch: can't remove a non-existent object ''
+Could not find existing schema in dict for session_31be970b-4c37-4871-b76b-d276c7a656b2
+Could not find existing schema in dict for a39973a284ef5ff0959a0f0bd076f19
+Could not apply patch: can't remove a non-existent object ''
+Could not apply patch: can't remove a non-existent object ''
+Could not apply patch: can't remove a non-existent object ''
+Could not apply patch: can't remove a non-existent object ''
+Could not find existing schema in dict for new_memory
+Could not apply patch: JsonPatchConflict("can't remove a non-existent object 'content'")
+Could not apply patch: JsonPatchConflict("can't replace a non-existent object 'content'")
+1 validation error for Memory
+content
+  Field required [type=missing, input_value={'op': 'remove', 'path': '/content'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+Could not apply patch: can't remove a non-existent object ''
+Could not find existing schema in dict for 7e33368e3de156a3a580a85628852
+Could not apply patch: can't remove a non-existent object ''
+Could not apply patch: can't remove a non-existent object ''
+Could not apply patch: can't remove a non-existent object ''
+Could not apply patch: unable to fully resolve json pointer /content/0, part 0
+Could not apply patch: can't remove a non-existent object ''
+Could not apply patch: can't remove a non-existent object ''
+Could not apply patch: member '0' not found in {'content': 'Adrian Peterson plays for the Minnesota Vikings.'}
+Could not apply patch: can't remove a non-existent object '6292563994255c6fa947edfaeefee17b'
+Could not apply patch: can't remove a non-existent object ''
+Could not apply patch: member 'related_events' not found in {'content': 'Peyton Manning has signed with Denver Broncos.'}
+Could not apply patch: member 'related_events' not found in {'content': 'Peyton Manning has signed with Denver Broncos.'}
+Could not apply patch: member 'related_events' not found in {'content': 'Peyton Manning has signed with Denver Broncos.'}
+Could not apply patch: member 'related_events' not found in {'content': 'Peyton Manning has signed with Denver Broncos.'}
+Could not apply patch: member 'related_events' not found in {'content': "Nik Stauskas has signed with Michigan Wolverines men's basketball."}
+Could not apply patch: 'str' object doesn't support item deletion
+Could not apply patch: can't remove a non-existent object ''
+Could not apply patch: member 'instance' not found in {'content': 'Pedro Martins is the head coach of Olympiacos F.C.'}
+Could not apply patch: member '-' not found in {'content': 'Deshaun Watson has signed with Houston Texans.'}
+Could not apply patch: 'Giselle Zarur' is not a valid sequence index
+Could not apply patch: 'Corrie Moreau' is not a valid sequence index
+Could not find existing schema in dict for 
+Could not apply patch: JsonPatchConflict("can't replace a non-existent object 'content'")
+Could not apply patch: JsonPointerException("member 'content' not found in {}")
+1 validation error for Memory
+content
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+1 validation error for Memory
+content
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+  current@1 0.773  contam@5 0.140  slots 327  events {'INSERT': 327, 'UPDATE': 375, 'NOOP': 16}  (11088s)
+  text-level: current@1 0.773  hedged@1 0.013  contam@5 0.173
+  [checkpoint] wrote anchored to results/stalebench_systems_langmem_qwen.json (+ contexts)
+[anchor_free] tuned on val: {'k': 2, 'tau': 0.55, 'ftau': 0.2}
+[anchor_free] langmem(qwen2.5:14b) with langmem:ollama:qwen2.5:14b over 329 statements
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 7097.08it/s]
+[1mBertModel LOAD REPORT[0m from: sentence-transformers/all-MiniLM-L6-v2
+Key                     | Status     |  | 
+------------------------+------------+--+-
+embeddings.position_ids | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+Could not apply patch: member 'related_political_figures' not found in {'content': 'Nick Foles played for the Arizona Wildcats football team as a quarterback during his college years.'}
+Could not apply patch: 'Andrea Dutton' is not a valid sequence index
+1 validation error for Memory
+content
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+1 validation error for Memory
+content
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+Could not find existing schema in dict for ab671d28-1886-4cdc-a801-e31883f1bef1
+Could not apply patch: member '-' not found in {'content': "The user's interest in political figures now includes Gabriele Albertini's affiliation with The People of Freedom."}
+Could not find existing schema in dict for 
+Could not apply patch: invalid array index '-'
+Could not apply patch: 'path' with '-' can't be applied to 'replace' operation
+Could not apply patch: 'path' with '-' can't be applied to 'replace' operation
+Could not apply patch: 'path' with '-' can't be applied to 'replace' operation
+Could not apply patch: 'str' object doesn't support item deletion
+Could not apply patch: 'Harris_affiliation' is not a valid sequence index
+Could not apply patch: 'Harris_affiliation' is not a valid sequence index
+Could not apply patch: 'Harris_affiliation' is not a valid sequence index
+Could not apply patch: 'Harris_affiliation' is not a valid sequence index
+Could not apply patch: 'Harris_affiliation' is not a valid sequence index
+Could not apply patch: invalid array index '-'
+Could not find existing schema in dict for existing
+Could not apply patch: member '-' not found in {'content': "\n  - Dawn Zimmer's role as the head of the government of Hoboken.\n  - The user's interest in governance structures includes Arayik Harutyunyan as Prime Minister of Artsakh, Synnøve Solbakken in the government of Kvinnherad, and Gabriele Albertini's affiliation with Civic Choice.\n  - Halyna Yanchenko's role as a member of the Democratic Alliance.\n  - John Finnie's political affiliation with the Scottish National Party.\n  - Karmichael Hunt's role as a player for Biarritz Olympique.\n  - Liselott Hagberg's role as the head of the government of Södermanland County.\n  - Georges Frêche's role as the head of the government of Montpellier Méditerranée Métropole.\n  - Nicky Hartery's role as the chair of CRH.\n  - Trey Gowdy's position as solicitor.\n  - Hamed Karoui's affiliation with the Constitutional Democratic Rally.\n  - Knut Arild Hareide's position as party leader.\n  - Valerie Hackl's employment by Österreichische Bundesbahnen.\n  - W. Queen's role at École polytechnique fédérale de Lausanne."}
+Could not apply patch: can't remove a non-existent object ''
+Could not apply patch: can't remove a non-existent object ''
+Could not apply patch: member '..' not found in {'content': 'Hasan Lika is the head coach of KS Vllaznia.'}
+Could not apply patch: '-12' is not a valid sequence index
+Could not apply patch: member 'instances' not found in {'content': "The user's interest in governance structures includes Andriy Shevchenko's role as the chair of Embassy of Ukraine, replacing the role previously held by Ihor Ostash. Beata Szydło holds the position of Prime Minister of Poland. Jozef Barmoš is the head coach of FK Inter Bratislava. Kosta Runjaić is the head coach of Pogoń. Mladen Dodić is the head coach of FK Radnik Surdulica. Marcelo plays for Juventus FC. Ardian Mema's role as the head coach of KF Tirana."}
+Could not apply patch: 'L. Harris' is not a valid sequence index
+Could not apply patch: 'Pavel Horváth runs the bench for 1. FK Příbram.' is not a valid sequence index
+  current@1 0.340  contam@5 0.120  slots 325  events {'INSERT': 325, 'UPDATE': 439, 'NOOP': 22}  (10904s)
+  text-level: current@1 0.413  hedged@1 0.053  contam@5 0.213
+  [checkpoint] wrote anchor_free to results/stalebench_systems_langmem_qwen.json (+ contexts)
+
+==========================================================================
+Production systems on StaleBench (150 test facts)
+==========================================================================
+
+[anchored]  329 statements
+  cosine-rag               cur@1 0.460  stale 0.533  contam@5 0.973  slots 329  [text cur@1 0.460 hedged 0.000 contam@5 0.973]
+  time-rerank              cur@1 0.920  stale 0.067  contam@5 0.973  slots 329  [text cur@1 0.920 hedged 0.000 contam@5 0.973]
+  reconsolidation          cur@1 0.893  stale 0.087  contam@5 0.147  slots 173  [text cur@1 0.913 hedged 0.000 contam@5 0.147]
+  lexical-key              cur@1 0.973  stale 0.013  contam@5 0.000  slots 150  [text cur@1 0.973 hedged 0.000 contam@5 0.007]
+  fuzzy-key                cur@1 0.987  stale 0.000  contam@5 0.000  slots 150  [text cur@1 0.987 hedged 0.000 contam@5 0.007]
+  fuzzy-rw-key             cur@1 1.000  stale 0.000  contam@5 0.000  slots 150  [text cur@1 1.000 hedged 0.000 contam@5 0.007]
+  keep-latest-oracle       cur@1 0.987  stale 0.000  contam@5 0.000  slots 150  [text cur@1 0.987 hedged 0.000 contam@5 0.007]
+  langmem(qwen2.5:14b)     cur@1 0.773  stale 0.080  contam@5 0.140  slots 327  events {'INSERT': 327, 'UPDATE': 375, 'NOOP': 16}  [text cur@1 0.773 hedged 0.013 contam@5 0.173]
+
+[anchor_free]  329 statements
+  cosine-rag               cur@1 0.140  stale 0.847  contam@5 0.927  slots 329  [text cur@1 0.140 hedged 0.000 contam@5 0.927]
+  time-rerank              cur@1 0.787  stale 0.093  contam@5 0.927  slots 329  [text cur@1 0.787 hedged 0.000 contam@5 0.927]
+  reconsolidation          cur@1 0.633  stale 0.300  contam@5 0.293  slots 200  [text cur@1 0.633 hedged 0.000 contam@5 0.320]
+  lexical-key              cur@1 0.207  stale 0.773  contam@5 0.800  slots 307  [text cur@1 0.207 hedged 0.000 contam@5 0.800]
+  fuzzy-key                cur@1 0.820  stale 0.053  contam@5 0.027  slots 152  [text cur@1 0.820 hedged 0.000 contam@5 0.027]
+  fuzzy-rw-key             cur@1 0.920  stale 0.060  contam@5 0.027  slots 152  [text cur@1 0.920 hedged 0.000 contam@5 0.027]
+  keep-latest-oracle       cur@1 0.887  stale 0.000  contam@5 0.000  slots 150  [text cur@1 0.887 hedged 0.000 contam@5 0.000]
+  langmem(qwen2.5:14b)     cur@1 0.340  stale 0.107  contam@5 0.120  slots 325  events {'INSERT': 325, 'UPDATE': 439, 'NOOP': 22}  [text cur@1 0.413 hedged 0.053 contam@5 0.213]
+
+Wrote results/stalebench_systems_langmem_qwen.json
+~/.pyenv/versions/3.12.12/lib/python3.12/multiprocessing/resource_tracker.py:279: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '

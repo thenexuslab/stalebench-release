@@ -1,0 +1,18 @@
+{
+ "lib_version": "2.0.11",
+ "vector_store": "qdrant",
+ "n_memories_held": 14,
+ "n_returned": 14,
+ "rank1_right_fact": true,
+ "retrieval_ok": true,
+ "actions_ok": true,
+ "n_silent_add": 2,
+ "n_add_calls": 16,
+ "events": {
+  "ADD": 14
+ },
+ "hand_scored_best_cos": 0.7614141529641962,
+ "hand_scored_best_sid": "f0:0",
+ "rank1_sid": "f0:0",
+ "gate_pass": true
+}

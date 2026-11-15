@@ -1,0 +1,56 @@
+[anchored] tuned on val: {'k': 2, 'tau': 0.6, 'ftau': 0.2}
+[anchored] langmem(glm-4.6) with langmem:zai:glm-4.6 over 329 statements
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 7465.88it/s]
+[1mBertModel LOAD REPORT[0m from: sentence-transformers/all-MiniLM-L6-v2
+Key                     | Status     |  | 
+------------------------+------------+--+-
+embeddings.position_ids | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+  current@1 0.800  contam@5 0.020  slots 209  events {'INSERT': 209, 'UPDATE': 230, 'NOOP': 5}  (7244s)
+  text-level: current@1 0.147  hedged@1 0.720  contam@5 0.753
+  [checkpoint] wrote anchored to results/stalebench_systems_langmem_glm.json (+ contexts)
+[anchor_free] tuned on val: {'k': 2, 'tau': 0.55, 'ftau': 0.2}
+[anchor_free] langmem(glm-4.6) with langmem:zai:glm-4.6 over 329 statements
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 7720.59it/s]
+[1mBertModel LOAD REPORT[0m from: sentence-transformers/all-MiniLM-L6-v2
+Key                     | Status     |  | 
+------------------------+------------+--+-
+embeddings.position_ids | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+Could not find existing schema in dict for a70b8c!4ddde45050bff18795f792f1eb
+  current@1 0.627  contam@5 0.053  slots 257  events {'INSERT': 257, 'UPDATE': 261, 'NOOP': 2}  (7161s)
+  text-level: current@1 0.160  hedged@1 0.493  contam@5 0.640
+  [checkpoint] wrote anchor_free to results/stalebench_systems_langmem_glm.json (+ contexts)
+
+==========================================================================
+Production systems on StaleBench (150 test facts)
+==========================================================================
+
+[anchored]  329 statements
+  cosine-rag               cur@1 0.460  stale 0.533  contam@5 0.973  slots 329  [text cur@1 0.460 hedged 0.000 contam@5 0.973]
+  time-rerank              cur@1 0.920  stale 0.067  contam@5 0.973  slots 329  [text cur@1 0.920 hedged 0.000 contam@5 0.973]
+  reconsolidation          cur@1 0.893  stale 0.087  contam@5 0.147  slots 173  [text cur@1 0.913 hedged 0.000 contam@5 0.147]
+  lexical-key              cur@1 0.973  stale 0.013  contam@5 0.000  slots 150  [text cur@1 0.973 hedged 0.000 contam@5 0.007]
+  fuzzy-key                cur@1 0.987  stale 0.000  contam@5 0.000  slots 150  [text cur@1 0.987 hedged 0.000 contam@5 0.007]
+  fuzzy-rw-key             cur@1 1.000  stale 0.000  contam@5 0.000  slots 150  [text cur@1 1.000 hedged 0.000 contam@5 0.007]
+  keep-latest-oracle       cur@1 0.987  stale 0.000  contam@5 0.000  slots 150  [text cur@1 0.987 hedged 0.000 contam@5 0.007]
+  langmem(glm-4.6)         cur@1 0.800  stale 0.027  contam@5 0.020  slots 209  events {'INSERT': 209, 'UPDATE': 230, 'NOOP': 5}  [text cur@1 0.147 hedged 0.720 contam@5 0.753]
+
+[anchor_free]  329 statements
+  cosine-rag               cur@1 0.140  stale 0.847  contam@5 0.927  slots 329  [text cur@1 0.140 hedged 0.000 contam@5 0.927]
+  time-rerank              cur@1 0.787  stale 0.093  contam@5 0.927  slots 329  [text cur@1 0.787 hedged 0.000 contam@5 0.927]
+  reconsolidation          cur@1 0.633  stale 0.300  contam@5 0.293  slots 200  [text cur@1 0.633 hedged 0.000 contam@5 0.320]
+  lexical-key              cur@1 0.207  stale 0.773  contam@5 0.800  slots 307  [text cur@1 0.207 hedged 0.000 contam@5 0.800]
+  fuzzy-key                cur@1 0.820  stale 0.053  contam@5 0.027  slots 152  [text cur@1 0.820 hedged 0.000 contam@5 0.027]
+  fuzzy-rw-key             cur@1 0.920  stale 0.060  contam@5 0.027  slots 152  [text cur@1 0.920 hedged 0.000 contam@5 0.027]
+  keep-latest-oracle       cur@1 0.887  stale 0.000  contam@5 0.000  slots 150  [text cur@1 0.887 hedged 0.000 contam@5 0.000]
+  langmem(glm-4.6)         cur@1 0.627  stale 0.073  contam@5 0.053  slots 257  events {'INSERT': 257, 'UPDATE': 261, 'NOOP': 2}  [text cur@1 0.160 hedged 0.493 contam@5 0.640]
+
+Wrote results/stalebench_systems_langmem_glm.json
+~/.pyenv/versions/3.12.12/lib/python3.12/multiprocessing/resource_tracker.py:279: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use StaleBench, please cite the paper."
+title: "StaleBench"
+type: dataset
+authors:
+  - family-names: Murshed
+    given-names: S M Mahbub
+    orcid: "https://orcid.org/0009-0001-7454-6810"
+doi: 10.5281/zenodo.24237231
+license: Apache-2.0
+preferred-citation:
+  type: conference-paper
+  title: "StaleBench: Isolating Stale Retrieval in Agent Memory, and Pricing the Fix"
+  authors:
+    - family-names: Murshed
+      given-names: S M Mahbub
+  collection-title: "Findings of the Association for Computational Linguistics: EACL 2027"
+  year: 2027
